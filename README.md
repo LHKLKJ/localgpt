@@ -30,7 +30,6 @@ In order to set your environment up to run the code here, first install all requ
 pip install -r requirements.txt
 ```
 
-
 If you want to use BLAS or Metal with [llama-cpp](<(https://github.com/abetlen/llama-cpp-python#installation-with-openblas--cublas--clblast--metal)>) you can set appropriate flags:
 
 ```shell
@@ -273,6 +272,7 @@ This is a test project to validate the feasibility of a fully local solution for
  - [Torch not compatible with CUDA enabled](https://github.com/pytorch/pytorch/issues/30664)
 
    -  Get CUDA version
+
       ```shell
       nvcc --version
       ```
