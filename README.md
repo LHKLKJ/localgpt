@@ -1,3 +1,52 @@
+# Chat with the textbook "Health Information Systems - Technological and Management Perspectives" (2023)
+
+Chat with the textbook using LLaMA 2 7b Chat 4 bit and langchain.
+This is a different approach than finetuning the language model on the textbook.
+Instead the book is transformed into an embedding.
+
+## Requirements
+
+The 4 bit 7b param model is 3.5GB in size so this needs to fit into CPU or GPU RAM.
+CPU inference is very slow, around 30s for an answer on an Intel i9-10900k.
+GPU inference requires an NVIDIA GPU with CUDA 11 installed.
+Later we can try it with the 30b model.
+
+## Resources
+
+* Konrads home desktop: 48 GB RAM, NVIDIA 3070 with 8 GB GPU RAM.
+* Konrads office desktop: 32 GB RAM, no GPU.
+* Server 1: 8xNvidia Tesla A30 with 24 GB GPU RAM
+* Server 2: 4xNvidia Tesla V100 A30 with 32 GB GPU RAM
+
+First experiments are done with Llama 2 7b on the desktop.
+Later LLaMA 2 30b can be used on the server when it comes out.
+LLaMA 2 70b would need several GPUs, not yet clear if that can be done with localGPT.
+
+## Problems
+
+* the default GGML model does not work with CUDA yet, so we use GPTQ instead
+
+### Arch Linux Support
+Arch Linux has CUDA 12 which is not supported by PyTorch.
+I tried installing CUDA 11.7 from the Arch Linux package archives but that depends on gcc 11 which depends on gcc-libs 11 and downgrading that breaks the system.
+Also tried installing gcc 11 from AUR but that was still compiling after an hour and its unclear if CUDA will actually choose the correct one if both are installed.
+I could install gcc 11 in the local Conda environment but CUDA 12 wasn't using that.
+Right now trying with cuda-11.0 and cudnn8-cuda11.0 from AUR.
+This still fails at `pip install .` in the AutoGPTQ directory version 0.2.2 with `RuntimeError: The current installed version of g++ (13.1.1) is greater than the maximum required version by CUDA 11.0. Please make sure to use an adequate version of g++ (>=5.0.0, <10.0).`.
+Manually changing the maximum g++ version in `cpp_extension.py` also produces an error, it seems to be there for a reason.
+Could be dealt with using Docker but that would make a very large container, may still be worth investigating because of the difficult setup.
+Unclear if that works though because CUDA would need to be installed in the container but it depends on system drivers.
+On systems with CUDA 11 it shouldn't be a problem.
+
+This is a fork of [localGPT](https://github.com/PromtEngineer/localGPT), original readme below with setup instructions below.
+You need some space on your drive for the model and the large libraries and dependencies like CUDA.
+Setup and run:
+
+```shell
+python ingest.py
+python run
+```
+
 # localGPT
 
 This project was inspired by the original [privateGPT](https://github.com/imartinez/privateGPT). Most of the description here is inspired by the original privateGPT.
@@ -289,7 +338,6 @@ This is a test project to validate the feasibility of a fully local solution for
          pip cache purge
          pip install torch -f https://download.pytorch.org/whl/torch_stable.html
       ```
-
 - [ERROR: pip's dependency resolver does not currently take into account all the packages that are installed](https://stackoverflow.com/questions/72672196/error-pips-dependency-resolver-does-not-currently-take-into-account-all-the-pa/76604141#76604141)
   ```shell
      pip install h5py

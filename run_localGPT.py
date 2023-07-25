@@ -2,7 +2,7 @@ import logging
 
 import click
 import torch
-#from auto_gptq import AutoGPTQForCausalLM
+from auto_gptq import AutoGPTQForCausalLM
 from huggingface_hub import hf_hub_download
 from langchain.chains import RetrievalQA
 from langchain.embeddings import HuggingFaceInstructEmbeddings
@@ -11,8 +11,8 @@ from langchain.llms import HuggingFacePipeline, LlamaCpp
 # from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain.vectorstores import Chroma
 from transformers import (
-    #AutoModelForCausalLM,
-    #AutoTokenizer,
+    AutoModelForCausalLM,
+    AutoTokenizer,
     GenerationConfig,
     LlamaForCausalLM,
     LlamaTokenizer,
@@ -221,8 +221,12 @@ def main(device_type, show_sources):
     # model_id = "TheBloke/orca_mini_3B-GGML"
     # model_basename = "orca-mini-3b.ggmlv3.q4_0.bin"
 
-    model_id = "TheBloke/Llama-2-7B-Chat-GGML"
-    model_basename = "llama-2-7b-chat.ggmlv3.q4_0.bin"
+    model_id="TheBloke/Llama-2-7b-Chat-GPTQ"
+    model_basename = "gptq_model-4bit-128g.safetensors"
+
+    # localGPT currently does not support GGML with CUDA, see https://github.com/PromtEngineer/localGPT/issues/262
+    # model_id="TheBloke/Llama-2-7B-Chat-GGML"
+    #model_basename = "llama-2-7b-chat.ggmlv3.q4_0.bin"
 
     llm = load_model(device_type, model_id=model_id, model_basename=model_basename)
 
