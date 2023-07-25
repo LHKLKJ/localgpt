@@ -1,4 +1,5 @@
 # syntax=docker/dockerfile:1
+# GPU accelerated using CUDA
 # the -devel base image may not require the g++ installation but that is 3GB larger
 FROM pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
 RUN apt-get update && apt-get install -y software-properties-common && add-apt-repository -y ppa:ubuntu-toolchain-r/test
