@@ -8,9 +8,15 @@ COPY ./requirements.txt .
 ENV CC=gcc-11
 ENV CXX=g++-11
 RUN --mount=type=cache,target=/root/.cache pip install -r requirements.txt
+COPY SOURCE_DOCUMENTS ./SOURCE_DOCUMENTS
+COPY ingest.py constants.py ./
+# Docker BuildKit does not support GPU during *docker build* time right now, only during *docker run*.
+# if this changes in the future you can `docker build --build-arg device_type=cuda  . -t localgpt`
+ARG device_type=cpu
+RUN --mount=type=cache,target=/root/.cache python ingest.py --device_type $device_type
 COPY . .
-# GPU not accessible in Docker build step
-RUN --mount=type=cache,target=/root/.cache python ingest.py --device_type cpu
-CMD ["python", "run_localGPT.py"]
+ENV device_type=cuda
+CMD python run_localGPT.py device_type=$device_type
+# build as `docker build . -t localgpt`
 # requires Nvidia container toolkit
 # run as `docker run -it --mount src="$HOME/.cache",target=/root/.cache,type=bind --gpus=all localgpt`
