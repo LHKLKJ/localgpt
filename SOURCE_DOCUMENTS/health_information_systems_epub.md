@@ -1,42 +1,39 @@
-# Health Information Systems - Technological and Management Perspectives
-3rd ed. 2023
-Alfred Winter
-Institute of Medical Informatics, Statistics and Epidemiology, Leipzig University, Leipzig, Sachsen, Germany
-Elske Ammenwerth
-Institute of Medical Informatics, UMIT TIROL - Private University for Health Sciences and Health Technology, Hall in Tirol, Austria
-Reinhold Haux
-Peter L. Reichertz Institute for Medical Informatics of TU Braunschweig and Hannover Medical School, TU Braunschweig, Braunschweig, Niedersachsen, Germany
-Michael Marschollek
-Peter L. Reichertz Institute for Medical Informatics of TU Braunschweig and Hannover Medical School, Hannover Medical School, Hannover, Niedersachsen, Germany
-Bianca Steiner
-German Foundation for the Chronically Ill, Berlin, Germany
-Franziska Jahn
-Institute of Medical Informatics, Statistics and Epidemiology, Leipzig University, Leipzig, Sachsen, Germany
-
-
-ISSN 1431-1917
-e-ISSN 2197-3741
-Health Informatics
-ISBN 978-3-031-12309-2
-e-ISBN 978-3-031-12310-8
-https://doi.org/10.1007/978-3-031-12310-8
-
+The following is the complete book "Health Information Systems - Technological and Management Perspectives" in it's 3rd edition, publication year 2023.
 
 # About the Book
 
+## The book's authors
+The book's authors together with their affiliations (place of work) are:
+
+* Alfred Winter: Institute of Medical Informatics, Statistics and Epidemiology, Leipzig University, Leipzig, Sachsen, Germany
+* Elske Ammenwerth: Institute of Medical Informatics, UMIT TIROL - Private University for Health Sciences and Health Technology, Hall in Tirol, Austria
+* Reinhold Haux: Peter L. Reichertz Institute for Medical Informatics of TU Braunschweig and Hannover Medical School, TU Braunschweig, Braunschweig, Niedersachsen, Germany
+* Michael Marschollek: Peter L. Reichertz Institute for Medical Informatics of TU Braunschweig and Hannover Medical School, Hannover Medical School, Hannover, Niedersachsen, Germany
+* Bianca Steiner: German Foundation for the Chronically Ill, Berlin, Germany
+* Franziska Jahn: Institute of Medical Informatics, Statistics and Epidemiology, Leipzig University, Leipzig, Sachsen, Germany
+
+## Unique Identifiers of the book in various schemes:
+
+* ISSN:  1431-1917
+* e-ISSN: 2197-3741
+* ISBN: 978-3-031-12309-2
+* e-ISBN: 978-3-031-12310-8
+* URL: https://doi.org/10.1007/978-3-031-12310-8
+* DOI: 10.1007/978-3-031-12310-8
+
 ## How medicine and health care must, should, may, can, and want to act and, accordingly, what health information systems must, should, may, can, and want to support and enable
-For medicine, especially for health care, its self-reflective character seems to be of particular importance to me: incorporated into our socio-cultural space, it must always consider in which image of humanity, in which range of cultural values between health and illness, between “normality” and “abnormality,” it
+For medicine, especially for health care, its self-reflective character seems to be of particular importance to me: incorporated into our socio-cultural space, it must always consider in which image of humanity, in which range of cultural values between health and illness, between "normality" and "abnormality," it
 - must act: This concerns the question of urgency for patients.
 - should act: This concerns practical aspects for patient care and medical self-conception.
 - may act: This concerns individual, socio-ethical, moral, and legal dimensions.
 - can act: This concerns medical competence and institutionalized dimensions of health care systems. And, finally,
-- wants to act: This concerns the commitment of the people involved—from health care professionals (such as physicians and nurses) to informal caregivers and to the patients themselves—taking into account their “involvements.”
+- wants to act: This concerns the commitment of the people involved—from health care professionals (such as physicians and nurses) to informal caregivers and to the patients themselves—taking into account their "involvements."
 
 With these modalities of action, medicine is not only committed to the present status but also to the prognosis (of current diseases and developments of medicine and society).
 Professor Dr. med. Klaus Gahl
 From a correspondence with Dr. Gahl in April 2020 (translated from German).
 
-Abbreviations
+## Abbreviations
 3LGM^2    Three-Layer Graph-Based Metamodel
 5G    Fifth-Generation Mobile Networks
 ADL    Archetype Definition Language
@@ -169,229 +166,228 @@ XML    Extensible Markup Language
 
 # Contents
 1 Introduction
-1.​1 Motivation and Objective of the Book
-1.​2 Life Situations
-1.​2.​1 Prevention
-1.​2.​2 Wellness
-1.​2.​3 Emergencies
-1.​2.​4 Acute Diseases
-1.​2.​5 Chronic Diseases
-1.​2.​6 Care
-1.​2.​7 Rehabilitation
-1.​2.​8 Research for Life
-1.​3 Stakeholders’ Requirements
-1.​3.​1 Requirements of Patients
-1.​3.​2 Requirements of Health care Professionals
-1.​3.​3 Requirements of Informal Caregivers
-1.​3.​4 Requirements of Researchers in Biomedicine
-1.​3.​5 Requirements of Management Staff
-1.​3.​6 Requirements of Insurance Companies
-1.​3.​7 Requirements of Governmental Bodies
-1.​3.​8 Requirements of Sponsors
-1.​3.​9 Requirements of Vendors
-1.​3.​10 Requirements of Housing Companies
-1.​3.​11 Coinciding and Contradicting Requirements between Stakeholders
-1.​4 Example
-1.​5 Exercises
-1.​5.​1 Life Situations
-1.​5.​2 Requirements of Various Stakeholders
+1.1 Motivation and Objective of the Book
+1.2 Life Situations
+1.2.1 Prevention
+1.2.2 Wellness
+1.2.3 Emergencies
+1.2.4 Acute Diseases
+1.2.5 Chronic Diseases
+1.2.6 Care
+1.2.7 Rehabilitation
+1.2.8 Research for Life
+1.3 Stakeholders’ Requirements
+1.3.1 Requirements of Patients
+1.3.2 Requirements of Health care Professionals
+1.3.3 Requirements of Informal Caregivers
+1.3.4 Requirements of Researchers in Biomedicine
+1.3.5 Requirements of Management Staff
+1.3.6 Requirements of Insurance Companies
+1.3.7 Requirements of Governmental Bodies
+1.3.8 Requirements of Sponsors
+1.3.9 Requirements of Vendors
+1.3.10 Requirements of Housing Companies
+1.3.11 Coinciding and Contradicting Requirements between Stakeholders
+1.4 Example
+1.5 Exercises
+1.5.1 Life Situations
+1.5.2 Requirements of Various Stakeholders
 Reference
 2 Basic Concepts and Terms
-2.​1 Introduction
-2.​2 Data, Information, and Knowledge
-2.​3 Health care Settings
-2.​4 Systems and Subsystems
-2.​5 Information Systems
-2.​6 Health Information Systems
-2.​7 Information Logistics in Health Information Systems
-2.​8 Functions, Processes, and Entity Types in Health care Settings
-2.​9 Application Systems, Services, and Physical Data Processing Systems in Health Information Systems
-2.​10 Electronic Health Records as a Part of Health Information Systems
-2.​11 Architecture and Infrastructure of Health Information Systems
-2.​12 Management of Information Systems
-2.​13 Modeling Information Systems
+2.1 Introduction
+2.2 Data, Information, and Knowledge
+2.3 Health care Settings
+2.4 Systems and Subsystems
+2.5 Information Systems
+2.6 Health Information Systems
+2.7 Information Logistics in Health Information Systems
+2.8 Functions, Processes, and Entity Types in Health care Settings
+2.9 Application Systems, Services, and Physical Data Processing Systems in Health Information Systems
+2.10 Electronic Health Records as a Part of Health Information Systems
+2.11 Architecture and Infrastructure of Health Information Systems
+2.12 Management of Information Systems
+2.13 Modeling Information Systems
 2.14 3LGM^2: A Metamodel for Information System Architectures
-2.​14.​1 Domain Layer
-2.​14.​2 Logical Tool Layer
-2.​14.​3 Physical Tool Layer
-2.​14.​4 Inter-layer Relationships
+2.14.1 Domain Layer
+2.14.2 Logical Tool Layer
+2.14.3 Physical Tool Layer
+2.14.4 Inter-layer Relationships
 2.14.5 First Steps of 3LGM^2 Modeling
-2.​15 Example
-2.​16 Exercises
-2.​16.​1 Data, Information, and Knowledge
-2.​16.​2 Systems and Subsystems
-2.​16.​3 Information Logistics
+2.15 Example
+2.16 Exercises
+2.16.1 Data, Information, and Knowledge
+2.16.2 Systems and Subsystems
+2.16.3 Information Logistics
 2.16.4 3LGM^2 Metamodel
 2.16.5 Interpreting 3LGM^2 Models
 References
-3 Technological Perspective:​ Architecture, Integration, and Standards
-3.​1 Introduction
-3.​2 Domain Layer:​ Data to be Processed and Provided
-3.​2.​1 Personal vs.​ Non-personal Data
-3.​2.​2 Standardized vs.​ Non-standardized Data
-3.​2.​3 Entity Types
-3.​3 Domain Layer:​ Functions to Be Supported
-3.​3.​1 Functions to Be Performed by Patients and Informal Caregivers
-3.​3.​2 Functions to Be Performed by Health care Professionals and Other Staff in Health care Facilities
-3.​4 Logical Tool Layer:​ Types of Application Systems in Health care Facilities
-3.​4.​1 Patient Administration Systems
-3.​4.​2 Medical Documentation and Management Systems (MDMS)
-3.​4.​3 Nursing Management and Documentation Systems (NMDS)
-3.​4.​4 Computerized Provider Order Entry Systems (CPOE)
-3.​4.​5 Radiology Information Systems (RIS)
-3.​4.​6 Picture Archiving and Communication Systems (PACS)
-3.​4.​7 Laboratory Information Systems (LIS)
-3.​4.​8 Operation Management Systems (OMS)
-3.​4.​9 Patient Data Management Systems (PDMS)
-3.​4.​10 Enterprise Resource Planning Systems (ERPS)
-3.​4.​11 Data Warehouse Systems (DWS)
-3.​4.​12 Document Archiving Systems (DAS)
-3.​4.​13 Application Systems for Patients and Informal Caregivers
-3.​4.​14 Other Application Systems
-3.​4.​15 Clinical Information Systems (CIS) and Electronic Health Record Systems (EHRS) as Composite Application Systems
-3.​5 Logical Tool Layer:​ Data Integrity
-3.​6 Logical Tool Layer:​ Architectural Styles
-3.​6.​1 Number of Databases:​ Central vs.​ Distributed
-3.​6.​2 Number of Application Components:​ Monolithic vs.​ Modular
-3.​6.​3 Number of Application Software Products and Vendors:​ All-in-One vs.​ Best-of-Breed
-3.​6.​4 Communication Pattern:​ Spaghetti vs.​ Star
-3.​7 Logical Tool Layer:​ Interoperability​ and Standards
-3.​7.​1 Aspects of Interoperability​
-3.​7.​2 Interoperability​ Standards
-3.​8 Logical Tool Layer:​ Types of Integration
-3.​8.​1 Data Integration
-3.​8.​2 Semantic Integration
-3.​8.​3 User Interface Integration
-3.​8.​4 Context Integration
-3.​8.​5 Feature Integration
-3.​8.​6 Process Integration
-3.​9 Logical Tool Layer:​ Integration Technologies and Tools
-3.​9.​1 Transaction Management
-3.​9.​2 Communication Server
-3.​9.​3 Open Platforms and Vendor-Neutral Archives
-3.​9.​4 Service-Oriented Architectures
-3.​10 Physical Tool Layer
-3.​10.​1 Physical Data Processing Systems
-3.​10.​2 Physical Interoperability​ and Integration by Communication Networks
-3.​10.​3 Data Centers
-3.​10.​4 Data Security
-3.​11 Examples
-3.​11.​1 A Reference Model for the Domain Layer of Hospital Functions
-3.​11.​2 The Domain Layer of CityCare
-3.​11.​3 The Logical Tool Layer of CityCare
-3.​11.​4 The Physical Tool Layer of CityCare
-3.​12 Exercises
-3.​12.​1 Domain Layer:​ Differences in Hospital Functions
-3.​12.​2 Domain Layer:​ Different Health care Professional Groups and Health care Facilities
-3.​12.​3 Domain Layer:​ The Patient Entity Type
-3.​12.​4 Logical Tool Layer:​ Communication Server
-3.​12.​5 Logical Tool Layer:​ Integration from the User’s Point of View
-3.​12.​6 CityCare
+3 Technological Perspective: Architecture, Integration, and Standards
+3.1 Introduction
+3.2 Domain Layer: Data to be Processed and Provided
+3.2.1 Personal vs. Non-personal Data
+3.2.2 Standardized vs. Non-standardized Data
+3.2.3 Entity Types
+3.3 Domain Layer: Functions to Be Supported
+3.3.1 Functions to Be Performed by Patients and Informal Caregivers
+3.3.2 Functions to Be Performed by Health care Professionals and Other Staff in Health care Facilities
+3.4 Logical Tool Layer: Types of Application Systems in Health care Facilities
+3.4.1 Patient Administration Systems
+3.4.2 Medical Documentation and Management Systems (MDMS)
+3.4.3 Nursing Management and Documentation Systems (NMDS)
+3.4.4 Computerized Provider Order Entry Systems (CPOE)
+3.4.5 Radiology Information Systems (RIS)
+3.4.6 Picture Archiving and Communication Systems (PACS)
+3.4.7 Laboratory Information Systems (LIS)
+3.4.8 Operation Management Systems (OMS)
+3.4.9 Patient Data Management Systems (PDMS)
+3.4.10 Enterprise Resource Planning Systems (ERPS)
+3.4.11 Data Warehouse Systems (DWS)
+3.4.12 Document Archiving Systems (DAS)
+3.4.13 Application Systems for Patients and Informal Caregivers
+3.4.14 Other Application Systems
+3.4.15 Clinical Information Systems (CIS) and Electronic Health Record Systems (EHRS) as Composite Application Systems
+3.5 Logical Tool Layer: Data Integrity
+3.6 Logical Tool Layer: Architectural Styles
+3.6.1 Number of Databases: Central vs. Distributed
+3.6.2 Number of Application Components: Monolithic vs. Modular
+3.6.3 Number of Application Software Products and Vendors: All-in-One vs. Best-of-Breed
+3.6.4 Communication Pattern: Spaghetti vs. Star
+3.7 Logical Tool Layer: Interoperability and Standards
+3.7.1 Aspects of Interoperability
+3.7.2 Interoperability Standards
+3.8 Logical Tool Layer: Types of Integration
+3.8.1 Data Integration
+3.8.2 Semantic Integration
+3.8.3 User Interface Integration
+3.8.4 Context Integration
+3.8.5 Feature Integration
+3.8.6 Process Integration
+3.9 Logical Tool Layer: Integration Technologies and Tools
+3.9.1 Transaction Management
+3.9.2 Communication Server
+3.9.3 Open Platforms and Vendor-Neutral Archives
+3.9.4 Service-Oriented Architectures
+3.10 Physical Tool Layer
+3.10.1 Physical Data Processing Systems
+3.10.2 Physical Interoperability and Integration by Communication Networks
+3.10.3 Data Centers
+3.10.4 Data Security
+3.11 Examples
+3.11.1 A Reference Model for the Domain Layer of Hospital Functions
+3.11.2 The Domain Layer of CityCare
+3.11.3 The Logical Tool Layer of CityCare
+3.11.4 The Physical Tool Layer of CityCare
+3.12 Exercises
+3.12.1 Domain Layer: Differences in Hospital Functions
+3.12.2 Domain Layer: Different Health care Professional Groups and Health care Facilities
+3.12.3 Domain Layer: The Patient Entity Type
+3.12.4 Logical Tool Layer: Communication Server
+3.12.5 Logical Tool Layer: Integration from the User’s Point of View
+3.12.6 CityCare
 References
-4 Management Perspective:​ Scopes and Tasks of Managing Health Information Systems
-4.​1 Introduction
-4.​2 Dimensions of Managing Health Information Systems
-4.​3 Strategic Management of Information Systems
-4.​3.​1 Strategic Planning
-4.​3.​2 Strategic Monitoring
-4.​3.​3 Strategic Directing
-4.​4 Tactical Management of Information Systems
-4.​5 Operational Management of Information Systems
-4.​6 Organizational Structures for the Management of Health Information Systems
-4.​6.​1 IT Governance and Organizational Structures for Information Management
-4.​6.​2 Chief Information Officer (CIO)
-4.​6.​3 Information Management Board (IT Steering Committee)
-4.​6.​4 Information Management Department
-4.​7 Balance as a Challenge for the Management of Health Information Systems
-4.​7.​1 Balance of Homogeneity and Heterogeneity
-4.​7.​2 Balance of Computer-Based and Paper-Based Tools
-4.​7.​3 Balance of Data Security and Working Processes
-4.​7.​4 Balance of Functional Leanness and Functional Redundancy
-4.​7.​5 Balance of Documentation Quality and Documentation Efforts
-4.​8 Examples
-4.​8.​1 Strategic Information Management Plan of Ploetzberg Hospital
-4.​8.​2 Health Information System Key Performance Indicators (KPIs) of Ploetzberg Hospital
-4.​8.​3 Organization of the Management of the Ploetzberg Hospital Information System
-4.​9 Exercises
-4.​9.​1 Activities of Managing Information Systems
-4.​9.​2 Strategic Alignment of Hospital Goals and Information Management Goals
-4.​9.​3 Structure of a Strategic Information Management Plan
-4.​9.​4 An Information-Processing Monitoring Report
-4.​9.​5 Relevant Key Performance Indicators (KPIs)
-4.​9.​6 Organizing User Feedback
-4.​9.​7 Information Systems Managers as Architects
+4 Management Perspective: Scopes and Tasks of Managing Health Information Systems
+4.1 Introduction
+4.2 Dimensions of Managing Health Information Systems
+4.3 Strategic Management of Information Systems
+4.3.1 Strategic Planning
+4.3.2 Strategic Monitoring
+4.3.3 Strategic Directing
+4.4 Tactical Management of Information Systems
+4.5 Operational Management of Information Systems
+4.6 Organizational Structures for the Management of Health Information Systems
+4.6.1 IT Governance and Organizational Structures for Information Management
+4.6.2 Chief Information Officer (CIO)
+4.6.3 Information Management Board (IT Steering Committee)
+4.6.4 Information Management Department
+4.7 Balance as a Challenge for the Management of Health Information Systems
+4.7.1 Balance of Homogeneity and Heterogeneity
+4.7.2 Balance of Computer-Based and Paper-Based Tools
+4.7.3 Balance of Data Security and Working Processes
+4.7.4 Balance of Functional Leanness and Functional Redundancy
+4.7.5 Balance of Documentation Quality and Documentation Efforts
+4.8 Examples
+4.8.1 Strategic Information Management Plan of Ploetzberg Hospital
+4.8.2 Health Information System Key Performance Indicators (KPIs) of Ploetzberg Hospital
+4.8.3 Organization of the Management of the Ploetzberg Hospital Information System
+4.9 Exercises
+4.9.1 Activities of Managing Information Systems
+4.9.2 Strategic Alignment of Hospital Goals and Information Management Goals
+4.9.3 Structure of a Strategic Information Management Plan
+4.9.4 An Information-Processing Monitoring Report
+4.9.5 Relevant Key Performance Indicators (KPIs)
+4.9.6 Organizing User Feedback
+4.9.7 Information Systems Managers as Architects
 References
 5 Quality of Health Information Systems
-5.​1 Introduction
-5.​2 Quality of Management of Information Systems
-5.​2.​1 Quality of IT Governance
-5.​2.​2 Quality of Strategic Management of Information Systems
-5.​2.​3 Quality of Tactical Management of Information Systems
-5.​2.​4 Quality of Operational Management of Information Systems
-5.​3 Quality of Architectures and Infrastructures
-5.​3.​1 Quality at the Domain Layer
-5.​3.​2 Quality at the Logical Tool Layer
-5.​3.​3 Quality at the Physical Tool Layer
-5.​3.​4 Quality of Integration
-5.​4 Evaluating the Quality of Health Information Systems
-5.​4.​1 Identifying the Evaluation Question
-5.​4.​2 Deciding on the Study Design
-5.​4.​3 Collecting Quantitative Data
-5.​4.​4 Collecting Qualitative Data
-5.​4.​5 Answering the Evaluation Questions
-5.​5 Examples
-5.​5.​1 Unintended Effects of a Computerized Physician Order Entry Nearly Hard-Stop Alert
-5.​5.​2 Clinical Decision Support for Worker Health:​ A Five-Site Qualitative Needs Assessment in Primary Care Setting
-5.​5.​3 Certification of Health Information Systems
-5.​6 Exercises
-5.​6.​1 Quality of Integration
-5.​6.​2 Data Collection in Evaluation Studies
-5.​6.​3 Study Design in Evaluation Studies
+5.1 Introduction
+5.2 Quality of Management of Information Systems
+5.2.1 Quality of IT Governance
+5.2.2 Quality of Strategic Management of Information Systems
+5.2.3 Quality of Tactical Management of Information Systems
+5.2.4 Quality of Operational Management of Information Systems
+5.3 Quality of Architectures and Infrastructures
+5.3.1 Quality at the Domain Layer
+5.3.2 Quality at the Logical Tool Layer
+5.3.3 Quality at the Physical Tool Layer
+5.3.4 Quality of Integration
+5.4 Evaluating the Quality of Health Information Systems
+5.4.1 Identifying the Evaluation Question
+5.4.2 Deciding on the Study Design
+5.4.3 Collecting Quantitative Data
+5.4.4 Collecting Qualitative Data
+5.4.5 Answering the Evaluation Questions
+5.5 Examples
+5.5.1 Unintended Effects of a Computerized Physician Order Entry Nearly Hard-Stop Alert
+5.5.2 Clinical Decision Support for Worker Health: A Five-Site Qualitative Needs Assessment in Primary Care Setting
+5.5.3 Certification of Health Information Systems
+5.6 Exercises
+5.6.1 Quality of Integration
+5.6.2 Data Collection in Evaluation Studies
+5.6.3 Study Design in Evaluation Studies
 References
 6 Information Systems for Specific Health Care and Research Settings
-6.​1 Introduction
-6.​2 Information Systems in Hospitals
-6.​2.​1 Characteristics of Hospitals
-6.​2.​2 Technological Perspective
-6.​2.​3 Management Perspective
-6.​3 Information Systems in Nursing Homes
-6.​3.​1 Characteristics of Nursing Homes
-6.​3.​2 Technological Perspective
-6.​3.​3 Management Perspective
-6.​4 Information Systems in Medical Offices
-6.​4.​1 Characteristics of Medical Offices
-6.​4.​2 Technological Perspective
-6.​4.​3 Management Perspective
-6.​5 Information Systems in Ambulatory Nursing Organizations
-6.​5.​1 Characteristics of Ambulatory Nursing Organization
-6.​5.​2 Technological Perspective
-6.​5.​3 Management Perspective
-6.​6 Information Systems in Medical Research Facilities
-6.​6.​1 Characteristics of Medical Research Facilities
-6.​6.​2 Technological Perspective
-6.​6.​3 Management Perspective
-6.​7 Information Systems in Other Health care Settings
-6.​7.​1 Characteristics of Other Health care Settings
-6.​7.​2 Technological Perspective
-6.​7.​3 Management Perspective
-6.​8 Information Systems in Personal Environments
-6.​8.​1 Characteristics of Personal Environments as Health care Settings
-6.​8.​2 Technological Perspective
-6.​8.​3 Management Perspective
-6.​9 Information Systems in States and Regions
-6.​9.​1 Characteristics of States and Regions as Health care Settings
-6.​9.​2 Technological Perspective
-6.​9.​3 Management Perspective
-6.​10 Life Situations and Their Consequences for Orchestrating Services in Transinstitution​al Health Information Systems
-6.​11 Example
-6.​12 Exercises
-6.​12.​1 Research Architecture
-6.​12.​2 Medical Admission
+6.1 Introduction
+6.2 Information Systems in Hospitals
+6.2.1 Characteristics of Hospitals
+6.2.2 Technological Perspective
+6.2.3 Management Perspective
+6.3 Information Systems in Nursing Homes
+6.3.1 Characteristics of Nursing Homes
+6.3.2 Technological Perspective
+6.3.3 Management Perspective
+6.4 Information Systems in Medical Offices
+6.4.1 Characteristics of Medical Offices
+6.4.2 Technological Perspective
+6.4.3 Management Perspective
+6.5 Information Systems in Ambulatory Nursing Organizations
+6.5.1 Characteristics of Ambulatory Nursing Organization
+6.5.2 Technological Perspective
+6.5.3 Management Perspective
+6.6 Information Systems in Medical Research Facilities
+6.6.1 Characteristics of Medical Research Facilities
+6.6.2 Technological Perspective
+6.6.3 Management Perspective
+6.7 Information Systems in Other Health care Settings
+6.7.1 Characteristics of Other Health care Settings
+6.7.2 Technological Perspective
+6.7.3 Management Perspective
+6.8 Information Systems in Personal Environments
+6.8.1 Characteristics of Personal Environments as Health care Settings
+6.8.2 Technological Perspective
+6.8.3 Management Perspective
+6.9 Information Systems in States and Regions
+6.9.1 Characteristics of States and Regions as Health care Settings
+6.9.2 Technological Perspective
+6.9.3 Management Perspective
+6.10 Life Situations and Their Consequences for Orchestrating Services in Transinstitutional Health Information Systems
+6.11 Example
+6.12 Exercises
+6.12.1 Research Architecture
+6.12.2 Medical Admission
 References
 Solutions to Exercises
 Glossary
 Index
-
 
 # 1. Introduction
 ## 1.1 Motivation and Objective of the Book
@@ -402,7 +398,7 @@ And good health care is an important prerequisite for good health.
 Well-built and well-managed health information systems constitute an essential part of providing good health care.
 Health care is delivered for people by people.
 Health care starts when people are born (even earlier) and ends when people pass away.
-Sometimes, the relative share of health care in our lives appears negligible, for example, when we are in good health, living our “normal daily lives.” Sometimes, the relative share of health care is intensive, for example, for persons suffering from a severe acute disease and as inpatients in hospitals.
+Sometimes, the relative share of health care in our lives appears negligible, for example, when we are in good health, living our "normal daily lives." Sometimes, the relative share of health care is intensive, for example, for persons suffering from a severe acute disease and as inpatients in hospitals.
 Sometimes, it is in between, for example, for persons with chronic diseases needing medication or other therapeutic measures on a regular basis.
 
 The authors of this book have been involved in managing health information systems for many years, some of us for decades.
@@ -438,14 +434,14 @@ This view may be limited, as life is much more, but it is useful for our topic o
 
 ### 1.2.1 Prevention
 The World Health Organization’s constitution defines health as a state of complete physical, mental, and social well-being [1]. Living in good health is by no means a given; it must be achieved or preserved by respective measures.
-In health care, many of these measures can be subsumed under the term “prevention” or, more precisely, primary prevention.
+In health care, many of these measures can be subsumed under the term "prevention" or, more precisely, primary prevention.
 In addition to primary prevention (prevention of diseases), the terms secondary prevention (early detection and timely treatment of diseases) and tertiary prevention (reduction of negative implications of long term, usually chronic diseases) are well established and used.
 Prevention mostly takes place in our normal daily lives, for example, at the locations where we live and work.
 Tertiary prevention may also coincide with rehabilitation.
 
 ### 1.2.2 Wellness
 Wellness is a term related to prevention, as it also focuses on living in good health.
-In the context of wellness, the term “fitness” can also be found.
+In the context of wellness, the term "fitness" can also be found.
 Wellness and fitness activities usually take place in our normal daily lives and at the locations where we live and work.
 Sometimes, wellness activities are done at wellness centers (e.g., hotels that are specialized in this field). Sometimes, fitness activities are done at sports centers and recreational parks.
 
@@ -459,12 +455,12 @@ Persons suffering from acute diseases also step out of their normal daily lives,
 With respect to these diseases, these persons have become patients.
 Depending on the kind and severity of such an acute disease, patients may, among other things, be treated as outpatients in medical offices or as inpatients in hospitals.
 For outpatients, diagnosis and therapy may take place within these offices or at the locations where the patients live.
-If diagnosis and therapy are performed at a distance, these activities are usually subsumed under terms “telehealth” and “telemedicine.”
+If diagnosis and therapy are performed at a distance, these activities are usually subsumed under terms "telehealth" and "telemedicine."
 
 ### 1.2.5 Chronic Diseases
 The life situations of patients suffering from chronic diseases can be more or less viewed similarly to those described for patients with acute diseases.
 In chronic situations, long-term treatment and long-term care is needed, and health care monitoring becomes more important here.
-If this monitoring is done at a distance, these activities are usually also subsumed under the term “telemonitoring.”
+If this monitoring is done at a distance, these activities are usually also subsumed under the term "telemonitoring."
 
 ### 1.2.6 Care
 Life situations primarily related to care but not necessarily related to treating diseases are often characterized by physical and mental functional deficits of the affected persons that could lead to frailty, for example.
@@ -546,7 +542,7 @@ This can involve providing timely payment to health care facilities and controll
 This may also comprise informing their members on health care matters and exploring and promoting new, improved health care processes.
 
 Requirements that insurance companies have of health information systems include being able to carry out these tasks efficiently and in good quality.
-Insurance companies want to be able to verify whether payments that were made were actually used for “their” members and that these members were actually insured at the time of treatment.
+Insurance companies want to be able to verify whether payments that were made were actually used for "their" members and that these members were actually insured at the time of treatment.
 
 ### 1.3.7 Requirements of Governmental Bodies
 Governmental bodies with tasks related to health care often involve ministries or departments of health.
@@ -643,7 +639,7 @@ However, physicians and nurses may want to discuss the findings with the patient
 Therefore, the health information system must be able to provide detailed information to physicians and nurses, but it must be able to only present confirmed information to the patient (e.g., via a patient portal).
 
 #### Reference
-1. World Health Organization (WHO) Constitution. (1946, July 22). https://​www.​who.​int/​about/​governance/​constitution. Accessed 15 Jan 2023.
+1. World Health Organization (WHO) Constitution. (1946, July 22). https://www.who.int/about/governance/constitution. Accessed 15 Jan 2023.
 
 # 2. Basic Concepts and Terms
 ## 2.1 Introduction
@@ -665,40 +661,40 @@ After reading this chapter, you should be able to
 - define management of information systems, and
 - describe and model health information systems with the help of the three-layer graph-based metamodel.
 
-Please note that the terms highlighted in italics are terms from the glossary or represent functions or application system types (Sects. 3.​3 and 3.​4).
+Please note that the terms highlighted in italics are terms from the glossary or represent functions or application system types (Sects. 3.3 and 3.4).
 
 ## 2.2 Data, Information, and Knowledge
 There are several definitions of data, information, and knowledge.
 In this chapter, we introduce pragmatic definitions which help to distinguish the three concepts from each other.
 
-Assume a physician at Ploetzberg Hospital finds a note on her desk that says “Russo”, “8.5”, and “++”. These characters and numbers written on the note are data.
+Assume a physician at Ploetzberg Hospital finds a note on her desk that says "Russo", "8.5", and "++". These characters and numbers written on the note are data.
 
 `Data are characters, discrete numbers, or continuous signals to be processed in information systems.`
 `Metadata is data about data. Metadata provides information about one or more aspects of data such as the purpose of the data, author and time of creation, used standards, or file size.`
 
 Data cannot be interpreted by a person without knowledge about the documentation context.
 To be reinterpretable, there must be an agreement on how data represent information.
-After the physician found the note saying “Russo”, “8.5”, and “++”, she meets a nurse who tells her that the note documents the fasting blood sugar level of the patient Jakub Russo.
+After the physician found the note saying "Russo", "8.5", and "++", she meets a nurse who tells her that the note documents the fasting blood sugar level of the patient Jakub Russo.
 Now the physician can interpret the note.
-“Jakub Russo has a fasting blood sugar level of 8.5 mmol/L” is health-related information about the patient Jakub Russo.
+"Jakub Russo has a fasting blood sugar level of 8.5 mmol/L" is health-related information about the patient Jakub Russo.
 
 There is no unique definition of information.
 Depending on the point of view, the definition may deal with a syntactic aspect (the structure), a semantic aspect (the meaning), or a pragmatic aspect (the intention or goal of information). We want to define information as follows:
 
 `Information is a context-specific fact about entities such as events, things, persons, processes, ideas, or concepts. Information is represented by data.`
 
-What does the symbol “++” on the note mean? The physician can interpret this data because she has knowledge about blood sugar levels.
+What does the symbol "++" on the note mean? The physician can interpret this data because she has knowledge about blood sugar levels.
 She knows that fasting blood sugar levels below 5.5 mmol/L are normal, from 5.6 to 6.9 mmol/L are an indicator for prediabetes, and above 7.0 are an indicator of diabetes.
 
 `Knowledge is general information about concepts in a certain (scientific or professional) domain (e.g., knowledge about diseases or therapeutic methods) at a certain time.`
 
 Knowledge as general information contrasts with specific information about particular individuals of the domain (e.g., information about a patient). This means that, due to the physician’s general knowledge about diabetes symptoms, she can conclude that Jakub Russo suffers from diabetes, which, in turn, is information about Jakub Russo.
 
-Although a paper note saying “Russo”, “8.5”, and “++”, and its subsequent interpretation, is not an example of systematic data, information, and knowledge processing in health care, it may be helpful to understand the difference between data, information, and knowledge.
+Although a paper note saying "Russo", "8.5", and "++", and its subsequent interpretation, is not an example of systematic data, information, and knowledge processing in health care, it may be helpful to understand the difference between data, information, and knowledge.
 
 However, in the context of health information systems and beyond, it is sometimes difficult to distinguish between the processing of data and information.
-Does an application system for patient administration process data or information during patient admission? Do physicians process data or information when they make a diagnosis? Throughout this book, we use the terms “data,” “information,” and “knowledge” as precisely as possible and want to emphasize the differences between them.
-Therefore, the reader should be aware that we have given careful thought to the use of terms containing “data,” “information,” and “knowledge.”
+Does an application system for patient administration process data or information during patient admission? Do physicians process data or information when they make a diagnosis? Throughout this book, we use the terms "data," "information," and "knowledge" as precisely as possible and want to emphasize the differences between them.
+Therefore, the reader should be aware that we have given careful thought to the use of terms containing "data," "information," and "knowledge."
 
 ## 2.3 Health care Settings
 In accordance with the World Health Organization (WHO) [1], we regard settings as places, social contexts, or facilities where people actively use and shape the environment and thus create or solve problems.
@@ -723,15 +719,15 @@ A system can be divided into subsystems that comprise a subset of the components
 For example, the sympathetic nervous system is a subsystem of the nervous system. A subsystem of a hospital is, for example, a ward with its staff and patients.
 Subsystems themselves are again systems.
 
-For professionals, however, the term “system” is often not specific enough and needs to be refined in order to avoid misunderstandings (“If you don’t know what it is, call it a system.”).
+For professionals, however, the term "system" is often not specific enough and needs to be refined in order to avoid misunderstandings ("If you don’t know what it is, call it a system.").
 
 ## 2.5 Information Systems
-Focusing on processing, storing, and providing data, information, and knowledge in settings leads to the term “information system.”
+Focusing on processing, storing, and providing data, information, and knowledge in settings leads to the term "information system."
 
 `An information system is defined as that socio-technical subsystem of a setting which comprises all data, information, and knowledge processing as well as the associated human or technical actors in their respective data, information, and knowledge processing roles.`
 
 As stated above, if a (human-made) system consists of both human and technical components, it can be called a socio-technical system.
-But what does “socio-technical” mean when looking at the information system of a given setting? “Socio” refers to the people involved in data and information processing (e.g., health care professionals, patients, medical or health informaticians), whereas “technical” refers to tools such as computers, software, telephones, and paper-based patient records.
+But what does "socio-technical" mean when looking at the information system of a given setting? "Socio" refers to the people involved in data and information processing (e.g., health care professionals, patients, medical or health informaticians), whereas "technical" refers to tools such as computers, software, telephones, and paper-based patient records.
 Thus, when considering the information system of a setting, the people and tools in this setting are considered only in their role as information processors, carrying out specific actions following established rules. A physician carrying out medical admissions of patients in a hospital, for example, follows established rules for interviewing and examining the patients and documenting their answers in medical documentation and management systems (MDMS).
 
 An information system can be divided into subsystems called sub-information systems.
@@ -740,7 +736,7 @@ Information systems of health care settings may also be divided by organizationa
 
 ## 2.6 Health Information Systems
 Health information systems support health care professionals working in health care facilities as well as healthy or sick persons in their different life situations.
-The life situations as introduced in Sect. 1.​2 are linked to various health care settings, such as health care facilities, where prevention, patient care, or rehabilitation are carried out.
+The life situations as introduced in Sect. 1.2 are linked to various health care settings, such as health care facilities, where prevention, patient care, or rehabilitation are carried out.
 Such situations are also linked to the personal home environment, where people care for their own health or for the health of their relatives and where they solve health-related problems.
 
 Obviously, health care cannot be considered an isolated procedure taking place in one health care facility (e.g., one hospital or one medical office). Instead, health care is a patient-oriented process encompassing prevention, diagnosis, and therapy going beyond the facilities’ boundaries and integrating the home environment.
@@ -756,7 +752,7 @@ With the definition of information systems in mind, a health information system 
 A health information system that uses computer-based data processing and communication tools is called a computer-based health information system.
 Please note that health information systems typically comprise both computer-based as well as non-computer-based sub-information systems.
 
-If we refer to the information system of a certain health care facility, such as a hospital or a medical office, we can use the more specific terms “hospital information system” or “medical office information system,” respectively.
+If we refer to the information system of a certain health care facility, such as a hospital or a medical office, we can use the more specific terms "hospital information system" or "medical office information system," respectively.
 The information system of a health care network can be called a transinstitutional health information system (tHIS).
 
 As a consequence of this definition of a health information system, a health care setting has a health information system from the beginning of its existence.
@@ -782,7 +778,7 @@ We can summarize this under the term information and knowledge logistics.
 
 `Information and knowledge logistics aims at making the right information and knowledge available at the right time, at the right place, to the right people, and in the right form so that these people can make the right decisions.`
 
-So what is meant by the “right place”? Persons responsible for information and knowledge logistics in health information systems must consider various areas of health care settings.
+So what is meant by the "right place"? Persons responsible for information and knowledge logistics in health information systems must consider various areas of health care settings.
 Health care networks, for example, can consist of
 
 - hospitals,
@@ -791,11 +787,11 @@ Health care networks, for example, can consist of
 - nursing homes or ambulatory nursing organizations, and
 - personal environments, especially patients’ homes.
 
-Who are the “right people” to be provided with the “right information and knowledge”? Obviously, the most important people in a health care setting are the patients and, in a certain respect, their informal caregivers such as spouses or other close relatives.
+Who are the "right people" to be provided with the "right information and knowledge"? Obviously, the most important people in a health care setting are the patients and, in a certain respect, their informal caregivers such as spouses or other close relatives.
 The most important groups of people working in health care settings are physicians, nurses, midwives, pharmacists, administrative staff, technical staff, medical informaticians, or health information management staff and managers.
 Large facilities, such as university medical centers, are managed by a board of directors.
 
-Within each of these stakeholder groups, different needs and demands on the health information system may exist, depending on the role, tasks, and responsibilities (Sect. 1.​3). Ward physicians, for example, require different information than physicians working in service units or in a medical office.
+Within each of these stakeholder groups, different needs and demands on the health information system may exist, depending on the role, tasks, and responsibilities (Sect. 1.3). Ward physicians, for example, require different information than physicians working in service units or in a medical office.
 Patients sometimes need similar information as physicians but in a different form.
 
 ## 2.8 Functions, Processes, and Entity Types in Health care Settings
@@ -805,18 +801,18 @@ For this reason, we introduce the concepts of entity, entity type, function, pro
 
 Entities are excerpts of the real or conceivable world.
 
-Think back to the “Russo example” from Sect. 1.​4. After his stay in the hospital, Mr. Russo’s GP Dr. Andersson receives discharge letters from both Ploetzberg Hospital and the Kreikebohm Rehabilitation Centre.
-The “patient Mr. Russo” and the “discharge letter for Mr. Russo from 2020-08-15” are examples of entities.
+Think back to the "Russo example" from Sect. 1.4. After his stay in the hospital, Mr. Russo’s GP Dr. Andersson receives discharge letters from both Ploetzberg Hospital and the Kreikebohm Rehabilitation Centre.
+The "patient Mr. Russo" and the "discharge letter for Mr. Russo from 2020-08-15" are examples of entities.
 
-`An entity type is the set of virtual or physical entities that have certain properties in common (e.g., “discharge letter” or “patient”).`
+`An entity type is the set of virtual or physical entities that have certain properties in common (e.g., "discharge letter" or "patient").`
 
-Entity types form a “unit of thought” when talking about similar entities.
-Thus, both the discharge letter for Mr. Russo and a discharge letter for another patient, Mrs. Smith, belong to the same entity type “discharge letter” and share the same properties such as sending date, author, and recipient.
+Entity types form a "unit of thought" when talking about similar entities.
+Thus, both the discharge letter for Mr. Russo and a discharge letter for another patient, Mrs. Smith, belong to the same entity type "discharge letter" and share the same properties such as sending date, author, and recipient.
 
 For the sake of simplicity, we sometimes take entity types as representatives of the covered entities and their data.
-If, during certain information-processing activities (e.g., admitting patients), data on entities (e.g., name of patients’ hometown) is used and interpreted, we simply say that the entity type “patient” is used during administrative admission of a patient.
-In this sense, the entity type “discharge letter” is updated during medical discharge.
-We will also simply say “data on entity type X” if we mean the data describing entities of entity type X (e.g., “data on entity type ‘patient’” means data on patients).
+If, during certain information-processing activities (e.g., admitting patients), data on entities (e.g., name of patients’ hometown) is used and interpreted, we simply say that the entity type "patient" is used during administrative admission of a patient.
+In this sense, the entity type "discharge letter" is updated during medical discharge.
+We will also simply say "data on entity type X" if we mean the data describing entities of entity type X (e.g., "data on entity type ‘patient’" means data on patients).
 
 `An information-processing function is the class of similar activities which update or use entity types. Due to their similarity for all patients in a health care facility, the above-mentioned information-processing activities administrative admission and medical discharge can be considered information-processing functions.`
 
@@ -832,29 +828,29 @@ One can also understand functions as tasks of an actor.
 But not every task of an actor is an information- processing function.
 It is only an information-processing function if data on one entity type is used and, after processing this data, the data on another or on the same entity type is updated.
 For example, a clerk who performs the function administrative admission in a hospital needs to ensure that the patient’s administrative data, i.e., the patient’s name, contact data, insurance data, and personal identifiers, are up to date when the patient is admitted to the hospital.
-The entity type representing patients and their administrative patient data is simply called “patient.” During patient admission, the clerk may
+The entity type representing patients and their administrative patient data is simply called "patient." During patient admission, the clerk may
 
-- search for (i.e., “use”) the patient’s administrative data among all instances of the entity type “patient” in the patient administration system,
-- check (i.e., “use”) the patient’s administrative data which is already available if the patient has been treated in the hospital before,
-- change (i.e., “update”) parts of the patient’s administrative data if, for example, the address or the insurance data has changed, and
-- insert (i.e., “update”) new patient administrative data if the patient is admitted to the hospital for the first time.
+- search for (i.e., "use") the patient’s administrative data among all instances of the entity type "patient" in the patient administration system,
+- check (i.e., "use") the patient’s administrative data which is already available if the patient has been treated in the hospital before,
+- change (i.e., "update") parts of the patient’s administrative data if, for example, the address or the insurance data has changed, and
+- insert (i.e., "update") new patient administrative data if the patient is admitted to the hospital for the first time.
 
-Thus, we can state that the function patient admission updates and uses the entity type “patient.”
+Thus, we can state that the function patient admission updates and uses the entity type "patient."
 Functions are usually denoted by nouns or gerunds (i.e., words often ending with -ing or -ion), for example, care planning or patient admission.
 Functions can be structured into a hierarchy of functions, where a function can be described in more detail by refined subfunctions.
 For example, nursing admission can be seen as a subfunction of patient admission.
 There are different opportunities of refining functions that are further described in Sect. 2.14.
 An activity is an instantiation of a function.
-For example, “the physician admits the patient Mr. Russo” is an activity of the function patient admission.
+For example, "the physician admits the patient Mr. Russo" is an activity of the function patient admission.
 In contrast to functions, activities have a definite beginning and end.
 To describe how a function is performed may require not only information about its subfunctions but also information about their chronological and logical sequence.
 This information is described by business processes.
 
 `Business processes describe the sequence of activities together with the conditions under which they are performed.`
 
-Business processes are usually denoted by verbs which can be followed by a noun (e.g., “admitting a patient,” “planning care,” or “writing a discharge letter”).
+Business processes are usually denoted by verbs which can be followed by a noun (e.g., "admitting a patient," "planning care," or "writing a discharge letter").
 Instances of a business process are composed of the individual activities; hence, they also have a definite beginning and end.
-While functions concentrate on the “what,” business processes focus on the “how” of activities.
+While functions concentrate on the "what," business processes focus on the "how" of activities.
 Functions can be considered representatives of business processes.
 For example, there is the function patient admission and the business process patient admission in a hospital.
 The function patient admission is specified by the entity types used and the entity types updated when a patient is admitted.
@@ -866,7 +862,7 @@ The concept of a role summarizes all the stakeholder groups and groups of people
 
 Roles can also be regarded as a surrogate for the set of functions to be performed by a person or group of persons together with the resulting duties and the rights needed to perform the functions.
 Typical roles in health care settings are ward physician, head nurse, project manager, or chief information officer (CIO).
-The term “information-processing function” presented in this section is related to the term enterprise function from business informatics.
+The term "information-processing function" presented in this section is related to the term enterprise function from business informatics.
 Enterprise functions mainly emphasize the contribution of activities to business goals, whereas functions, in the meaning presented here, emphasize the information- processing aspects of activities.
 
 ## 2.9 Application Systems, Services, and Physical Data Processing Systems in Health Information Systems
@@ -892,7 +888,7 @@ By contrast, in a server cluster, different servers could alternatively, dependi
 The server cluster, however, can be managed as one (virtual) server.
 
 Virtualization techniques to simulate computer systems are widely used in professional health care settings.
-When using the term “physical data processing systems” in this book, we include their possible implementation as simulated computer systems, i.e., as simulated physical data processing systems such as virtual machines or server clusters.
+When using the term "physical data processing systems" in this book, we include their possible implementation as simulated computer systems, i.e., as simulated physical data processing systems such as virtual machines or server clusters.
 
 A computer system is useless without software.
 Software can be considered as explicit rules for processing the data in a computer system.
@@ -906,16 +902,16 @@ Features are functionalities offered by the application software product of the 
 The finer the granularity of a function, the greater is the probability that the function semantically corresponds to a feature offered by an application system.
 We denote features by a short phrase consisting of at least one verb and one noun expressing the ability of the application software product.
 For example, the application system patient administration system stands for the installed application software product to support the functions patient admission and administrative discharge and billing in a hospital.
-It may offer the features “generate a unique patient identification number” (PIN) and “provide catalog of diagnoses” in order to fulfill the functions patient admission and administrative discharge and billing.
-Other typical application systems are the medical documentation and management system (MDMS), the computerized provider order entry (CPOE) system, and the picture archiving and communication system (PACS). These and other application systems are discussed in more detail in Sect. 3.​4. Application systems store data in database systems.
-Depending on the architecture style of a health information system, each of its application systems either has its own database system or uses the database system of another application system (Sect. 3.​5).
+It may offer the features "generate a unique patient identification number" (PIN) and "provide catalog of diagnoses" in order to fulfill the functions patient admission and administrative discharge and billing.
+Other typical application systems are the medical documentation and management system (MDMS), the computerized provider order entry (CPOE) system, and the picture archiving and communication system (PACS). These and other application systems are discussed in more detail in Sect. 3.4. Application systems store data in database systems.
+Depending on the architecture style of a health information system, each of its application systems either has its own database system or uses the database system of another application system (Sect. 3.5).
 Even in highly computerized health care settings, not every information-processing function is supported by an application system.
 Sometimes, the rules for processing data are not implemented as executable application software product but as organizational rules or working plans that describe how people use certain physical data processing systems.
 For example, the rules regarding how, by whom, and in which context given forms for nursing documentation have to be used in a certain hospital may be described verbally as text in a handbook of this hospital.
 In this example, the paper-based forms that are used represent physical data processing systems.
-We call sets of organizational rules for data processing which are implemented by non-computer-based physical tools “non-computer-based application components.” They are often also denoted as paper-based application components.
+We call sets of organizational rules for data processing which are implemented by non-computer-based physical tools "non-computer-based application components." They are often also denoted as paper-based application components.
 
-“Application component” is an abstract concept for both application systems and non-computer-based application components.
+"Application component" is an abstract concept for both application systems and non-computer-based application components.
 
 `An application component is a set of implemented rules which control data processing of certain physical data processing systems. It supports certain functions of a health care setting or communication between application components.`
 
@@ -923,11 +919,11 @@ For those dealing with the management of an information system, it is important 
 However, users often do not know which application systems they are using.
 They are merely interested in certain features provided on a website or by an app on their smartphone.
 The actual application system providing these features may even be hidden from the users and invoked by another application system.
-We call these features that are provided by one application system for use by another application system and which are thus not immediately used by users “services.” Using a service means invoking it.
+We call these features that are provided by one application system for use by another application system and which are thus not immediately used by users "services." Using a service means invoking it.
 
 `A service is an encapsulated feature provided by application systems in order to be invoked by other application systems.`
 
-Details on the most relevant tools for data, information, and knowledge processing, i.e., application components, services, and physical data processing systems, in health care settings can be found in Sect. 3.​4 and the following sections.
+Details on the most relevant tools for data, information, and knowledge processing, i.e., application components, services, and physical data processing systems, in health care settings can be found in Sect. 3.4 and the following sections.
 
 ## 2.10 Electronic Health Records as a Part of Health Information Systems
 The most important functions of health care settings are related to prevention, diagnostics, therapy, and rehabilitation.
@@ -940,7 +936,7 @@ It therefore seems natural to strive for a record that is used and updated by ap
 
 This means that the EHR for a person might be scattered physically across the database systems of multiple (discrete or interconnected) application systems at various health care facilities.
 Each of the database systems will hold and manage a partial EHR containing partial patient information or, to be more precise, containing data about patient-specific entity types.
-Each partial EHR is scoped according to the person’s stays at the health care settings which will be discussed in Sect. 3.​5.
+Each partial EHR is scoped according to the person’s stays at the health care settings which will be discussed in Sect. 3.5.
 EHRs provide relevant information about a person whenever and wherever it is needed during patient care.
 Furthermore, EHRs provide information that is relevant for administrative functions, such as billing and quality management.
 
@@ -955,7 +951,7 @@ These are described further in Chap. 3.
 In the international literature, the terms EHR and EPR are usually defined as presented here.
 In some countries, however, the use of these terms may differ.
 According to the German data privacy law, for example, health insurers are obliged to provide their insured persons with the so-called electronic patient record (EPR) which contains selected patient data from different facilities.
-This “EPR,” in fact, corresponds more to our definition of an “EHR.”
+This "EPR," in fact, corresponds more to our definition of an "EHR."
 
 ## 2.11 Architecture and Infrastructure of Health Information Systems
 `The architecture of an information system describes its fundamental organization, represented by its components, their relationships to each other and to the environment, and by the principles guiding its design and evolution [2].`
@@ -997,7 +993,7 @@ But what is a model?
 In the sciences, models commonly represent simplified depictions of reality or excerpts of it.
 Models are adapted to answer certain questions or to solve certain tasks.
 Models should be appropriate for the respective questions or tasks.
-This means that a model is only “good” when it is able to answer such a question or solve such a task.
+This means that a model is only "good" when it is able to answer such a question or solve such a task.
 For example, a model that only comprises the patients (and not the nurses) of a ward cannot be used for nurse staffing and shift planning.
 Since we are dealing with management of information systems, this means that models should present a simplified but appropriate view of a health information system in order to support management of information systems.
 Examples of respective questions that can be answered by specific information system models could be:
@@ -1029,7 +1025,7 @@ Typical types of metamodels are as follows:
 4. Data and information metamodels are used for building models of the structure of data and information processed and stored inside health information systems. Their concepts are typically entity types and their relationships. Examples of data metamodels are UML class diagrams (UML = Unified Modeling Language) or entity-relationship models (ERMs).
 5. Business process metamodels focus on a dynamic view of information processing in health care settings. They provide concepts that describe the activities to be done, their chronological and logical order, the conditions under which they are performed, and often their links to roles, organizational units, entity types, and logical or physical tools for data and information processing. Examples of business process metamodels comprise UML activity diagrams, event-driven process chains (EPCs), Petri nets, or the business process modeling and notation (BPMN) language.
 6. Information system metamodels (also: enterprise metamodels) combine different metamodels (i.e., functional, technical, organizational, data, or business process models) into an integrated, enterprise-wide view on information processing in a facility. Examples of information system metamodels comprise the three-layer graph-based metamodel (3LGM^2, Sect. 2.13), The Open Group Architecture Framework (TOGAF), the Extended Enterprise Modeling Language (EEML), or the Architecture of Integrated Information Systems (ARIS).
-     
+
 
 Modeling of health information systems is based on the right selection of a metamodel.
 For health information system modeling, you should therefore consider the following steps:
@@ -1039,7 +1035,7 @@ For health information system modeling, you should therefore consider the follow
 4. Create and validate the model.
 5. Analyze and interpret the model (answer your questions).
 6. Evaluate if the right metamodel was chosen, i.e., if the model was adequate to answer the questions. If not, return to step 2.
-     
+
 
 Especially step 3 of gathering the information needed for modeling is often time- and cost-intensive.
 
@@ -1063,13 +1059,13 @@ Specific models can be compared with a reference model, and consequently models 
 
 Reference models can be normative in the sense that they are broadly accepted and have practical relevance.
 Reference models are more likely to be accepted if they are not only reliable and well-tested but also recommended by a respected institution.
-For example, the initiative Integrating the Health care Enterprise (IHE) (Sect. 3.​7.​2.​5) provides a comprehensive set of models describing how to use communication standards such as Health Level 7 (HL7) and Digital Imaging and Communications in Medicine (DICOM) in typical health care settings.
+For example, the initiative Integrating the Health care Enterprise (IHE) (Sect. 3.7.2.5) provides a comprehensive set of models describing how to use communication standards such as Health Level 7 (HL7) and Digital Imaging and Communications in Medicine (DICOM) in typical health care settings.
 These models can be regarded as reference models.
 Many experts in the field use these reference models as norms or standards although they are explicitly not.
 These models apparently became normative because they are widely used especially in commercial invitations of tenders for software supporting radiology departments.
 
 In the following section, we introduce the 3LGM^2 as an information system metamodel that integrates aspects of functional metamodels, technical metamodels, organizational metamodels, and data metamodels.
-For 3LGM^2, there are also reference models describing certain aspects of health information systems available (Sect. 3.​11.​1).
+For 3LGM^2, there are also reference models describing certain aspects of health information systems available (Sect. 3.11.1).
 
 ## 2.14 3LGM^2: A Metamodel for Information System Architectures
 The three-layer graph-based metamodel (3LGM^2) is a metamodel for modeling (health) information systems.
@@ -1097,40 +1093,40 @@ This layer is independent of the implemented physical and logical tools for data
 
 Information-processing activities at a certain time and place in an information system use certain data in order to create, update, or delete other data.
 For example, the clerk entering Mr. Russo’s administrative data into the patient administration system when he arrives at the Kreikebohm Rehabilitation Centre creates or updates Mr. Russo’s patient data.
-For the sake of simplicity, we will from here on subsume creating, updating, or deleting patient data under the term “updating.”
+For the sake of simplicity, we will from here on subsume creating, updating, or deleting patient data under the term "updating."
 
 In Sect. 2.8, we already introduced the important concepts for the domain layer, namely entities, entity types, and information-processing functions.
-Entities are excerpts of the real or conceivable world, such as “patient Mr. Russo,” while an entity type (such as “patient”) is a set of virtual or physical entities that have certain properties in common.
+Entities are excerpts of the real or conceivable world, such as "patient Mr. Russo," while an entity type (such as "patient") is a set of virtual or physical entities that have certain properties in common.
 An information-processing function (short: function) is a directive in a health care setting on how to use data on entity types and how to update data on entity types (such as care planning or patient admission). At the domain layer, we now use these concepts for health information system modeling to describe entity types, functions, and the relationships between functions and entity types performed in a health care setting.
 
-The function administrative admission updates the entity type “patient,” which represents a patient’s administrative data.
+The function administrative admission updates the entity type "patient," which represents a patient’s administrative data.
 This indicates that during the administrative admission, patient data such as name, birthdate, insurance data, and identification numbers are documented for the first time or updated.
-The entity type “patient” is used by the function medical admission which indicates that during a medical admission, the administrative data is available and can be used.
-Medical admission, in turn, updates the patient’s “medical history.” This indicates that information on the medical history is documented or updated during medical admission.
-Both the entity types “patient” and “medical history” are needed to create a medical care plan.
+The entity type "patient" is used by the function medical admission which indicates that during a medical admission, the administrative data is available and can be used.
+Medical admission, in turn, updates the patient’s "medical history." This indicates that information on the medical history is documented or updated during medical admission.
+Both the entity types "patient" and "medical history" are needed to create a medical care plan.
 Therefore, these two entity types are used by the function medical care planning.
 In 3LGM^2 models, functions are represented by rectangles and entity types are represented by ovals.
 
-Functions and entity types can be structured hierarchically by “specialization” and “decomposition.” When a function or an entity type is specialized, all its sub-elements are a refinement of the function or the entity type and independent of the respective super-element.
+Functions and entity types can be structured hierarchically by "specialization" and "decomposition." When a function or an entity type is specialized, all its sub-elements are a refinement of the function or the entity type and independent of the respective super-element.
 For a function, this means that the activities regarding this function are performed differently in different contexts.
-The function “execution of diagnostic procedures,” for example, has different specializations in different diagnostic departments.
+The function "execution of diagnostic procedures," for example, has different specializations in different diagnostic departments.
 Similarly, an entity type can have different forms for slightly different purposes: A radiologic finding is different from a laboratory finding; but both are specializations of findings, which is the generalized term.
 
 By contrast, when a function or an entity type is decomposed, all its sub-elements form a proper subset of the function or the entity type.
 An activity regarding a function is only completed if all activities regarding all its decomposed subfunctions are completed.
 For example, the activities regarding patient admission are only completed if appointment scheduling, patient identification, administrative admission, medical admission, nursing admission, and visitor and information services have been performed. Similarly, a decomposed entity type is only complete when all its subordinate entity types are available.
-The entity type “patient,” for example, must contain a name, a PIN, the patient’s address, and insurance data.
+The entity type "patient," for example, must contain a name, a PIN, the patient’s address, and insurance data.
 
 Both decomposition and specialization are represented by dashed arrows from sub-elements to super-elements in 3LGM^2. For modelers, it is important to differentiate between specialization and composition at the domain layer.
 To avoid misunderstandings, it might be useful to predefine the use of only one hierarchical relationship for functions or entity types in one model.
 If this is not possible, one should at least consider that an entity type or a function cannot be specialized and decomposed at the same time.
 
 Using relationships and updating relationships between functions and entity types are inherited to their sub-elements, no matter whether the functions or entity types were decomposed or specialized.
-This means, for example, that the PIN, which is a sub-element of the entity type “patient,” may be updated by the functions patient identification, administrative admission, etc. although the “update” relationship is only modeled between the super-ordinated entity type “patient” and the respective functions.
+This means, for example, that the PIN, which is a sub-element of the entity type "patient," may be updated by the functions patient identification, administrative admission, etc. although the "update" relationship is only modeled between the super-ordinated entity type "patient" and the respective functions.
 
 Functions are usually performed in certain parts of health care settings.
 The execution of radiologic procedures, for example, is performed in the radiology department of a hospital.
-We call those parts of health care settings “organizational units.”
+We call those parts of health care settings "organizational units."
 
 `An organizational unit is a part of a facility which can be defined by responsibilities.`
 
@@ -1171,22 +1167,22 @@ For communication between two application systems, we distinguish between the me
 For message-oriented communication, application systems use communication interfaces. A communication interface can either send or receive messages over communication links. A patient administration system, for example, may communicate with an MDMS by sending messages over communication interfaces and a communication link. In this example, the message may comprise information on the admission of a patient and the related administrative patient data.
 
 A message is a set of data on entities (e.g., administrative data on a given patient) that are arranged as a unit in order to be communicated between application systems. A message type describes a class of uniform messages and determines which data on which entity types is communicated by a message belonging to this message type.
-For example, the message type “patient administrative data” could describe how the administrative data on a patient (name, address, identification number, insurance data, etc.) must be arranged in a uniform way in order to be understood by both the patient administration system and the MDMS.
+For example, the message type "patient administrative data" could describe how the administrative data on a patient (name, address, identification number, insurance data, etc.) must be arranged in a uniform way in order to be understood by both the patient administration system and the MDMS.
 
-A message type can belong to a communication standard, i.e., a standard for syntactic interoperability (Sect. 3.​7.​1). There are several communication standards which describe how messages of a certain data format must be communicated between application systems.
-In medical informatics, Health Level 7 Version 2 (HL7 V2) and DICOM are well-known examples of such message-oriented communication standards (Sects. 3.​7.​2.​1 and 3.​7.​2.​4). Application systems have to communicate by using their interfaces to ensure that functions can use and update entity types as described at the domain layer.
+A message type can belong to a communication standard, i.e., a standard for syntactic interoperability (Sect. 3.7.1). There are several communication standards which describe how messages of a certain data format must be communicated between application systems.
+In medical informatics, Health Level 7 Version 2 (HL7 V2) and DICOM are well-known examples of such message-oriented communication standards (Sects. 3.7.2.1 and 3.7.2.4). Application systems have to communicate by using their interfaces to ensure that functions can use and update entity types as described at the domain layer.
 
 The concept of a message-oriented communication paradigm may also be used to model the communication between application systems and non-computer-based application components.
 
 #### 2.14.2.3 Service-Oriented Communication
-The service-oriented communication paradigm assumes that application systems provide encapsulated features (“services”) that can be used by other application systems. A patient administration system, for example, could offer a service “get patient” to other application systems within a health care facility.
+The service-oriented communication paradigm assumes that application systems provide encapsulated features ("services") that can be used by other application systems. A patient administration system, for example, could offer a service "get patient" to other application systems within a health care facility.
 When invoking this service, an application system such as the MDMS can request and obtain the administrative patient data of a given patient from the patient administration system.
-Application systems need “providing interfaces” to provide services to other application systems and “invoking interfaces” to invoke services provided by other application systems.
+Application systems need "providing interfaces" to provide services to other application systems and "invoking interfaces" to invoke services provided by other application systems.
 In 3LGM^2 models, invoking interfaces are represented by circles and providing interfaces are represented by triangles.
 
 Services themselves are not graphically represented at the logical tool layer but can be assigned to interfaces.
 Services of a similar type can be summarized in 3LGM^22 service classes.
-A function can be either supported by one service or by a set of combined (“orchestrated”) services.
+A function can be either supported by one service or by a set of combined ("orchestrated") services.
 In health information systems, the interoperability standards HL7 FHIR (Fast Health care Interoperability Resources) and open Electronic Health Record (openEHR) support the implementation of service-oriented architectures (SOA).
 Communication with non-computer-based application components can take different forms and is therefore considered separately.
 Communication of data between two non-computer-based application components is only possible through an active human intervention, for example, by carrying a paper document from one place to another.
@@ -1205,16 +1201,16 @@ In addition, virtualized physical data processing systems are modeled at the phy
 
 For the non-computer-based part of information systems, human actors (such as persons delivering mail) and non-computer-based physical tools (such as printed forms, telephones, books, paper-based patient records, administrative stickers) are modeled at the physical tool layer.
 
-This “black box” is connected to a patient terminal, a PC and a tablet PC.
+This "black box" is connected to a patient terminal, a PC and a tablet PC.
 The physician uses both a tablet PC and a telephone as physical computer-based or non-computer-based tools, respectively.
 
 Depending on the modeling goals, health professionals, patients, or caregiving relatives can be modeled as physical data processing systems to highlight their information-processing role in the health information system.
 In most cases, this will not be necessary.
-To specify the relationship between physical data processing systems and virtualized physical data processing systems in a 3LGM^2 model, a “virtualizes” relationship can be modeled.
+To specify the relationship between physical data processing systems and virtualized physical data processing systems in a 3LGM^2 model, a "virtualizes" relationship can be modeled.
 In a server cluster, physical data processing systems can run certain application systems alternatively.
 Virtual machines allow multiple operating systems or different instances of one operating system to run on one physical data processing system (compare Sect. 2.9).
 
-Physical data processing systems such as a specific server or a specific PC can be assigned to a “tool class” (e.g., server, PC) and a location.
+Physical data processing systems such as a specific server or a specific PC can be assigned to a "tool class" (e.g., server, PC) and a location.
 Physical data processing systems are physically connected via data transmission links (e.g., communication network, courier service) which can use different transmitting media. A transmitting medium is either signal-based (e.g., copper cable, optical fiber) or non-signal-based (e.g., sheet of paper, CD-ROM, USB flash drive).
 Physical data processing systems can be refined by decomposition. A physical data processing system can be part of exactly one physical data processing system.
 
@@ -1225,7 +1221,7 @@ Relationships exist between concepts of the domain layer and the logical tool la
 The following relationships between the domain layer and the logical tool layer can be modeled in 3LGM^2:
 - Functions (domain layer) can be supported by application components or, in SOA, by services which are both modeled at the logical tool layer.
 - Entity types (domain layer) or, more exactly, their representation by a dataset or document collection, can be stored in an application component (logical tool layer).
-- An application system storing an entity type can, in addition, be the primary application system of that entity type. This means that the application system contains the “original” data on that entity type. Data on that entity type that are stored in other application systems have to be considered copies of the “original” data. Consequently, only data in primary application systems can be updated directly by users; data integrity in the other application systems must be maintained by sending new copies of the original data to the other application systems (see Sects. 3.​5 and 3.​8.​1 for an in-depth discussion of data integrity and data integration).
+- An application system storing an entity type can, in addition, be the primary application system of that entity type. This means that the application system contains the "original" data on that entity type. Data on that entity type that are stored in other application systems have to be considered copies of the "original" data. Consequently, only data in primary application systems can be updated directly by users; data integrity in the other application systems must be maintained by sending new copies of the original data to the other application systems (see Sects. 3.5 and 3.8.1 for an in-depth discussion of data integrity and data integration).
 - In the message-oriented communication paradigm, entity types or, more exactly, their representation by a message can be communicated over communication interfaces and communication links.
 - In the service-oriented communication paradigm, entity types are represented by parameters that are handled by services.
 
@@ -1235,7 +1231,7 @@ Between the logical tool layer and the physical tool layer, there are two types 
 
 ### 2.14.5 First Steps of 3LGM^2 Modeling
 #### 2.14.5.1 Installation of the 3LGM^2 Tool
-To start modeling, the current version of the full version of the 3LGM^2 tool can be downloaded from http://​www.​3lgm2.​de.
+To start modeling, the current version of the full version of the 3LGM^2 tool can be downloaded from http://www.3lgm2.de.
 The Java-based tool runs on different platforms and can freely be used for non-commercial purposes.
 
 #### 2.14.5.2 Modeling the Domain Layer
@@ -1244,13 +1240,13 @@ The main elements of the domain layer are entity types and functions. When model
 - Very similar or even equivalent functions that are performed in different areas, different organizational units, or different health care facilities of a health care network should be modeled only once at the domain layer. The functions can be identified as similar by checking whether they use and update the same set of entity types.
 - If an entity type is updated or used by a function that is decomposed or specialized, then all of the subfunctions also use or update the entity type. For clearer models, it can be helpful to assign entity types only to functions that are not further refined by subfunctions.
 - Functions should be decomposed or specialized only to that level of detail needed to describe the support of the functions by single application components.
-- “Documentation” may not be modeled as a function in 3LGM^2 because it is an inherent part of a function updating an entity type. If an entity type is updated by a function and this entity type’s data are stored in an application component, we call this combination the “documentation of the entity type.” However, sometimes it may improve the readability of a model to include the word “documentation” in a function’s name.
+- "Documentation" may not be modeled as a function in 3LGM^2 because it is an inherent part of a function updating an entity type. If an entity type is updated by a function and this entity type’s data are stored in an application component, we call this combination the "documentation of the entity type." However, sometimes it may improve the readability of a model to include the word "documentation" in a function’s name.
 
 Identifying appropriate functions and entity types for a specific health care setting is a non-trivial task.
 The most elaborate but also the most direct way to identify functions and entity types of a setting is to conduct interviews with the persons performing the functions.
 Preparing and conducting these interviews, function patterns, or reference models providing lists of typical functions and of relationships between the functions of a specific type of health care setting may be helpful.
 In Chap. 3, we develop patterns for functions that are performed in many health care settings.
-These patterns as well as a reference model for the domain layer of hospital information systems are available at http://​www.3lgm2.​de and can be used and refined for modeling a specific health information system.
+These patterns as well as a reference model for the domain layer of hospital information systems are available at http://www.3lgm2.de and can be used and refined for modeling a specific health information system.
 
 #### 2.14.5.3 Modeling the Logical Tool Layer
 The logical tool layer describes the application components of a health care setting and the communication between these components. For modeling the logical tool layer, the following rules should be observed:
@@ -1285,8 +1281,8 @@ If this concerns an application system which is permanently in use, such as an M
 However, we must also be careful that supposed functional redundancy does not result from inaccurate modeling.
 
 In a 3LGM^2 model, we specialize or decompose functions to that level of detail needed to describe the support of the functions by single application components.
-That means if we think of the hierarchy of functions in a 3LGM^2 model as a tree in graph theory, then each of the tree’s “leaf functions” must completely be supported by one application component of the information system.
-We only assign application components to the “leaf functions” of the tree.
+That means if we think of the hierarchy of functions in a 3LGM^2 model as a tree in graph theory, then each of the tree’s "leaf functions" must completely be supported by one application component of the information system.
+We only assign application components to the "leaf functions" of the tree.
 For example, if we find that the function medical and nursing care planning needs joint support of two application components X and Y, we have to specialize or decompose the function in such a way that the resulting subfunctions are supported by X and Y, respectively.
 If X is used by clinicians and Y is used by nurses, a solution could be to decompose the function into medical care planning and nursing care planning.
 
@@ -1302,9 +1298,9 @@ Medical admission and nursing admission are supported by the MDMS.
 Obtaining consent for processing of patient-related data is supported by the non-computer-based application component for patient data privacy forms.
 This application component is based on paper forms which are scanned by a clerk (see physical tool layer) and then stored in the MDMS.
 
-The patient administration system, which is the master application system (Sect. 3.​9.​1) for the entity type “patient,” sends the administrative patient data as a message to the MDMS.
-The MDMS can thus store this information about the entity type “patient” in its own database; administrative patient data that is needed to support medical admission and nursing admission as functions therefore do not have to be reentered in the MDMS.
-The entity type “patient” is both stored in the database systems of the ERPS and the MDMS what is represented by dashed lines between the domain layer and the logical tool layer.
+The patient administration system, which is the master application system (Sect. 3.9.1) for the entity type "patient," sends the administrative patient data as a message to the MDMS.
+The MDMS can thus store this information about the entity type "patient" in its own database; administrative patient data that is needed to support medical admission and nursing admission as functions therefore do not have to be reentered in the MDMS.
+The entity type "patient" is both stored in the database systems of the ERPS and the MDMS what is represented by dashed lines between the domain layer and the logical tool layer.
 
 Both the patient administration system and the MDMS are run on servers at a virtualized server farm (see relationships between logical and physical tool layer). The application systems can be accessed by different end devices (patient terminal, PC, tablet PC).
 
@@ -1318,18 +1314,18 @@ The matrix view is an alternative representation of configuration lines between 
 
 ## 2.16 Exercises
 ### 2.16.1 Data, Information, and Knowledge
-Imagine that a physician is given the following information about his patient, Mr. Russo: “Diagnosis: hypertension.
-Last blood pressure measurement: 160/100 mmHg.” Use this example to discuss the difference between “data,” “information,” and “knowledge”!
+Imagine that a physician is given the following information about his patient, Mr. Russo: "Diagnosis: hypertension.
+Last blood pressure measurement: 160/100 mmHg." Use this example to discuss the difference between "data," "information," and "knowledge"!
 
 Answer:
-“160,” “100,” “hypertension,” and “blood pressure” represent data that cannot be interpreted without knowledge about the context.
+"160," "100," "hypertension," and "blood pressure" represent data that cannot be interpreted without knowledge about the context.
 The information is that Mr. Russo has been diagnosed with hypertension and that his last blood pressure is 160/100 mmHg.
 The medical knowledge embedded in this example is that a blood pressure of 160/100 mmHg indicates hypertension that should be treated.
 
 ### 2.16.2 Systems and Subsystems
 Look up some information on the nervous system of the human body.
 Then try to identify subsystems of the nervous system.
-In the same way, can you also describe subsystems of the system “hospital”?
+In the same way, can you also describe subsystems of the system "hospital"?
 
 Answer:
 The nervous system comprises two main categories of cells: neurons and glial cells.
@@ -1344,7 +1340,7 @@ The way I define the subsystems of a hospital depends on the questions or intent
 ### 2.16.3 Information Logistics
 Imagine a situation in which a physician speaks with Mr. Russo at the patient’s bedside.
 The physician looks up Mr. Russo’s recent blood pressure measurement and ongoing medication, decides to increase the level of one medication, and explains this to Mr. Russo.
-Use this example to discuss the meaning of “information and knowledge logistics.” What in this example indicates the right information, the right place, the right people, the right form, and the right decision? What could happen if an information system does not support high-quality information and knowledge logistics?
+Use this example to discuss the meaning of "information and knowledge logistics." What in this example indicates the right information, the right place, the right people, the right form, and the right decision? What could happen if an information system does not support high-quality information and knowledge logistics?
 
 Answer:
 The physician wants to have access to the right information (the most recent blood pressure) at the right time (when talking to Mr. Russo) at the right place (at the patient’s bedside) in the right form (hopefully the blood pressure is provided in an easy-to-grasp, visual way) so that he can make the right decision (here: to decide on the level of a certain medication).
@@ -1356,32 +1352,32 @@ Use this example to explain the meaning of the following elements: functions, en
 
 Answer:
 Administrative admission is an enterprise function that is supported by the patient administration system.
-One entity type that is used and updated by this function is “patient.” The paper-based patient data privacy form system is an example of a non-computer-based application component.
+One entity type that is used and updated by this function is "patient." The paper-based patient data privacy form system is an example of a non-computer-based application component.
 The virtualized server farm is an example of a physical tool.
 The inter-layer relationships of this example show which functions are supported by which application system and which physical data processing system the application systems are installed on.
 
 ### 2.16.5 Interpreting 3LGM^2 Models
 Look at the 3LGM^2 sample model in Sect. 2.15 and try to answer the following questions.
 (a) Find examples of specialization or decomposition at the domain layer.
-(b) What is the meaning of the arrows pointing from patient identification to “patient” and from “patient” to medical admission ?
+(b) What is the meaning of the arrows pointing from patient identification to "patient" and from "patient" to medical admission ?
 (c) What entity type that is stored in the paper-based patient data privacy form system should be added at the domain layer?
 (d) Why is the function patient admission not connected with any application system?
-(e) Which physical data processing systems are needed for the function “obtaining patient consent for the processing of data”?
+(e) Which physical data processing systems are needed for the function "obtaining patient consent for the processing of data"?
 
 Answer:
-(a) The function “patient admission” is decomposed into five subfunctions—patient admission is only complete if all the subfunctions are completed. The entity type “patient” is decomposed into four entity types—data regarding that entity type are only complete if data about all sub-entity types is complete. There are no examples of specialization at the domain layer of Fig. 2.11.
+(a) The function "patient admission" is decomposed into five subfunctions—patient admission is only complete if all the subfunctions are completed. The entity type "patient" is decomposed into four entity types—data regarding that entity type are only complete if data about all sub-entity types is complete. There are no examples of specialization at the domain layer of Fig. 2.11.
 
-(b) The function “patient identification” updates the entity type “patient.” The function “medical admission” uses the entity type “patient.” This indicates that identifying patient data are updated or created during patient admission and then used for medical admission.
- 
-(c) The entity type “privacy statement” could be added at the domain layer. It would be updated by the function “obtaining consent for processing of patient data.”
- 
+(b) The function "patient identification" updates the entity type "patient." The function "medical admission" uses the entity type "patient." This indicates that identifying patient data are updated or created during patient admission and then used for medical admission.
+
+(c) The entity type "privacy statement" could be added at the domain layer. It would be updated by the function "obtaining consent for processing of patient data."
+
 (d) Patient admission is decomposed into five subfunctions with each being linked to an application component by which it is supported. Therefore, it could lead to an ambiguous model if the superordinated function was linked with another application component. The corresponding modeling rule says that only the leaf functions in a function hierarchy should be linked to application components.
- 
-(e) The function “obtaining patient consent for the processing of data” is supported by the paper-based patient data privacy form system. For this, a paper record cabinet, a scanner, and a clerk handling these tools are the physical data processing systems needed for the function.
+
+(e) The function "obtaining patient consent for the processing of data" is supported by the paper-based patient data privacy form system. For this, a paper record cabinet, a scanner, and a clerk handling these tools are the physical data processing systems needed for the function.
 
 ## References
-1. World Health Organization (WHO) Health Promotion Glossary. WHO/HPR/HEP/98.1. 1998. https://​www.​who.​int/​publications/​i/​item/​WHO-HPR-HEP-98.​1. Accessed 15 Jan 2023.
-2. Institute of Electrical and Electronics Engineers (2000). IEEE-Std 1471-2000: recommended practice for architectural description of software-intensive systems. http://​standards.​ieee.​org. Accessed 15 Jan 2023.
+1. World Health Organization (WHO) Health Promotion Glossary. WHO/HPR/HEP/98.1. 1998. https://www.who.int/publications/i/item/WHO-HPR-HEP-98.1. Accessed 15 Jan 2023.
+2. Institute of Electrical and Electronics Engineers (2000). IEEE-Std 1471-2000: recommended practice for architectural description of software-intensive systems. http://standards.ieee.org. Accessed 15 Jan 2023.
 3. Weill P, Ross JW. IT Governance. How top performers manage IT decision rights for superior results. Harvard: Harvard Business School Press; 2004. p. 34ff.
 
 # 3. Technological Perspective: Architecture, Integration, and Standards
@@ -1390,7 +1386,7 @@ From the previous chapter, we already know that a health information system is t
 In this chapter, we first look at what these information systems look like, i.e., we take the technological perspective and examine the architecture of information systems.
 This perspective is then complemented by the management perspective in Chap. 4.
 
-Section 2.​11 taught us that health information systems are constructs built from a variety of components.
+Section 2.11 taught us that health information systems are constructs built from a variety of components.
 We will go through the three layers of information systems: the domain layer, the logical tool layer, and the physical tool layer.
 For each layer, we will explain, step by step, the layer’s components and how they are to be assembled and integrated to achieve what users experience as the health information system.
 Although we keep the non-computer-based part in mind, we will focus on the computer-based part.
@@ -1426,12 +1422,12 @@ We will now look at data that represent information and knowledge in both the he
 We need to be aware that data is not only stored and processed in one particular information system, but that it often also needs to be provided to or shared with the information system of another facility or setting.
 For example, data from health care should be provided for research so that medical progress is possible.
 And data from research should be provided for use in health care to apply new knowledge.
-This mutual relationship is often described with the concept of the “learning health care system,” in which data from everyday medical care is used to gain new insights in medical research and the research results are constantly fed back into practical care (translation) and medical education.
+This mutual relationship is often described with the concept of the "learning health care system," in which data from everyday medical care is used to gain new insights in medical research and the research results are constantly fed back into practical care (translation) and medical education.
 We can distinguish data according to different aspects:
 
 - personal vs. non-personal data,
 - standardized vs. non-standardized data,
-- data on particular entity types (compare Sect. 2.​8).
+- data on particular entity types (compare Sect. 2.8).
 
 These distinctions are useful because
 
@@ -1442,8 +1438,8 @@ These distinctions are useful because
 After this section, you will understand what kinds of data are processed in and provided by most of the health care settings and in biomedical research.
 
 ### 3.2.1 Personal vs. Non-personal Data
-According to the European General Data Protection Regulation (GDPR) “... ‘personal data’ means any information relating to an identified or identifiable natural person” [1]. Data on health and illness are mostly created as personal data.
-For example, a 12-lead electrocardiogram (ECG), data on physical/mental well-being and weight, the results of an echocardiography, or the activity data for a particular person like Mr. Russo (Sect. 1.​4) are personal data.
+According to the European General Data Protection Regulation (GDPR) "... ‘personal data’ means any information relating to an identified or identifiable natural person" [1]. Data on health and illness are mostly created as personal data.
+For example, a 12-lead electrocardiogram (ECG), data on physical/mental well-being and weight, the results of an echocardiography, or the activity data for a particular person like Mr. Russo (Sect. 1.4) are personal data.
 Individuals’ health data belong to the most sensitive personal data on humans.
 
 By cumulating data, the relation to a single identifiable person can be reduced.
@@ -1466,7 +1462,7 @@ This also applies to pseudonymized health data, i.e., data in which the directly
 
 National legislation may allow for different levels of consent.
 For example, it may be a requirement that individuals must give permission for their data to be used individually for each research project.
-However, it may also be possible for individuals to give permission for the use of their data for a broader research topic or for research in general (often called “broad consent”). It is important, therefore, to know exactly what options are available in your country.
+However, it may also be possible for individuals to give permission for the use of their data for a broader research topic or for research in general (often called "broad consent"). It is important, therefore, to know exactly what options are available in your country.
 
 The handling of personal data in the European Union is comprehensively regulated by the GDPR [1].
 
@@ -1528,7 +1524,7 @@ Certain data on findings and about diseases of the patients and their therapies 
 - Entity type | Description
 - Diagnosis | Diagnoses are the identified cause or nature of patients’ diseases or medical conditions
 - Discharge summary | Discharge summaries briefly summarize diagnoses, treatment, and recommendations from the discharging health care facility. The discharge summary is necessary for the receiving health care facilities in order to be able to provide further treatment
-- Finding | Findings summarize the results of diagnostic procedures for patients such as lab and X-ray examinations. Laboratory findings may consist of the measured values of clinical chemical parameters. But they may also contain complex genetic data from sequencing, also called “omics” data. Each type of data requires specialized software to present these data to medical personnel in such a way that they can interpret them well for diagnostic purposes
+- Finding | Findings summarize the results of diagnostic procedures for patients such as lab and X-ray examinations. Laboratory findings may consist of the measured values of clinical chemical parameters. But they may also contain complex genetic data from sequencing, also called "omics" data. Each type of data requires specialized software to present these data to medical personnel in such a way that they can interpret them well for diagnostic purposes
 - Health record | Health records are descriptions about a person’s past and present health conditions, for example, disease history, systems review, social history, past medical history, family history, or medication. The health record is necessary for health care professionals in order to make informed clinical decisions
 - Image | Images are rasterized representations of macro- or microscopic entities or processes within biological systems, generated by using different modalities (e.g., computed tomography, histologic slices, X-ray images) and used for diagnosis, prevention, therapy, and rehabilitation
 - Informed consent | Informed consent is a patient’s consent to the proposed treatment
@@ -1538,8 +1534,8 @@ Certain data on findings and about diseases of the patients and their therapies 
 - Nursing procedure | Nursing procedures are procedures performed by nurses for patients, for example, taking blood or taking the temperature
 - Order | Orders are requests made by health care professionals for diagnostic, therapeutic, or drug services, for example, laboratory orders or radiological orders. Orders are directed to health care facilities and other health care professionals
 - Patient record | Health care facilities have records for their patients, collecting data and documents related to health care in this facility. This part of the patient’s health record is called the patient record. Persons thus have multiple patient records if they have been a patient in more than one health care facility. Patient records are those parts of health records which are related to health care in a certain health care facility
-- Patient record archive | Entities of the entity type “patient record archive” describe how and where the patient record can be found
-- Procedure | Procedures are “activities performed in the provision of health care (includes medical history taking, physical examination, diagnostic and therapeutic interventions, training and education, and counseling)” [3]
+- Patient record archive | Entities of the entity type "patient record archive" describe how and where the patient record can be found
+- Procedure | Procedures are "activities performed in the provision of health care (includes medical history taking, physical examination, diagnostic and therapeutic interventions, training and education, and counseling)" [3]
 - Sample | Samples are specimens taken from a patient or another person, for example, a blood sample or a urine sample
 - Self-diagnosis | A self-diagnosis is a diagnosis made by an individual for his or her own condition rather than by a health care professional
 - Self-gathered symptoms | Self-gathered symptoms are signs or supposed signs of a disease that have been noticed during observation of one’s own body
@@ -1577,7 +1573,7 @@ It is not only information about patients that health care professionals need fo
 ## 3.3 Domain Layer: Functions to Be Supported
 In the last section, we introduced the data typical for health care settings and described data by entity types.
 Now we will explain where and in what contexts data on these entity types are processed in health care settings.
-As explained in Sect. 2.​8, we use information-processing functions—or short: functions—to group classes of information-processing activities.
+As explained in Sect. 2.8, we use information-processing functions—or short: functions—to group classes of information-processing activities.
 
 You will remember that functions use input data on certain entity types.
 The used data is updated, which often results in data on other entity types.
@@ -1588,18 +1584,18 @@ This will be done in Sect. 3.4 and the following sections.
 In this section, you will learn about the most important functions to be performed by patients, informal caregivers, health care professionals, and management and administrative staff in health care settings.
 You will also learn about data that are used or updated by these functions.
 
-To illustrate which entity types a particular function uses and which it updates, we will use diagrams corresponding to those we also used in Sect. 2.​14.​1. Please read there again what the symbols mean.
+To illustrate which entity types a particular function uses and which it updates, we will use diagrams corresponding to those we also used in Sect. 2.14.1. Please read there again what the symbols mean.
 
 ### 3.3.1 Functions to Be Performed by Patients and Informal Caregivers
-In Sect. 1.​2, we looked at the life situations in which people have to deal with health.
+In Sect. 1.2, we looked at the life situations in which people have to deal with health.
 Initially, such life situations take place in the home setting and require specific action by the individuals and patients concerned.
-Thus, in our example from Sect. 1.​4, Mrs. And Mr. Russo have to cope with their lives despite Mrs. Russo having broken her leg in the bathroom and Mr. Russo having a heart condition.
+Thus, in our example from Sect. 1.4, Mrs. And Mr. Russo have to cope with their lives despite Mrs. Russo having broken her leg in the bathroom and Mr. Russo having a heart condition.
 To do so, they must contact with their general practitioner (GP) and with specialists to obtain various information.
 Their daughters must also participate in the care of their parents.
 In this context, the daughters are called informal caregivers, just like other relatives or friends who participate in the care of the Russos.
-In Sects. 1.​3.​1 and 1.​3.​3, we had already noted what patients and informal caregivers are particularly concerned about in this context.
+In Sects. 1.3.1 and 1.3.3, we had already noted what patients and informal caregivers are particularly concerned about in this context.
 In this section, we will now describe the information-processing tasks that patients and informal caregivers have to perform and what entity types are needed.
-Even though we introduced the term “function” in Sect. 2.​8 in the context of health care professionals, it is very well-suited to also describe the information-processing tasks of non-professionals.
+Even though we introduced the term "function" in Sect. 2.8 in the context of health care professionals, it is very well-suited to also describe the information-processing tasks of non-professionals.
 The corresponding functions include but are not limited to:
 - medical knowledge management,
 - self-diagnostics,
@@ -1676,7 +1672,7 @@ Merging all health-related data and documents of a particular patient can only s
 If each facility assigns its own PIN to a patient, a tool is needed to map the different PINs of one patient to each other.
 Such an application system is called a master patient index (MPI) and will be discussed in Sect. 3.4.1. Some countries provide a single unique PIN for every citizen, for example, on the health insurance card.
 
-Patient identification as a function therefore interprets the entity type “patient” by considering, for example, their name, birthday, and data from the ID card and updates the same entity type by updating the PIN.
+Patient identification as a function therefore interprets the entity type "patient" by considering, for example, their name, birthday, and data from the ID card and updates the same entity type by updating the PIN.
 
 **Administrative Admission**
 Administrative admission starts following patient identification.
@@ -1958,7 +1954,7 @@ This function can be decomposed as follows:
 Management of health care facilities decides on questions of fundamental importance for the health care facility’s development (goals, strategic decisions, personnel decisions and decisions about budget, investments, or key treatments). Management of health care facilities must focus on high quality of patient care, taking into account economic as well as legal and other requirements.
 
 #### 3.3.2.5 Clinical Documentation: A Function?
-It may be surprising that “documentation” is not listed as a function in the previous sections.
+It may be surprising that "documentation" is not listed as a function in the previous sections.
 In fact, clinical documentation, which comprises medical documentation and nursing documentation, is a time-consuming and often unpopular duty of health care professionals.
 Moreover, every function described so far requires a lot of documentation.
 The results of diagnostic procedures have to be written down, medical histories have to be documented, and so on.
@@ -1971,7 +1967,7 @@ After having looked at data to be processed and at functions to be performed we 
 
 Health care facilities still have non-computer-based application components and use paper as a physical tool.
 For example, parts of clinical documentation while performing functions are occasionally still done with paper-based patient records.
-Thus, despite the growing portion of electronic documents, the “paperless hospital” still seems to be a remote ideal today.
+Thus, despite the growing portion of electronic documents, the "paperless hospital" still seems to be a remote ideal today.
 There might be a continuing need for some paper-based documents.
 Typical application components that are still paper-based comprise, for example, the patient chart, the patient record, and clinical text books and knowledge sources.
 
@@ -1980,12 +1976,12 @@ In spite of this still existing significance of non-computer-based information p
 In Sect. 3.3.2, we could see that many functions are commonly found in all health care facilities.
 Although they use different application systems to support the functions, there are typical application systems to support health care professionals in health care facilities.
 We take a closer look at the respective types in the following subsections.
-In Sect. 6.​8, however, we will look at types of application components to support patients and informal caregivers.
+In Sect. 6.8, however, we will look at types of application components to support patients and informal caregivers.
 
 We will sum up the characteristics of the application systems in tables enumerating the supported functions; please refer to Sect. 3.3 for their detailed descriptions.
-For every function, we also list typical features that the application system should offer. A feature is a functionality offered by the application system’s software which directly contributes to the fulfillment of one or more functions (Sect. 2.​9).
+For every function, we also list typical features that the application system should offer. A feature is a functionality offered by the application system’s software which directly contributes to the fulfillment of one or more functions (Sect. 2.9).
 
-Please note that we refer to some of the application system types as “XYZ information system” (e.g., laboratory information system). Although this sounds contradictory to our definition of the term “information system,” we did so in order to integrate the popular names and hope you will not be confused.
+Please note that we refer to some of the application system types as "XYZ information system" (e.g., laboratory information system). Although this sounds contradictory to our definition of the term "information system," we did so in order to integrate the popular names and hope you will not be confused.
 
 In this section, you will get to know the types of application systems that are used in health care.
 In later Sects. 3.5–3.9, we will explain step by step how and under which conditions the application systems described here can be assembled, i.e., integrated, in the information system.
@@ -2000,11 +1996,11 @@ Table 3.1: Set of functions and related features typically to be supported by pa
 - Appointment scheduling | Provide means for scheduling patients’ appointments. Provide means for ordering transport services
 - Administrative admission | Provide forms for entering or updating patient administrative information (name, address, birthdate, relatives, admission diagnosis, etc.). Merge patient information from two records. Provide means for ordering patient transfer within the facility. Admit patients to the ward or outpatient unit. For inpatient care: assign patients to rooms and beds. Provide means for preparing facility-wide statistics
 - Patient identification | Retrieve patient information from database. Generate a unique PIN and a CIN. Administrate the transinstitutional PIN
-- Visitor and information service | Provide relatives with information on the location of a patient. 
+- Visitor and information service | Provide relatives with information on the location of a patient.
 - Coding of diagnoses and procedures | Provide catalogs and other means for coding patients’ diagnoses. Provide catalogs and other means for coding patient-related procedures. Provide means for verifying codings done in departments. Provide forms for preparing a bill for the patient insurance
 - Administrative discharge and billing | Provide means for initiation of final billing for inpatients and outpatients. Provide reminder for fulfilling of legal reporting requirements
 
-Application systems supporting patient administration are referred to as patient administration systems or sometimes “patient management systems.” They must provide correct, complete, and up-to-date administrative patient data for all other application components. In addition, all other application components must be able to transmit relevant administrative patient data (e.g., diagnoses) to the patient administration system. Therefore, the patient administration system can be regarded as the center of the administrative memory of the facility’s information system.
+Application systems supporting patient administration are referred to as patient administration systems or sometimes "patient management systems." They must provide correct, complete, and up-to-date administrative patient data for all other application components. In addition, all other application components must be able to transmit relevant administrative patient data (e.g., diagnoses) to the patient administration system. Therefore, the patient administration system can be regarded as the center of the administrative memory of the facility’s information system.
 
 During patient admission, patient administration systems must support the retrieval of patient data (e.g., by name or birthdate) to avoid duplicate and erroneous registration of patients. The resulting identification numbers PIN and CIN are of utmost importance for the whole information system. They are the basis for correct assignment of patient-related data to patients and thus are the very precondition for a valid patient record—regardless if it is electronic or not. Without correct PIN and CIN, all the high-tech of a modern information system would be useless.
 
@@ -2026,7 +2022,7 @@ Table 3.2: Set of functions and related features typically to be supported by me
 - Function (from Sect. 3.3.2) | Typical features
 - Medical admission | Provide forms for documenting medical history. Provide forms for documenting diagnosis. Scan documents from referring physician and other sources
 - Decision-making, planning, and organization of patient treatment | Provide forms for documenting patient’s informed consent. Provide forms for documenting planned tasks. Provide guidelines for care planning. Provide context-related medical knowledge
-- Execution of diagnostic and therapeutic procedures | Provide forms for entering clinical data (free text or structured). Provide forms for preparing findings. 
+- Execution of diagnostic and therapeutic procedures | Provide forms for entering clinical data (free text or structured). Provide forms for preparing findings.
 - Medical discharge and medical discharge summary writing | Provide means for writing the discharge summary, for example, by collecting and presenting available data which should be compiled for the summary. Provide means for finalizing documentation
 - Human resources management | Provide means for managing staff. Create a roster. Assign doctors to patients or rooms
 - Coding of diagnoses and procedures | Algorithm for finding correct codes for diagnose and procedures given in natural language
@@ -2044,7 +2040,7 @@ When several persons are involved in the creation of a report (e.g., discharge s
 
 Medical documentation is the basis for decision-making, planning, and organization of patient treatment.
 The MDMS must therefore support the medical staff by providing medical knowledge, which should be preselected using documented data about the patient’s conditions.
-Ideally, a respective “infobutton” [5] should be implemented.
+Ideally, a respective "infobutton" [5] should be implemented.
 
 ### 3.4.3 Nursing Management and Documentation Systems (NMDS)
 Although patient treatment and patient care or nursing are inherently intertwined, these two areas are often considered separately, even in information systems.
@@ -2061,12 +2057,12 @@ Table 3.3: Set of functions and related features typically to be supported by nu
 - Nursing admission | Provide forms for documenting the nursing history
 - Medical and nursing care planning | Support creation of a nursing care plan. Provide forms for documenting diagnosis and problems. Provide forms for documenting nursing aims. Provide forms for documenting nursing tasks
 - Execution of nursing procedures | Provide forms for documenting performed tasks. Provide forms for documenting the outcome of nursing tasks
-- Coding of diagnoses and procedures | Provide catalogs and other means for coding of nursing diagnosis. 
+- Coding of diagnoses and procedures | Provide catalogs and other means for coding of nursing diagnosis.
 Provide catalogs and other means for coding of nursing procedures
 - Nursing discharge and nursing discharge summary writing | Provide forms for writing the nursing discharge summary. Provide means for finalizing nursing documentation. Communicate discharge information
 - Human resources management | Provide means for managing ward staff. Provide means for creating a roster. Assign nurses to patients or rooms
 
-Application systems designed to especially support the functions in Table 3.3 are referred to as nursing management and documentation systems (NMDS) or sometimes “nursing information system.”
+Application systems designed to especially support the functions in Table 3.3 are referred to as nursing management and documentation systems (NMDS) or sometimes "nursing information system."
 
 The NMDS must support the documentation of all steps of the nursing process.
 To support nursing care planning, the definition and use of predefined nursing care plans (comprising recent problems of the patient, nursing goals, and planned nursing tasks) is helpful.
@@ -2138,7 +2134,7 @@ Table 3.6 sums up the functions being supported and the features usually offered
 
 Table 3.6: Set of functions and related features typically to be supported by picture archiving and communication systems
 - Function (from Sect. 3.3.2) | Typical features
-- Execution of radiological examinations | Retrieve pictures. Display pictures. Modify presentation of pictures. “Hang” pictures like in the analog world. Communicate pictures. Archive pictures. Search for old pictures
+- Execution of radiological examinations | Retrieve pictures. Display pictures. Modify presentation of pictures. "Hang" pictures like in the analog world. Communicate pictures. Archive pictures. Search for old pictures
 
 ### 3.4.7 Laboratory Information Systems (LIS)
 Similar to radiology departments, laboratories exist both as functional areas within a facility, for example, a hospital, and as independent enterprises that offer their services to other health care facilities.
@@ -2168,7 +2164,7 @@ This results in performing the functions listed in Table 3.8.
 Table 3.8: Set of functions and related features typically to be supported by operation management systems
 - Function (from Sect. 3.3.2) | Typical features
 - Medical admission | Provide means for check-in of patient. Provide forms for documenting medical history. Provide forms for documenting diagnosis
-- Decision-making and patient information | Provide forms for documenting patients’ informed consent. 
+- Decision-making and patient information | Provide forms for documenting patients’ informed consent.
 - Execution of operations | Display vital parameters from monitoring devices. Provide forms for documenting procedures and outcomes
 - Coding of diagnoses and procedures | Provide catalogs and other means for coding diagnoses. Provide catalogs and other means for coding procedures. Provide means for creating statistics
 - Patient discharge and transfer to other facilities | Provide forms for preparing operation reports. Provide means for ordering patient transfer to ward.
@@ -2415,15 +2411,15 @@ Table 3.17: Further specific application components in health information system
 - Pharmacy information systems | Support the workflow in pharmacy departments: receiving drug orders, managing the drug stock, distributing drugs throughout the hospital
 - Teleradiology systems | Enable evaluations of radiological images from (external) radiologists’ remote workplaces and may be closely connected to RIS and PACS
 
-Until now, we have focused on “classical” application systems, i.e., software installations in health information systems primarily supporting the functions as listed in Sect. 3.3. But there is an increasing number of installations of software in health care settings that primarily control medical devices.
+Until now, we have focused on "classical" application systems, i.e., software installations in health information systems primarily supporting the functions as listed in Sect. 3.3. But there is an increasing number of installations of software in health care settings that primarily control medical devices.
 Hence, medical devices can increasingly be considered to be application systems and in many cases to be specialized MDMS.
-Consequently, they not only provide information (e.g., findings and images) via respective interfaces, but also need information from other application components (e.g., patient, case, order). This close interconnection is often referred to by the term “converging technologies.” Due to the considerable risks for patient safety, reasonable diligence must be exercised when integrating these converging technologies into the computer-based part of health information systems.
+Consequently, they not only provide information (e.g., findings and images) via respective interfaces, but also need information from other application components (e.g., patient, case, order). This close interconnection is often referred to by the term "converging technologies." Due to the considerable risks for patient safety, reasonable diligence must be exercised when integrating these converging technologies into the computer-based part of health information systems.
 
 ### 3.4.15 Clinical Information Systems (CIS) and Electronic Health Record Systems (EHRS) as Composite Application Systems
 Not every health information system contains an MDMS, an NMDS, or a CPOE system as separate, identifiable application systems.
 Instead, these components are often closely integrated modules of the so-called clinical information systems (CIS).
 
-Clinical information systems are also often called electronic health record systems (EHRS or EHR systems). As introduced in Sect. 2.​10, the electronic health record (EHR) is a complete or partial health record stored on an electronic storage medium.
+Clinical information systems are also often called electronic health record systems (EHRS or EHR systems). As introduced in Sect. 2.10, the electronic health record (EHR) is a complete or partial health record stored on an electronic storage medium.
 Given this definition, every computer-based application component supporting the execution of diagnostic and therapeutic procedures or other subfunctions of patient care (e.g., MDMS, outpatient management system, NMDS, PDMS) contains at least a partial EHR.
 In the CIS of a certain health care facility, these partial EHRs are often integrated and made available to the professionals from all areas of the facility to provide one harmonized view on the data of a patient.
 Because of this harmonized view, the term electronic health record system (EHRS) as a particular application component has become quite common.
@@ -2445,18 +2441,18 @@ In this section, you will learn more about these aspects of data integrity.
 Object identity originates from object-oriented programming and means that an object has an existence that is independent of its value.
 Thus, two objects may look the same, i.e., they have the same value, but can still be different.
 Applying this to the representation of entity types in a database leads to the requirement that the representation of every entity must be uniquely identifiable.
-In a health information system, this is especially important for entity types such as “patient” and “case,” but also for “finding,” “order,” and all other entity types (Sect. 3.2.3). This identity is needed, since all data need to be assigned to a specific patient and their cases.
-For example, if application components exchange information on the patient entity “Mr.
-Russo,” they must be sure they are communicating about the same entity (the “real” Mr. Jakub Russo, not another patient who has by chance the same name).
+In a health information system, this is especially important for entity types such as "patient" and "case," but also for "finding," "order," and all other entity types (Sect. 3.2.3). This identity is needed, since all data need to be assigned to a specific patient and their cases.
+For example, if application components exchange information on the patient entity "Mr.
+Russo," they must be sure they are communicating about the same entity (the "real" Mr. Jakub Russo, not another patient who has by chance the same name).
 
-Experience has shown that object identity of the entity type “patient” can be guaranteed only when every patient receives a unique number, the PIN.
+Experience has shown that object identity of the entity type "patient" can be guaranteed only when every patient receives a unique number, the PIN.
 The PIN should have no internal meaning.
 That is, it is created continuously and is usually numerical.
 Past attempts to generate a PIN from data collected from the patient, for example, from the date of birth and the name, have led to considerable problems, for example when a date of birth is corrected and thus the PIN also changes.
 In this case, object identity could be compromised.
-For example, the “real” Mr. Jakub Russo has the PIN 3050.1515 that is used throughout all application components and in the communication between them when referring to this real person.
+For example, the "real" Mr. Jakub Russo has the PIN 3050.1515 that is used throughout all application components and in the communication between them when referring to this real person.
 
-Similar actions should be taken for the entity type “case.” A CIN, which should also have no apparent meaning, should be assigned for every case.
+Similar actions should be taken for the entity type "case." A CIN, which should also have no apparent meaning, should be assigned for every case.
 If all application components of a health information system ensure that a case identified with a CIN is always assigned to the correct patient, the CIN can be used as an identifier for the patient.
 During order entry, for example, the CIN can then be used to uniquely identify a patient when ordering a laboratory test.
 
@@ -2490,7 +2486,7 @@ Data consistency means that copies of data on the same entity are identical.
 
 In health information systems architectures with many different application systems, the application systems often use the same data on patients and thus store them redundantly in their own database systems.
 This means that there are copies of data (e.g., of patient name, patient diagnosis, laboratory findings) that represent the same information about one particular entity.
-We call these copies of the same data “duplicates.”
+We call these copies of the same data "duplicates."
 
 Obviously, these duplicates are supposed to be identical in all application systems where they are stored.
 In this case, we denote these duplicates as consistent.
@@ -2499,7 +2495,7 @@ Transaction management tries to make sure that data are and stay consistent—we
 In health information systems having only one application system with only one database system, no redundant data exist, as all data are the so-called unicums—they only exist once.
 
 ## 3.6 Logical Tool Layer: Architectural Styles
-As defined in Sect. 2.​11, the architecture of an information system describes its fundamental organization, represented by its components, their relationships to each other and to the environment, and the principles guiding its design and evolution.
+As defined in Sect. 2.11, the architecture of an information system describes its fundamental organization, represented by its components, their relationships to each other and to the environment, and the principles guiding its design and evolution.
 The components of health information systems comprise functions, business processes, and tools for data and information processing, especially application components.
 
 With regard to the functions and processes, there are considerable differences between information systems of different kinds of health care settings.
@@ -2540,7 +2536,7 @@ If application components from different vendors are used and the previous condi
 In health information systems based on commercial software components from several different vendors, we can usually find DB^n architectures (also: distributed architecture). This means that several application components store data on certain entity types persistently and contain their own database systems.
 
 As a consequence of this style, patient-related data must be stored redundantly in different application components.
-For example, data on the entity types “patient” and “case” may be stored in different application components, such as the patient administration system, LIS, and RIS.
+For example, data on the entity types "patient" and "case" may be stored in different application components, such as the patient administration system, LIS, and RIS.
 
 In this architecture, great emphasis must therefore be placed on the consistency of redundant data (Sect. 3.8.1). For example, the architecture must define which system is the responsible source for which data elements.
 It may be useful to state, for example, that data on patient and case may be created and changed only by the patient administration system (however, the other components may locally store and use a copy of these data). We will discuss these topics in more detail in Sect. 3.9.1.
@@ -2554,13 +2550,13 @@ Even if one central application component with the central database has been ins
 Hence, even if a considerable part of these health information systems is DB^1 styled, they are in sum actually DB^n styled.
 Similarly, even DB^n styled health information systems contain sub-information systems which are DB^1 styled.
 
-We will refer to the mixed style by the string “DB^1/DB^n”.
+We will refer to the mixed style by the string "DB^1/DB^n".
 
 ### 3.6.2 Number of Application Systems: Monolithic vs. Modular
 In the simplest case, the overall health information system consists of only one computer-based application system which supports most of the functions.
 This application system would then look like the one rock on which the whole hospital rests.
 Respective health information systems are commonly called monolithic.
-We will refer to this style by the string “AC1”. Of course, this application component contains the central database and AC1 correlates with DB^1.
+We will refer to this style by the string "AC1". Of course, this application component contains the central database and AC1 correlates with DB^1.
 
 Especially in large health care facilities such as university medical centers or even in home settings, however, one application component is usually not sufficient to support the different functions.
 This leads to architectures with a multiplicity of application components, which can be denoted by AC^n and are called modular architectures.
@@ -2569,14 +2565,14 @@ However, modular architectures can still be DB^1 architectures: For example, the
 Anyhow, there is still widespread use of a combination of many application components and many databases, i.e., of (DB^n, AC^n) architectures.
 
 ### 3.6.3 Number of Application Software Products and Vendors: All-in-One vs. Best-of-Breed
-The terms “homogeneity” and “heterogeneity” are commonly used to describe whether a health information system consists of somehow similar components or very different ones. A practical measure is the number of application software products installed or the number of vendors delivering these products to a health information system.
+The terms "homogeneity" and "heterogeneity" are commonly used to describe whether a health information system consists of somehow similar components or very different ones. A practical measure is the number of application software products installed or the number of vendors delivering these products to a health information system.
 We denote a homogeneous architecture, i.e., a (sub-)health information system with software from only one vendor, as V1.
 Consequently, independent of the number of application systems, V1-HIS use only application software products that all come from the same vendor.
 On the contrary, heterogeneous architectures comprise software from several vendors and are denoted as V^n.
 
 Obviously, (DB^1, V^1) architectures are more common than (DB^1, V^n) architectures.
 
-An (AC^n, V^n) architecture where the different application systems are based on software from different vendors is commonly denoted as best-of-breed architecture, pointing to the fact that the health care setting combines the “best” application software products from different vendors.
+An (AC^n, V^n) architecture where the different application systems are based on software from different vendors is commonly denoted as best-of-breed architecture, pointing to the fact that the health care setting combines the "best" application software products from different vendors.
 This best-of-breed architecture is typically DB^n although (DB^1, V^n) architectures could become more common in the future.
 
 On the contrary, a monolithic (AC^1, V^1) architecture and even an (AC^n, V^1) architecture emphasizes that the health care facility selected only application software products from exactly one vendor to support as many functions as necessary.
@@ -2585,7 +2581,7 @@ This homogeneous architecture is also called all-in-one architecture.
 ### 3.6.4 Communication Pattern: Spaghetti vs. Star
 Application systems that are part of an AC^n architecture have to be connected as we discussed before.
 One way would be to directly connect those application systems that need to exchange certain patient-related data.
-For example, if data on the entity types “patient” and “case” are needed in the patient administration system in the RIS and in the LIS, direct communication links between these components seem to be a possible solution.
+For example, if data on the entity types "patient" and "case" are needed in the patient administration system in the RIS and in the LIS, direct communication links between these components seem to be a possible solution.
 Hence, a communication link allowing for the transfer of patient data between the patient administration system and the RIS may be introduced.
 Consequently, when connecting several application systems, this will lead to an increasing number of bidirectional communication links.
 This architecture is called spaghetti style.
@@ -2593,7 +2589,7 @@ All these different links must be supported and managed.
 As the number of application systems rises, the number of links grows nearly exponentially.
 The maximum number of communication links between n application components ($$n>=2$$) is $$\sum\limits_{x=1}^{n-1}x$$. We denote architectures with this spaghetti-styled communication pattern as CP^n.
 
-To reduce the large number of links, one can use smarter methods and tools to organize and implement the interoperability of application systems, for example, by installing an application system in the “middle”, ensuring communication between the application systems.
+To reduce the large number of links, one can use smarter methods and tools to organize and implement the interoperability of application systems, for example, by installing an application system in the "middle", ensuring communication between the application systems.
 
 For example, most hospital information systems following the DB^n style use a communication server.
 By using a communication server, no direct communication links between application systems are needed.
@@ -2638,9 +2634,9 @@ Rather, they are concepts that can exist to varying degrees and relate to differ
 For example, semantic interoperability may refer to more aspects in one application system than in another application system without completely denying semantic interoperability in the other application system.
 
 #### 3.7.1.1 Technical Interoperability
-Technical interoperability, as the most minimal level of interoperability, is the ability of an application system to send or receive “bits and bytes” in a reliable and standardized way and thus possesses respective interfaces and implements protocols.
+Technical interoperability, as the most minimal level of interoperability, is the ability of an application system to send or receive "bits and bytes" in a reliable and standardized way and thus possesses respective interfaces and implements protocols.
 The data may be sent or received as a file, string, or continuous stream.
-Files and strings of data can be considered messages (Sect. 2.​2). Web technologies such as REST application programming interfaces (APIs) provide such technical interoperability.
+Files and strings of data can be considered messages (Sect. 2.2). Web technologies such as REST application programming interfaces (APIs) provide such technical interoperability.
 
 If the application system wants to send messages to or receive messages from an application system installed on a different computer, these computers need to be physically interoperable (Sect. 3.10.2) and the interfaces have to be able to interact with lower layer communication protocols at the physical tool layer as defined in the ISO/OSI reference model (Sect. 3.10.2).
 
@@ -2651,7 +2647,7 @@ To be able to consider the structure, content, or meaning of the exchanged messa
 
 #### 3.7.1.2 Syntactic Interoperability
 An application system is syntactically interoperable if it is technically interoperable and additionally uses a predefined structure for the exchanged messages.
-Thus, when technically exchanging a data file, string, or stream, specific data elements can be identified, such as beginning and end of a message or of message segments containing data on certain entity types such as “patient,” “case,” or “finding.” Syntactically interoperable application systems are thus able to obtain information from received messages—exchanged data becomes machine-readable.
+Thus, when technically exchanging a data file, string, or stream, specific data elements can be identified, such as beginning and end of a message or of message segments containing data on certain entity types such as "patient," "case," or "finding." Syntactically interoperable application systems are thus able to obtain information from received messages—exchanged data becomes machine-readable.
 
 A quite simple approach to structure exchanged data are data formats such as CSV (comma-separated values) or XML.
 However, these formats cannot support syntactic interoperability by themselves, as they need additional agreements or rules, for example, on where to find the patient’s name or birthdate in the given dataset.
@@ -2660,14 +2656,14 @@ Communication standards such as Health Level 7 Version 2 (HL7 V2), DICOM, and He
 Thus, they support syntactic interoperability.
 All these communication standards are presented in more detail in the next sections.
 
-For example, the patient administration system is syntactically interoperable if it is technically interoperable and can use HL7 V2, specifically the message type “administrative admission.” Thereby, the patient administration system can send Mr. Russo’s administrative data to the RIS.
+For example, the patient administration system is syntactically interoperable if it is technically interoperable and can use HL7 V2, specifically the message type "administrative admission." Thereby, the patient administration system can send Mr. Russo’s administrative data to the RIS.
 If the RIS is syntactically interoperable as well, it will be able to incorporate these data in its database.
 
 #### 3.7.1.3 Semantic Interoperability
 Two application systems are semantically interoperable if they are syntactically interoperable and can exchange information (in the form of messages) that can be meaningfully interpreted by both and processed further.
 
-We can also say that the information transferred is not only “machine-readable” but also “machine-processable.” This means that the application system can “understand” the content of messages and act accordingly, for example, by using data for automatic decision support.
-Beyond mere syntactic agreement between two actors and agreement on data types or structures defined in a reference model for data representation, a prerequisite for this mutual understanding is a homogeneous, jointly agreed definition of the underlying content concepts, for example, a clinical concept such as “systolic blood pressure.” Such concepts are called detailed clinical models.
+We can also say that the information transferred is not only "machine-readable" but also "machine-processable." This means that the application system can "understand" the content of messages and act accordingly, for example, by using data for automatic decision support.
+Beyond mere syntactic agreement between two actors and agreement on data types or structures defined in a reference model for data representation, a prerequisite for this mutual understanding is a homogeneous, jointly agreed definition of the underlying content concepts, for example, a clinical concept such as "systolic blood pressure." Such concepts are called detailed clinical models.
 To achieve this, two application systems must adhere to such content models which define possible content (e.g., as openEHR archetypes) or actual content (e.g., as HL7 FHIR resources or openEHR templates, Sect. 3.7.2.8).
 
 Modelers who create detailed concept representations which are used for communication between systems or for querying data repositories frequently draw on already existing specialized terminology standards or terminologies such as SNOMED and LOINC (Logical Observation Identifiers Names and Codes) to enhance their models.
@@ -2744,7 +2740,7 @@ We will now discuss some of these standards in more detail.
 The list is by no means complete, with new standards emerging and others disappearing frequently, as well as current ones changing.
 
 #### 3.7.2.1 Health Level 7 Version 2 (HL7 V2)
-Health Level 7 Version 2 (HL7 V2) [9] is the most-implemented communication standard in hospital information systems for the transfer of messages with data on the entity types “patient” and “case” and the other entity types as described in Sect. 3.2.3, but excluding image data.
+Health Level 7 Version 2 (HL7 V2) [9] is the most-implemented communication standard in hospital information systems for the transfer of messages with data on the entity types "patient" and "case" and the other entity types as described in Sect. 3.2.3, but excluding image data.
 
 HL7 V2 has been maintained by the international standards organization Health Level Seven International (HL7) since the 1990s.
 It can be best considered as a standard to support mainly syntactic interoperability between application systems.
@@ -2756,7 +2752,7 @@ The message type describes the structure of the sent message and determines the 
 Following the arrival of the message, application system B confirms the receipt of the message through a receipt message (ACK) that is sent back to application system A. If a communication server such as in Sect. 3.9.2 is used to send a message, for example, from the patient administration system to the LIS, then the communication server first takes over the role of the receiving application system B. As a second step, the communication server, as the sending application component A, sends the message to LIS, which takes over the role of B.
 
 HL7 possesses an extensive catalog of event types.
-For example, A01 describes the event “admission of a patient,” A02 “transfer to another organizational unit,” A03 “discharge of a patient,” and R01 “completion of an examination result.”
+For example, A01 describes the event "admission of a patient," A02 "transfer to another organizational unit," A03 "discharge of a patient," and R01 "completion of an examination result."
 
 In addition, HL7 provides a list of standardized message types, such as admission, discharge, and transfer (ADT), for messages related to admission, discharge, and transfer of patients.
 Other message types are ORM for a general order message (e.g., ordering a radiological examination), ORU for an unsolicited observational result (e.g., radiology report), and BAR for patient accounting message.
@@ -2765,7 +2761,7 @@ Message types are assigned to event types.
 For example, if the LIS in the laboratory of a hospital registers the occurrence of an event of type R01, then it can send a message of message type ORU.
 All HL7 V2 messages are structured into segments, with each segment containing fields.
 For example, the ADT message contains at least the following segments: message header (MSH), event description (EVN), patient identification (PID), and patient visit information (PV1).
-With each segment, the relevant information is provided in different fields, each separated by “|”. The following example shows a very simplified pattern of an ADT message where a patient is admitted to a specified ward:
+With each segment, the relevant information is provided in different fields, each separated by "|". The following example shows a very simplified pattern of an ADT message where a patient is admitted to a specified ward:
 
 ```
 MSH|SENDING COMPONENT|RECEIVING COMPONENT|DATE OF MESSAGE|
@@ -2774,9 +2770,9 @@ PID|PATIENT IDENTIFIER|NAME^FIRST NAME|BIRTH OF DATE|SEX|
 PV1|PATIENT CLASS|WARD ID|DATE OF ADMISSION|
 ```
 
-Despite this standardization, the use of “plug and play” equipment is often not possible due to various reasons.
+Despite this standardization, the use of "plug and play" equipment is often not possible due to various reasons.
 On the one hand, HL7 leaves users with a certain degree of freedom with regard to semantic interoperability.
-Consensus must be reached between the communicating application systems, whether, for example, the choices “male.” “female,” “other,” and “unknown” for gender can be documented as “m”, “f”, “o”, and “u”, with “0”, “1”, “2”, and “3”, or in some other fashion.
+Consensus must be reached between the communicating application systems, whether, for example, the choices "male." "female," "other," and "unknown" for gender can be documented as "m", "f", "o", and "u", with "0", "1", "2", and "3", or in some other fashion.
 Furthermore, there also exists the problem of using catalogs of terms.
 For example, if a CIS wants to order a radiological examination, it must have an up-to-date copy of the service catalog of the radiological unit.
 
@@ -2804,8 +2800,8 @@ CDA is used in several countries for sharing clinical documents on a national le
 CDA documents comprise two parts: the CDA header that presents metadata on the document such as sending institution, patient name, and type and date of document; and the CDA body that contains the specific information (e.g., the lab result).
 The following example (adapted from [10]) shows a very simplified extract of an XML-based lab result message from the CDA body.
 The elements specify the type of observation (glucose 12 h fasting), the time of the observation (February 15, 2021, 7.30 a.m.), and the status (the observation is completed). The value for the actual result is shown in the value element (182 mg/dL), and the data type is PQ = physical quantity.
-The glucose lab value is also given in coded form (1554–5), which is a code from the LOINC system (“LN,” Sect. 3.7.2.10). Using LOINC codes supports semantic interoperability.
-LOINC is uniquely identified by the LOINC Object Identifier (OID) (“2.16.840.1.113883.6.1”). All relevant terminology systems in health care possess a unique OID which allows application systems to exchange the information which terminology systems is being used.
+The glucose lab value is also given in coded form (1554–5), which is a code from the LOINC system ("LN," Sect. 3.7.2.10). Using LOINC codes supports semantic interoperability.
+LOINC is uniquely identified by the LOINC Object Identifier (OID) ("2.16.840.1.113883.6.1"). All relevant terminology systems in health care possess a unique OID which allows application systems to exchange the information which terminology systems is being used.
 
 ```
 <observationEvent>
@@ -2817,7 +2813,7 @@ LOINC is uniquely identified by the LOINC Object Identifier (OID) (“2.16.840.1
 </observationEvent>
 ```
 
-Since HL7 V3 is not compatible with HL7 V2 and a “translation” between both formats is not trivial, HL7 V3 is primarily used for transinstitutional message exchange for which version 2 is not well suited.
+Since HL7 V3 is not compatible with HL7 V2 and a "translation" between both formats is not trivial, HL7 V3 is primarily used for transinstitutional message exchange for which version 2 is not well suited.
 Both HL7 versions can be expected to coexist for a longer time.
 
 #### 3.7.2.3 Health Level 7 Fast Health care Interoperability Resources (HL7 FHIR)
@@ -2826,16 +2822,16 @@ The standard is built upon web technologies, most notably REST APIs and simple H
 The focus is on sharing medical data in terms of transferring them from one application system to another in a standardized manner and thus make medical data portable.
 FHIR supports technical interoperability (by using web technology standards), syntactic interoperability (via clearly defined resources), and semantic interoperability (via an underlying information model and the use of reference terminologies).
 
-The two basic building blocks are information models called “resources” which represent clinical, identifying, or financial information as well as APIs.
+The two basic building blocks are information models called "resources" which represent clinical, identifying, or financial information as well as APIs.
 The basic resources follow the so-called 80/20 approach, i.e., to meet 80% of the needs by implementing 20% of the requirements.
 FHIR neither aims to cover all clinical information nor to implement an EHR but pragmatically focuses on frequent, generic use cases.
 HL7 develops the FHIR specification and manages the resources, for which it also defines a number of rules on how to create them.
 FHIR provides terminology linking and validation.
 
-To implement specific clinical use cases, generic FHIR resources are adapted into “profiles,” or more specific information models.
+To implement specific clinical use cases, generic FHIR resources are adapted into "profiles," or more specific information models.
 Thus, institutional or local adaptations are implemented, albeit with a trade-off towards loss of interoperability.
 
-Apart from supporting data sharing by providing mechanisms for interfacing different application systems with likely diverging underlying information models and persistence structures, a native “FHIR server” implements a set of APIs and resources and allows for operations, for example, to create, update, or search resources.
+Apart from supporting data sharing by providing mechanisms for interfacing different application systems with likely diverging underlying information models and persistence structures, a native "FHIR server" implements a set of APIs and resources and allows for operations, for example, to create, update, or search resources.
 
 #### 3.7.2.4 Digital Imaging and Communications in Medicine (DICOM)
 Digital Imaging and Communications in Medicine (DICOM) [11] is an open standard maintained since the 1980s by the DICOM Standards Committee of the National Electrical Manufacturers Association.
@@ -2844,7 +2840,7 @@ DICOM addresses the integration requirements of the medical imaging sector.
 DICOM supports technical interoperability at the physical tool layer (by defining network protocols such as Transmission Control Protocol/Internet Protocol (TCP/IP)), syntactic interoperability (by its message formats), and—to some extent—semantic interoperability (by an underlying information model).
 
 DICOM defines not only file and message formats for all types of medical imaging modalities (e.g., computed tomography, digital X-ray, magnetic resonance imaging, ultrasound, nuclear medicine imaging), but also a network protocol at the physical tool layer with a set of well-defined network services.
-These services permit, for example, an imaging modality to retrieve a “worklist” describing the patients to be examined from the RIS, to transmit the images and X-ray dose information created during an examination to the PACS, to confirm that the images have been archived successfully (and can thus be deleted locally), and to notify the RIS that the imaging procedure has been completed.
+These services permit, for example, an imaging modality to retrieve a "worklist" describing the patients to be examined from the RIS, to transmit the images and X-ray dose information created during an examination to the PACS, to confirm that the images have been archived successfully (and can thus be deleted locally), and to notify the RIS that the imaging procedure has been completed.
 Other services permit a diagnostic workstation to retrieve current and prior imaging studies, to print a hardcopy on a medical printer, or to store a report and results of measurements performed on the images.
 Unlike HL7 V2, the DICOM standard defines a complete network protocol stack (based on TCP/IP, Sect. 3.10.2) using efficient binary encoding and, optionally, image compression techniques.
 The capabilities of two communicating systems (such as the services and encodings supported by both systems) are dynamically negotiated whenever a new network connection is initiated, which permits a tight integration because systems can to some degree adapt to the capabilities of their communication peers.
@@ -2860,15 +2856,15 @@ Integrating the Health care Enterprise (IHE) is an organization founded by medic
 
 The approach taken by IHE is to analyze typical work processes occurring in health care.
 IHE identifies the application systems involved in these processes and the information that should be exchanged between these application systems to support the diagnostic and therapeutic processes as good as possible.
-For example, IHE has defined working processes in the form of “integration profiles” for areas such as cardiology, pathology, radiology, and pharmacy.
+For example, IHE has defined working processes in the form of "integration profiles" for areas such as cardiology, pathology, radiology, and pharmacy.
 It has also defined integration profiles for the exchange of clinical documents between different health care facilities (IHE XDS, Sect. 3.7.2.6).
 
-IHE then selects existing standards, i.e., especially HL7 V2 and DICOM, for each “transaction” (information exchange between application systems) and restricts the options offered by these standards for each transaction so that plug-and-play interoperability becomes possible.
+IHE then selects existing standards, i.e., especially HL7 V2 and DICOM, for each "transaction" (information exchange between application systems) and restricts the options offered by these standards for each transaction so that plug-and-play interoperability becomes possible.
 
 By defining work processes, IHE supports process interoperability.
 Together with standards such as HL7, HL7 CDA, HL7 FHIR, openEHR, and DICOM, it indirectly supports syntactic and semantic interoperability.
 
-IHE furthermore offers comprehensive test software enabling vendors to test their products’ interfaces for IHE-conformant process interoperability and organizes large cross-vendor testing events called “IHE Connectathons” (from “connection” and “marathon”).
+IHE furthermore offers comprehensive test software enabling vendors to test their products’ interfaces for IHE-conformant process interoperability and organizes large cross-vendor testing events called "IHE Connectathons" (from "connection" and "marathon").
 
 IHE is not a standards body as such but fills a very important gap by selecting the most appropriate set of standards for a typical clinical workflow.
 It reduces the indeterminacy of the way of interaction, for example, between HL7 V2 and DICOM, by proposing clear rules for their joint use.
@@ -2881,7 +2877,7 @@ One of the above-mentioned technical frameworks is the IT Infrastructure Framewo
 Among other things, it describes how to share documents between different health care organizations.
 IHE Cross-Enterprise Document Sharing (IHE XDS) is used, for example, for the Austrian ELGA (national EHR) and partly in the German Medical Informatics Initiative.
 
-IHE XDS defines neither the content of these documents nor their internal structure, making it “content-agnostic.” Instead, it defines actors along with their interactions and integration profiles of both these components.
+IHE XDS defines neither the content of these documents nor their internal structure, making it "content-agnostic." Instead, it defines actors along with their interactions and integration profiles of both these components.
 IHE XDS.b is a prominent integration profile defining affinity domains and actors.
 A source system (e.g., an RIS) provides a new document, for example, a radiology report on Mr. Russo, along with its metadata to the document repository.
 This document is then registered in a document registry. A document consumer, for example, another clinical application system, such as the MDMS, at a different site in the health care network, can query the document registry to locate a relevant document and then query and subsequently retrieve this document from the decentral document repository.
@@ -2914,7 +2910,7 @@ The first layer is the reference model, which describes the smallest logical blo
 As part of the archetype model, the second layer defines the domain model representation in a maximum approach, meaning that an archetype (e.g., blood pressure or height), as the most basic and self-contained clinical concept, should serve all potential uses of this concept within the health care domain.
 
 In other words, archetypes are reusable as semantic building blocks in different contexts without further modification.
-Within an archetype, each single item or data instance can be linked or bound to a terminology (e.g., LOINC or SNOMED CT). Archetype classes include “composition”, “section,” and “entry,” whereby the latter again includes “observation,” “evaluation,” “instruction,” “action,” and “cluster.”
+Within an archetype, each single item or data instance can be linked or bound to a terminology (e.g., LOINC or SNOMED CT). Archetype classes include "composition", "section," and "entry," whereby the latter again includes "observation," "evaluation," "instruction," "action," and "cluster."
 To create more complex information units on the basis of these interchangeable building blocks in the context of specific use cases, openEHR uses templates.
 An operation report, the results of an assessment test, or a form/document could, for example, be represented as templates, each assembled using archetypes just like construction bricks.
 A number of tools support the collaborative creation of openEHR archetypes and templates by clinicians and modelers, their governance, and the automated creation of software artifacts from them, which can be used in application systems of all kinds.
@@ -2947,10 +2943,10 @@ LOINC codes are constituted of six components, for example, LOINC code 1554-5:
 2. property: the attribute or characteristic measured, for example, mass concentration (MCnc),
 3. time: the point or interval of time,
 4. system (specimen), for example, serum/plasma,
-5. scale: type of value, for example, numerical quantitative (Qn), such as “125”,
-6. method (optional): classification of the measurement/observation method.  
+5. scale: type of value, for example, numerical quantitative (Qn), such as "125",
+6. method (optional): classification of the measurement/observation method.
 
-The LOINC “long common name” for this code example is “Glucose [Mass/volume] in Serum or Plasma --12 hours fasting.”
+The LOINC "long common name" for this code example is "Glucose [Mass/volume] in Serum or Plasma --12 hours fasting."
 
 #### 3.7.2.11 Clinical Data Interchange Standards Consortium (CDISC)
 The Clinical Data Interchange Standards Consortium (CDISC) spans a wide variety of standards, which are mainly—but not exclusively—designed for and used in clinical studies and trials in the pharmaceutical industry.
@@ -2959,7 +2955,7 @@ CDISC standards were developed in the late 1990s and are maintained by the non-p
 CDISC standards are free to use and cover different domains and parts of the complete process to develop clinical products such as new drugs.
 The use of some of these standards is mandatory for reporting and submitting results from clinical trials to regulatory authorities, for example, to the FDA (U.S. Food and Drug Administration).
 
-Common CDISC standards include the “foundational standards,” which cover all necessary processes within research studies.
+Common CDISC standards include the "foundational standards," which cover all necessary processes within research studies.
 Along the evolution of a research study, these standards cover planning (model for planning: Protocol Representation Model), data acquisition (model for data collection: Clinical Data Acquisition Standards Harmonization), organizing and managing data (e.g., Study Data Tabulation Model (SDTM), model for Questionnaires, Ratings, and Scales), and for data analysis (Analysis Data Model).
 
 SDTM is the standard in which study data are submitted to regulatory authorities.
@@ -3012,7 +3008,7 @@ To support data integration with non-computer-based application components, comp
 ### 3.8.2 Semantic Integration
 Like data integration, semantic integration is concerned with data.
 Semantic integration is achieved when semantically interoperable application systems actually use the same system of concepts, i.e., they interpret data the same way.
-For example, when the sending application system uses the abbreviation “GOT” for a lab value, but the receiving application system does not know this code and uses “ASAT” for the same concept instead, then semantic integration is not achieved.
+For example, when the sending application system uses the abbreviation "GOT" for a lab value, but the receiving application system does not know this code and uses "ASAT" for the same concept instead, then semantic integration is not achieved.
 
 To achieve semantic integration of application systems, the application systems must agree on the way that information is represented, for example, within a hospital or a network of care facilities.
 This means that there needs to be an agreement on a common information model, for example, on Mr. Russo’s blood pressure.
@@ -3033,7 +3029,7 @@ If two application components agree on the same information model, exchange of i
 Both openEHR (Sect. 3.7.2.7) and HL7 FHIR (Sect. 3.7.2.3) enable the creation of common information models, derived from a reference model.
 
 Semantic integration can be elegantly and thoroughly supported by health data dictionaries.
-Such medical data dictionaries are central catalogs of health-related concepts and terms that offer the possibility of representing the semantic relationships among all data stored in a health information system and of linking that local vocabulary to internationally standardized nomenclatures and knowledge sources (“terminology linking” in openEHR). Such health data dictionaries (sometimes also called Medical Data Dictionaries, MDD) can be independent application components or part of existing application components.
+Such medical data dictionaries are central catalogs of health-related concepts and terms that offer the possibility of representing the semantic relationships among all data stored in a health information system and of linking that local vocabulary to internationally standardized nomenclatures and knowledge sources ("terminology linking" in openEHR). Such health data dictionaries (sometimes also called Medical Data Dictionaries, MDD) can be independent application components or part of existing application components.
 
 ### 3.8.3 User Interface Integration
 User interface integration is guaranteed when different application systems represent data and organize their user interfaces in a unified way.
@@ -3042,7 +3038,7 @@ Icons for patients should code gender with the same colors.
 Alerts and warnings should be presented using the same colors and layout.
 Or the birthdate of a patient should also be displayed in the same format (e.g., yyyy-mm-dd).
 
-The responsibility for integrating application systems in such a way that user interface integration is achieved lies with tactical management of information systems (Sect. 4.​4). Especially at the specification stage of a new application software product, the relevant user interface requirements must be clearly described.
+The responsibility for integrating application systems in such a way that user interface integration is achieved lies with tactical management of information systems (Sect. 4.4). Especially at the specification stage of a new application software product, the relevant user interface requirements must be clearly described.
 This can be supported by user interface guidelines that are commissioned by standardization, governmental agencies, or leading health IT vendors.
 
 ### 3.8.4 Context Integration
@@ -3051,11 +3047,11 @@ Context integration is achieved if the context is preserved when the application
 Or, more generally, the aim is that a task that has already been executed once for a certain purpose, such as login to a component or selecting a patient, does not need to be repeated again in the information system in order to achieve the same purpose.
 
 Assume that the nurse Peter Smith first wants to order a lab examination for the patient Jakub Russo at his workstation before documenting certain nursing procedures.
-The nurse would first log in to the CPOE system and create the user context “Peter Smith.” Then Peter searches for the patient Jakub Russo and orders the requested examination for him.
-This creates the patient context “Jakub Russo.” For the next task, the nurse would have to start the NMDS.
-Without context integration, the user context “Peter Smith” would not be created in this application system automatically and Peter would have to log in again.
-And without context integration, Peter would have to again select the patient and restore the patient context “Jakub Russo” before being able to document the nursing procedures.
-Context integration would be achieved when both login (then also called “single sign-on”) and patient selection (maybe called “single patient look-up”) do not have to be repeated again, even when changing the application system.
+The nurse would first log in to the CPOE system and create the user context "Peter Smith." Then Peter searches for the patient Jakub Russo and orders the requested examination for him.
+This creates the patient context "Jakub Russo." For the next task, the nurse would have to start the NMDS.
+Without context integration, the user context "Peter Smith" would not be created in this application system automatically and Peter would have to log in again.
+And without context integration, Peter would have to again select the patient and restore the patient context "Jakub Russo" before being able to document the nursing procedures.
+Context integration would be achieved when both login (then also called "single sign-on") and patient selection (maybe called "single patient look-up") do not have to be repeated again, even when changing the application system.
 
 Health Level 7 provides a standard for single sign-on and single patient lockup, called CCOW (Clinical Context Object Workgroup).
 
@@ -3103,7 +3099,7 @@ It is even more complicated in settings of more than one database system, i.e., 
 
 Transaction management guarantees data integrity and especially data Consistency through Atomicity, Isolation, and Durability of any transaction (ACID conditions). Atomicity guarantees that either all of the tasks of a transaction are performed or none of them are; isolation makes intermediary updates of data inside the transaction invisible; and durability stands for persistence of the transaction’s results.
 
-The “2-phase commit protocol” was developed for transaction management in DB^n architectures.
+The "2-phase commit protocol" was developed for transaction management in DB^n architectures.
 Among other things, this protocol is intended to ensure data consistency in case of data redundancy.
 In the initial phase, it checks if the transaction can be carried out by all affected application systems.
 Only if the changes are possible everywhere, they are actually carried out in a second phase in all application systems.
@@ -3117,8 +3113,8 @@ Nevertheless, to guarantee data consistency, the following more asynchronous app
 
 For every redundantly stored entity type, one application component is determined as the primary application system for this entity type.
 Thus, data on entities of this type can only be inserted, deleted, or changed in this primary application system.
-For example, the patient administration system is typically the primary application system for the entity types “patient” and “case.” Consequently, data on patients and cases can be created, deleted, or changed only in the patient administration system.
-Therefore, this application system is sometimes called the “leading system.”
+For example, the patient administration system is typically the primary application system for the entity types "patient" and "case." Consequently, data on patients and cases can be created, deleted, or changed only in the patient administration system.
+Therefore, this application system is sometimes called the "leading system."
 
 Transactions in a database of the primary application system are carried out without regard to whether the corresponding operations can also be (immediately) carried out in the databases of the other affected application components.
 Patient admission is thereby carried out through the patient administration system independent of, for example, what is going on in the RIS.
@@ -3148,16 +3144,16 @@ For this, the sending application system will pause from the time that it sends 
 In this way, communication servers can be used to invoke services as described in Sect. 3.9.4 and to provide feature integration as well.
 
 In health information systems with DB^n architecture and redundant data storage, the application components store the data needed for supporting their functions by themselves.
-This holds especially for data on the entity types “patient” and “case.” Consequently, the communication server is used to ensure that every application system will find these data in its database system whenever the data is needed without having to request this data from the patient administration system.
-The following example describes how the patient administration system and the communication server can be integrated based on asynchronous communication and use of the interoperability standard HL7 (Sect. 3.7.2.1) in order to ensure data integration as well as data consistency regarding the entity types “patient” and “case”:
+This holds especially for data on the entity types "patient" and "case." Consequently, the communication server is used to ensure that every application system will find these data in its database system whenever the data is needed without having to request this data from the patient administration system.
+The following example describes how the patient administration system and the communication server can be integrated based on asynchronous communication and use of the interoperability standard HL7 (Sect. 3.7.2.1) in order to ensure data integration as well as data consistency regarding the entity types "patient" and "case":
 Mr.
 Russo has just been admitted to Ploetzberg Hospital in the administration unit.
-Since the patient administration system is the primary application system for the entity types “patient” and “case,” patient admission is exclusively supported by the patient administration system (Sect. 3.9.1). Even before Mr. Russo leaves the administration unit to go to the cardiology ward, the following messages are exchanged between the application systems:
+Since the patient administration system is the primary application system for the entity types "patient" and "case," patient admission is exclusively supported by the patient administration system (Sect. 3.9.1). Even before Mr. Russo leaves the administration unit to go to the cardiology ward, the following messages are exchanged between the application systems:
 
-1. The patient administration system creates a message that indicates that Mr. Russo was just admitted to Ploetzberg Hospital (event called “A01” by HL7). This message includes data on the entity types “patient” and “case” using a predefined standard (such as HL7).
+1. The patient administration system creates a message that indicates that Mr. Russo was just admitted to Ploetzberg Hospital (event called "A01" by HL7). This message includes data on the entity types "patient" and "case" using a predefined standard (such as HL7).
 2. The patient administration system sends this message to the communication server.
-3. The communication server multicasts this message to all application systems that may need data on the entity types “patient” and “case” during the Mr. Russo’s stay (e.g., CPOE system, EHRS, RIS). Usually, nearly all application systems of health information systems need this administrative data.
-4. All application components receiving the message will store the data on the entity types “patient” and “case” for Mr. Russo in their own database system in order to have them available in case they are needed.  
+3. The communication server multicasts this message to all application systems that may need data on the entity types "patient" and "case" during the Mr. Russo’s stay (e.g., CPOE system, EHRS, RIS). Usually, nearly all application systems of health information systems need this administrative data.
+4. All application components receiving the message will store the data on the entity types "patient" and "case" for Mr. Russo in their own database system in order to have them available in case they are needed.
 
 A similar process takes place when administrative data on Mr. Russo is updated.
 If his address changes, for example, this is first documented in the patient administration system.
@@ -3169,7 +3165,7 @@ Above all, users in the radiology department, for example, can always find the a
 
 ### 3.9.3 Open Platforms and Vendor-Neutral Archives
 An application system is called open platform if it stores patient data based on open specifications and open information models and provides open Application Programming Interfaces (API) for storing and querying these data.
-“Open” in this context means that the specifications, information models, and interfaces are published and can be used by any vendor.
+"Open" in this context means that the specifications, information models, and interfaces are published and can be used by any vendor.
 
 An open platform follows the idea that both data and metadata are stored in a centralized database, with strict separation between application logic and data storage.
 
@@ -3185,14 +3181,14 @@ To support communication between open platforms and other application systems, s
 
 While an open platform may seem difficult to introduce in a long-grown environment of different application systems with their own proprietary information models, it reduces the ever-increasing cost of mappings on the communication server side whenever a new application system is introduced.
 It also eliminates costly mapping processes when migrating patient data from a previous to a new application system.
-Open APIs also enable new vendors to integrate their application software products in given information systems by using the agreed information models and thus enable a growing “application ecosystem.”
+Open APIs also enable new vendors to integrate their application software products in given information systems by using the agreed information models and thus enable a growing "application ecosystem."
 
 ### 3.9.4 Service-Oriented Architectures
-Service-oriented architectures (SOAs) represent architectural styles of health information systems that provide the means and tools to use services for the collaboration of application systems. A service is an encapsulated feature provided by an application system in order to be invoked by other application systems (Sect. 2.​9).
+Service-oriented architectures (SOAs) represent architectural styles of health information systems that provide the means and tools to use services for the collaboration of application systems. A service is an encapsulated feature provided by an application system in order to be invoked by other application systems (Sect. 2.9).
 
 This results in synchronous communication between application systems, meaning that the process in the invoking application system, after starting the communication with the providing application system, is paused until a response from the partner is obtained.
 
-The patient administration system may, for example, store data on the entity type “patient” and may provide a service for retrieving name, birthdate, and address of certain patients.
+The patient administration system may, for example, store data on the entity type "patient" and may provide a service for retrieving name, birthdate, and address of certain patients.
 In this case, the patient data is called a resource.
 Other application systems can access this resource by invoking the retrieve service and handing over a certain PIN.
 They will then obtain the desired data—if access is granted.
@@ -3225,7 +3221,7 @@ Servers are used to provide sophisticated features to clients (Sect. 3.10.1.2). 
 If terminal servers are used, mere terminals (Sect. 3.10.1.2) for displaying output and receiving input are sufficient.
 Further server types are name servers (for domain name system (DNS) management), DHCP servers (for dynamic IP assignment), mail servers (for email services), and web servers (for website management).
 
-There is a strong trend to virtualize servers. A “real” (i.e., physical) server can simulate lots of the so-called virtual servers.
+There is a strong trend to virtualize servers. A "real" (i.e., physical) server can simulate lots of the so-called virtual servers.
 Every virtual server runs a particular instance of an operating system and can be used to implement application software products.
 Thus, these virtual servers behave nearly identical to physical servers.
 This approach makes computing power in a data center much more flexible and scalable.
@@ -3352,7 +3348,7 @@ Furthermore, the enterprise functions in that reference model bear a relation to
 To define entity types within the reference model of the domain layer, the HL7-RIM5 was used.
 
 The Reference Model for the Domain Layer of Hospital Information Systems is available as a 3LGM^2 model6 and for this reason can be immediately used for modeling hospital information systems.
-Following the definition of reference models in Sect. 2.​13, the Reference Model of the Domain Layer can be used as a model pattern for the domain layer of hospital information systems and, additionally, can help to compare hospital information systems by means of a uniform terminology used for the domain layer.
+Following the definition of reference models in Sect. 2.13, the Reference Model of the Domain Layer can be used as a model pattern for the domain layer of hospital information systems and, additionally, can help to compare hospital information systems by means of a uniform terminology used for the domain layer.
 This means that, for each enterprise function of the Reference Model of the Domain Layer, it is possible to determine the support by application components in different information systems.
 
 ### 3.11.2 The Domain Layer of CityCare
@@ -3369,9 +3365,9 @@ The entity types used are described in Sect. 3.2.
 
 All three health care facilities cooperating in CityCare perform activities regarding the functions of patient admission and execution of diagnostic and therapeutic procedures.
 These functions performed by each health care facility are modeled only once at the domain layer.
-Ploetzberg Hospital is the only hospital offering “execution of MRI diagnostics,” whereas Ernst Jokl Hospital is the only hospital offering “execution of arthroscopic surgery procedure.”
+Ploetzberg Hospital is the only hospital offering "execution of MRI diagnostics," whereas Ernst Jokl Hospital is the only hospital offering "execution of arthroscopic surgery procedure."
 
-Entity types such as “patient,” “case,” and “order” that are used or updated in all three facilities are also modeled once at the domain layer.
+Entity types such as "patient," "case," and "order" that are used or updated in all three facilities are also modeled once at the domain layer.
 To visualize different health care facilities, labels (see grey rectangles) were used in the 3LGM^2 model.
 
 ### 3.11.3 The Logical Tool Layer of CityCare
@@ -3394,7 +3390,7 @@ We can also identify functional redundancies.
 For administrative admission, for example, all three facilities use different application systems.
 Within a health care network like CityCare, it would also be possible to support this function with one application system that is used by each facility.
 Application systems serving solely as an integration technology, such as the EJH communication server, do not need to be linked with functions at the domain layer in 3LGM^2 models.
-For the VNA and the EHR system, no supported functions are modeled either—finding appropriate functions is part of the exercise in Sect. 3.12.6. For the correctness of the model, application systems are only assigned to “leaf functions” but not to superordinate functions such as “execution of MRI diagnostics.”
+For the VNA and the EHR system, no supported functions are modeled either—finding appropriate functions is part of the exercise in Sect. 3.12.6. For the correctness of the model, application systems are only assigned to "leaf functions" but not to superordinate functions such as "execution of MRI diagnostics."
 
 The architecture of Ernst Jokl Hospital can be described as a star-based (DB^n, AC^n, Vn) architecture.
 There are at least two major application systems (AC^n), probably from different vendors (Vn), with their own respective database system (DB^n). The application systems—the patient administration system and the MDMS—exchange data via a communication server (star-based architecture) using HL7 V2 messages.
@@ -3455,11 +3451,11 @@ Nurses: Important functions are nursing admission, decision-making and patient i
 Administrative staff: Important functions are patient identification, administrative admission, and administrative discharge and billing.
 
 ### 3.12.3 Domain Layer: The Patient Entity Type
-Look at the entity type “patient” that is interpreted and updated by various functions.
+Look at the entity type "patient" that is interpreted and updated by various functions.
 Which functions update the patient information, which functions interpret it?
 
 Answer:
-The entity type “patient” is updated by the function “patient admission.” All other functions that are related to patient care interpret it.
+The entity type "patient" is updated by the function "patient admission." All other functions that are related to patient care interpret it.
 
 ### 3.12.4 Logical Tool Layer: Communication Server
 Imagine a hospital information system that comprises four application systems: a PAS, an MDMS, a RIS, and a PDMS.
@@ -3500,15 +3496,15 @@ Process integration would be considered high if both application systems work to
 ### 3.12.6 CityCare
 The following questions can be answered by reading the text and analyzing the 3LGM^2 figures of the CityCare Example 3.11.
 (a) The EHRS and the VNA in CityCare are not linked with any function they support. Which function of the domain layer may (partly) be supported by these application systems? Which functions (as introduced in Sect. 3.3) that are supported by these application systems could be added at the domain layer?
-(b) In which database systems shown in the logical tool layer should the entity type “patient” be stored?
-(c) The MPI should receive messages containing PINs (entity type “patient”) from all patient administration systems. Why is there no communication link between the MPI and the patient administration system of Ernst Jokl Hospital?
+(b) In which database systems shown in the logical tool layer should the entity type "patient" be stored?
+(c) The MPI should receive messages containing PINs (entity type "patient") from all patient administration systems. Why is there no communication link between the MPI and the patient administration system of Ernst Jokl Hospital?
 (d) According to the matrix view, which functions are supported redundantly in CityCare? Discuss pros and cons of the functional redundancies in this scenario. What redundancies would you resolve and how?
-(e) Which functions in which health care facility cannot be performed anymore if “Application Server 1 Ernst Jokl Hospital” fails? Suggest a change to the physical tool layer that would minimize the risk of missing function support in case a single application server fails.
+(e) Which functions in which health care facility cannot be performed anymore if "Application Server 1 Ernst Jokl Hospital" fails? Suggest a change to the physical tool layer that would minimize the risk of missing function support in case a single application server fails.
 (f) For the CityCare network, would it make sense to implement further profiles from IHE? Explain your decision.
 
 Answer:
 (a) EHR systems as comprehensive application systems combine the functionalities of MDMS, NDMS, and CPOE systems. The EHRS of CityCare could therefore be used for medical admission, preparation of an order, or execution of diagnostic and therapeutic procedures. However, each of the three health care facilities in CityCare has its own MDMS. Therefore, the EHRS is probably mainly used for accessing findings from the other health care facilities, for example, during medical admission. For the VNA, no suitable function is modeled at the domain layer. At the domain layer, archiving of patient information could be added which is supported by the VNA and, to some extent, also by the EHRS.
-(b) The entity type “patient” represents the persons who are the subject of health care. Information about a patient includes the PIN and other administrative data about the person. Each of the application systems supporting subfunctions of patient care and having an own database system stores the entity type “patient,” for example, the patient administration system including the MPI, the MDMS, the EHRS, and the VNA.
+(b) The entity type "patient" represents the persons who are the subject of health care. Information about a patient includes the PIN and other administrative data about the person. Each of the application systems supporting subfunctions of patient care and having an own database system stores the entity type "patient," for example, the patient administration system including the MPI, the MDMS, the EHRS, and the VNA.
 (c) In Ernst Jokl Hospital, there is a star architecture at the logical tool layer, i.e., a communication server is used for the exchange of messages between application systems. The patient administration system of Ernst Jokl Hospital, where the PINs of Ernst Jokl Hospital are generated, sends this information in a message to the communication server. The communication server forwards the message to the MPI of the health care network. In the central MPI of the tHIS, the local patient identification numbers of the different health care facilities are linked to the unique transinstitutional patient identification number of CityCare.
 (d) Administrative admission, appointment scheduling, medical admission, order entry, patient identification, and preparation of an order are each supported by at least three application systems in the scenario.
 Pros (examples):
@@ -3523,35 +3519,35 @@ Resolving these redundancies (examples):
 - One patient administration system that supports patient identification and administrative admission could be used in all health care facilities instead of three patient administration system and an MPI.
 - The central EHRS could be used as MDMS, NDMS as well as CPOE system in each of the facilities and would replace the existing local application systems.
 
-(e) According to the matrix view in Fig. 3.​37, the MDMS of Ploetzberg Hospital is installed on application server 1 Ernst Jokl Hospital. Thus, if this application server 1 Ernst Jokl Hospital fails, the following functions cannot no longer be performed: appointment scheduling, medical admission, order entry, and preparation of an order (see matrix view in Fig. 3.​35).
+(e) According to the matrix view in Fig. 3.37, the MDMS of Ploetzberg Hospital is installed on application server 1 Ernst Jokl Hospital. Thus, if this application server 1 Ernst Jokl Hospital fails, the following functions cannot no longer be performed: appointment scheduling, medical admission, order entry, and preparation of an order (see matrix view in Fig. 3.35).
 
 The application systems used in CityCare should be made available by server clusters with redundant servers. If one server in a server cluster fails, another server can take over its task. Thus, there is no interruption in function support.
- 
+
 (f) Yes, it makes sense to use further integration profiles from IHE. For example, IHE XDS could be used. The CityCare network could be established as an affinity domain with several actors that interact in a standardized way (process interoperability) to share document-level or even large binary patient data, such as findings, images, or radiology reports. These documents would be registered centrally in a document registry and could be retrieved by other systems. Depending on how the central EHRS is implemented, it could either take the role of a document registry that forwards the requests to a decentral source, or it could—as in our case of a central database—act as a central document provider itself.
 
 ## References
-1. European Parliament. General Data Protection Regulation (GDPR). 2016. https://​eur-lex.​europa.​eu/​legal-content/​EN/​TXT/​PDF/​?​uri=​CELEX:​32016R0679&​from=​EN. Accessed 15 Jan 2023.
+1. European Parliament. General Data Protection Regulation (GDPR). 2016. https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=EN. Accessed 15 Jan 2023.
 2. Roach KE, Budiman-Mak E, Songsiridej N, Lertratanakul Y. Development of a shoulder pain and disability index. Arthritis Care Res. 1991;4(4):143–9.CrossrefPubMed
-3. SNOMED International. CT Editorial Guide: Procedure. 2021. https://​confluence.​ihtsdotools.​org/​display/​DOCEG/​Procedure. Accessed 15 Jan 2023.
-4. World Health Organization (WHO). ICD-11 International Classification of Diseases 11th Revision. Geneva: World Health Organization; 2021. https://​icd.​who.​int/​en. Accessed 15 Jan 2023
-5. Cimino JJ. Infobuttons. 2011. https://​people.​dbmi.​columbia.​edu/​~ciminoj/​infobuttons.​html. Accessed 15 Jan 2023.
-6. International Standards Organization. ISO/TR 22221:2006 Health Informatics—Good principles and practices for a clinical data warehouse. 2021. https://​www.​iso.​org/​standard/​40783.​html. Accessed 15 Jan 2023.
-7. European Parliament. Directive 1999/93/EC of the European Parliament and of the council of 13 December 1999 on a Community framework for electronic signatures. 1999. https://​eur-lex.​europa.​eu/​legal-content/​EN/​TXT/​PDF/​?​uri=​CELEX:​31999L0093. Accessed 15 Jan 2023.
-8. European Telecommunications Standards Institute. ETSI White Paper No. 3—Achieving Technical Interoperability. 2008. https://​portal.​etsi.​org/​CTI/​Downloads/​ETSIApproach/​IOP%20​whitepaper%20​Edition%20​3%20​final.​pdf. Accessed 15 Jan 2023.
-9. HL7 International. Health Level Seven Version 2 (V2) Product Suite. 2021. http://​www.​hl7.​org/​implement/​standards/​product_​brief.​cfm?​product_​id=​185. Accessed 15 Jan 2023.
-10. HL7 International. Examples section of the v3Guide. 2008. https://​wiki.​hl7.​org/​index.​php?​title=​Examples_​section_​of_​the_​v3Guide. Accessed 15 Jan 2023.
-11. Digital Imaging and Communication in Medicine. The DICOM Standard. 2021. https://​www.​dicomstandard.​org. Accessed 15 Jan 2023.
-12. Integrating the Health Care Enterprise (IHE). Making Healthcare Interoperable. 2021. https://​www.​ihe.​net. Accessed 15 Jan 2023.
-13. International Standards Organization. ISO/IEEE 11073–20701:2020 Health Informatics—Device interoperability—Point-of-care medical device communication. 2020. https://​www.​iso.​org/​standard/​78227.​html. Accessed 15 Jan 2023.
-14. SNOMED International. SNOMED CT Browser. 2021. https://​browser.​ihtsdotools.​org/​. Accessed 15 Jan 2023.
-15. LOINC from Regenstrief. LOINC The international standard for identifying health measurements, observations, and documents. 2021. https://​loinc.​org. Accessed 15 Jan 2023.
+3. SNOMED International. CT Editorial Guide: Procedure. 2021. https://confluence.ihtsdotools.org/display/DOCEG/Procedure. Accessed 15 Jan 2023.
+4. World Health Organization (WHO). ICD-11 International Classification of Diseases 11th Revision. Geneva: World Health Organization; 2021. https://icd.who.int/en. Accessed 15 Jan 2023
+5. Cimino JJ. Infobuttons. 2011. https://people.dbmi.columbia.edu/~ciminoj/infobuttons.html. Accessed 15 Jan 2023.
+6. International Standards Organization. ISO/TR 22221:2006 Health Informatics—Good principles and practices for a clinical data warehouse. 2021. https://www.iso.org/standard/40783.html. Accessed 15 Jan 2023.
+7. European Parliament. Directive 1999/93/EC of the European Parliament and of the council of 13 December 1999 on a Community framework for electronic signatures. 1999. https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:31999L0093. Accessed 15 Jan 2023.
+8. European Telecommunications Standards Institute. ETSI White Paper No. 3—Achieving Technical Interoperability. 2008. https://portal.etsi.org/CTI/Downloads/ETSIApproach/IOP%20whitepaper%20Edition%203%20final.pdf. Accessed 15 Jan 2023.
+9. HL7 International. Health Level Seven Version 2 (V2) Product Suite. 2021. http://www.hl7.org/implement/standards/product_brief.cfm?product_id=185. Accessed 15 Jan 2023.
+10. HL7 International. Examples section of the v3Guide. 2008. https://wiki.hl7.org/index.php?title=Examples_section_of_the_v3Guide. Accessed 15 Jan 2023.
+11. Digital Imaging and Communication in Medicine. The DICOM Standard. 2021. https://www.dicomstandard.org. Accessed 15 Jan 2023.
+12. Integrating the Health Care Enterprise (IHE). Making Healthcare Interoperable. 2021. https://www.ihe.net. Accessed 15 Jan 2023.
+13. International Standards Organization. ISO/IEEE 11073–20701:2020 Health Informatics—Device interoperability—Point-of-care medical device communication. 2020. https://www.iso.org/standard/78227.html. Accessed 15 Jan 2023.
+14. SNOMED International. SNOMED CT Browser. 2021. https://browser.ihtsdotools.org/. Accessed 15 Jan 2023.
+15. LOINC from Regenstrief. LOINC The international standard for identifying health measurements, observations, and documents. 2021. https://loinc.org. Accessed 15 Jan 2023.
 
 # 4. Management Perspective: Scopes and Tasks of Managing Health Information Systems
 ## 4.1 Introduction
 In Chap. 3, we discussed the technological perspective of health information systems.
-We will now examine how health information systems have to be managed so they will fulfill the requirements of the stakeholders as presented in Sect. 1.​3.
+We will now examine how health information systems have to be managed so they will fulfill the requirements of the stakeholders as presented in Sect. 1.3.
 
-As already introduced in Sect. 2.​12, management of information systems ensures systematic information processing that supports information and knowledge logistics and therefore contributes to the health care setting’s goals.
+As already introduced in Sect. 2.12, management of information systems ensures systematic information processing that supports information and knowledge logistics and therefore contributes to the health care setting’s goals.
 High-quality health information systems and their components can only by achieved if the health information systems are systematically planned, monitored, and directed.
 
 Management of information systems can be differentiated into strategic, tactical, and operational management of information systems.
@@ -3575,7 +3571,7 @@ Please note that the terms highlighted in italics are terms from the glossary or
 In this section, we present in more detail the tasks of managing health information systems in health care facilities.
 We will discuss strategic, tactical, and operational management, their goals, and their tasks.
 
-As already discussed in Sect. 2.​12, management of information systems encompasses the management of all components at the three layers of an information system—the management of functions, processes, and entity types, of application components and services, and of physical data processing systems.
+As already discussed in Sect. 2.12, management of information systems encompasses the management of all components at the three layers of an information system—the management of functions, processes, and entity types, of application components and services, and of physical data processing systems.
 We consider these components the objects of management of information systems.
 
 Although the layers help to structure management of information systems by objects, it is helpful to also divide management of information systems with regard to its scope into strategic, tactical, and operational management.
@@ -3651,7 +3647,7 @@ For university medical centers in Germany, for example, it is stipulated by law 
 Strategic goals are concrete specifications of how this mission is to be fulfilled within a certain, usually longer, period of time.
 Such goals are set by the management of the facility.
 The strategic, long-term goals of a health care facility are also called business goals.
-The term “business goal” should not be understood in a purely profit-oriented or economic way, which means focusing on financial gain only.
+The term "business goal" should not be understood in a purely profit-oriented or economic way, which means focusing on financial gain only.
 Instead, as health care facilities should serve the needs of individual patients and of society, we should understand business goals as all goals of a health care facility that reflect its mission in patient care, research, and education.
 Health care facilities aim to provide efficient, high-quality health care.
 They may thus define, for example, one or more of the following business goals as their strategic, long-term goals:
@@ -3667,10 +3663,10 @@ Different goals and sub-goals result in different information management strateg
 Also, advances in information and communication technology (ICT) may influence business goals.
 The role of management of information systems thus varies between two extremes.
 At one extreme, management of information systems may be seen as a purely supporting function; that is, the business goals determine the information management planning activities.
-This is called “organizational pull” and the person in charge of strategic management of information systems needs to know the business goals of the health care facility.
+This is called "organizational pull" and the person in charge of strategic management of information systems needs to know the business goals of the health care facility.
 At the other extreme, management of information systems is seen as the strategic resource from which the health care facility gains competitive advantage.
 The application of technological advances mainly determines the further development of the health care facility and its position on the health care market.
-This is called “technology push.” For this, the top management needs to know the potential of information systems with regard to supporting or shaping the business goals.
+This is called "technology push." For this, the top management needs to know the potential of information systems with regard to supporting or shaping the business goals.
 Strategic management of information systems must thus be able to offer this information to top management in adequate and understandable form.
 
 Strategic alignment describes the process that balances and harmonizes the business goals of the health care facility and the information management strategies to obtain the best results.
@@ -3722,10 +3718,10 @@ The resources should fit the architecture and vice versa.
 The general structure of strategic information management plans is described in the following paragraphs. It should be noted that this is only a basic structure which may be adapted to the specific requirements of a health care facility.
 
 1. Strategic goals of the health care facility (business goals) and of management of information systems: Based on a presentation of the business goals, the strategic information management goals are described based on strategic alignment.
-2. Current state of the information system: Before any planning starts, the information system’s current state is described. This may require some discipline because some stakeholders may be more interested in the planned (new) state than in the current (obsolete) state. The description is the basis for identifying those functions of the health care facility that are well supported by the information system and those functions that are not (yet) well-supported. Thus, application components and physical data processing systems are to be described, including how they support the functions. The metamodel 3LGM^2 (Sect. 2.​14) and related software is very helpful for this task.
+2. Current state of the information system: Before any planning starts, the information system’s current state is described. This may require some discipline because some stakeholders may be more interested in the planned (new) state than in the current (obsolete) state. The description is the basis for identifying those functions of the health care facility that are well supported by the information system and those functions that are not (yet) well-supported. Thus, application components and physical data processing systems are to be described, including how they support the functions. The metamodel 3LGM^2 (Sect. 2.14) and related software is very helpful for this task.
 3. Assessment of the current state of the information system: The current state is then assessed with respect to the achievement of information management goals. Note that the lack of computer support for a certain function may not in all cases be assessed as a sign of poor support for that function. For example, a lack of computers in patient rooms and, consequently, the use of paper-based documentation for clinical findings may be part of the goal of being a humane hospital without using computers and hand-held digital devices in this area. Chapter 5 will discuss further criteria to assess the quality of an information system.
 4. Planned future state of the information system: Based on the assessment of the current state, a new state is described that achieves the goals better than the current state. Again, 3LGM^2 is useful here. The description of the planned state can be complemented by the description of the planned organizational structure of management of information systems. In many cases, this is an opportunity to introduce a CIO or to clarify his or her role.
-5. Migration path from the current to the future state: This section describes a step-by-step path from the current to the future state. In the strategic information management plan, every such step is a project or a group of related projects (such a group is also called “program” in project management). The resulting migration path of projects describes priorities of projects as well as dependencies between projects. The resulting projects and their priorities can also be called a strategic project portfolio. This portfolio thus represents the migration path.
+5. Migration path from the current to the future state: This section describes a step-by-step path from the current to the future state. In the strategic information management plan, every such step is a project or a group of related projects (such a group is also called "program" in project management). The resulting migration path of projects describes priorities of projects as well as dependencies between projects. The resulting projects and their priorities can also be called a strategic project portfolio. This portfolio thus represents the migration path.
 
 A short management summary and appendices describing the organizational structure, personnel resources, the building structure, etc. are likely to complement a strategic plan.
 Section 4.8.1 presents as example the structure of the strategic information management plan of Ploetzberg Hospital.
@@ -3771,11 +3767,11 @@ There may be additional problems to be taken into account at a strategic level.
 For example, users may be increasingly dissatisfied with a specific application component, technical or motivational problems may lead to a decrease in documentation quality, increased documentation time may limit the time available for direct patient care, there may be an unforeseen amount of high effort for support and training, or the number of medical errors may rise due to software errors or unusable software.
 
 Besides low software quality, badly organized projects in tactical management of information systems or errors in strategic management of information systems may also lead to the problems described above.
-Such problems may become apparent very slowly, for example, when a formerly “good” component is not updated to match the overall technical progress, leading to inacceptable performance and functionality, or when more and more new application components need to be integrated into a spaghetti-styled architecture (compare Sect. 3.​6.​4).
+Such problems may become apparent very slowly, for example, when a formerly "good" component is not updated to match the overall technical progress, leading to inacceptable performance and functionality, or when more and more new application components need to be integrated into a spaghetti-styled architecture (compare Sect. 3.6.4).
 But problems may also arise very suddenly, for example, when a server suddenly crashes and no replacement is available or when, due to a software error, a wrong finding is presented to a patient, a physician makes a wrong decision, and the patient is harmed.
 
 Monitoring, as part of strategic management of information systems, means continuously auditing quality and cost of the information system and assessing whether the strategic information management plan has been implemented as intended.
-Auditing determines whether the information system is able to fulfill its tasks efficiently, i.e., whether it contributes significantly to the facility’s vision and mission, meets the stakeholders’ requirements (Sect. 1.​3), and fulfills the relevant laws.
+Auditing determines whether the information system is able to fulfill its tasks efficiently, i.e., whether it contributes significantly to the facility’s vision and mission, meets the stakeholders’ requirements (Sect. 1.3), and fulfills the relevant laws.
 To allow auditing, monitoring needs to receive information from tactical management of information systems (e.g., on the successful completion of projects) and from operational management (e.g., on number of service desk calls) as well as information from users (e.g., from user satisfaction surveys) and from strategic management of the health care facility (e.g., on changes in the vision and mission).
 Additional information on the quality of the information system can be gained through evaluation projects.
 Monitoring results are used as input to direct tasks of management of information systems, which could, for example, initiate further projects.
@@ -3816,7 +3812,7 @@ Permanent monitoring activities can be used to identify areas of improvement, bu
 Some benchmarking approaches are presented in the following section.
 
 #### 4.3.2.2 Benchmarking of Health Information Systems
-Benchmarking in general describes a process in which organizations evaluate various aspects of their performance and compare it to given standards or to the best organizations (“best practice”). Benchmarking uses quantitative criteria (KPIs) for comparing situations.
+Benchmarking in general describes a process in which organizations evaluate various aspects of their performance and compare it to given standards or to the best organizations ("best practice"). Benchmarking uses quantitative criteria (KPIs) for comparing situations.
 
 In strategic management, benchmarking is seen as an important approach to assess the performance of a health care facility.
 Benchmarking is often seen as part of a continuous quality improvement process in which health care facilities measure and then steadily improve their performance.
@@ -3848,7 +3844,7 @@ For example, during and after the introduction of a computerized physician order
 Typically, quantitative and qualitative methods can be combined to answer such evaluation questions.
 Monitoring, as part of strategic management of information systems, collects and reports the evaluation results to directly give feedback to strategic planning of the information system.
 
-We will discuss planning and conducting evaluation projects in more detail in Sect. 5.​4.
+We will discuss planning and conducting evaluation projects in more detail in Sect. 5.4.
 
 ### 4.3.3 Strategic Directing
 Strategic directing of information systems is a consequence of planning and monitoring the functions and the architecture of the information systems and the organization of management of information systems.
@@ -3952,7 +3948,7 @@ If the problem management process reveals that changes need to be made to the co
 Since both small and large changes can always have side effects, ITIL also recommends a change management board as part of the process to coordinate and monitor the required changes.
 Incident, problem, and change management all require configuration management.
 With this term, ITIL means the processes that ensure that management of information systems always has a correct overview of all components of the information system and their connections, i.e., the information system’s configuration.
-Corresponding configuration management systems can be based on 3LGM^2 and the three levels defined there (Sect. 2.​14).
+Corresponding configuration management systems can be based on 3LGM^2 and the three levels defined there (Sect. 2.14).
 
 Especially in a health care facility, where human lives may depend on the proper operation of the information system, it is recommended to have a systematic ITSM and to follow ITIL.
 
@@ -3968,13 +3964,13 @@ In this section, we first discuss IT governance and the decision-making processe
 ### 4.6.1 IT Governance and Organizational Structures for Information Management
 IT governance is the part of the overall management of a health care facility that deals with the organizational structures for decision-making in management of information systems [6]. The decision-making structures must be defined in such a way that the management of information systems is well integrated with the facility’s management and is aligned to its strategic goals.
 
-The organizational structures for decision-making must enable the management of information systems to create value for stakeholders (compare Sect. 1.​3 for a list of stakeholders and their requirements) and minimize risks related to the information systems.
+The organizational structures for decision-making must enable the management of information systems to create value for stakeholders (compare Sect. 1.3 for a list of stakeholders and their requirements) and minimize risks related to the information systems.
 Simply said, IT governance focuses on which organizational structures are needed to achieve value from the information system, and management of information systems describes how to use the structures for creating this value by properly planning, directing, and monitoring the information system.
 
 In order to find the right organizational structures for decision-making for a health care facility, one should first be clear about the fields in information management where decisions need to be made.
 In strategic information management, these are, in particular, decisions on the planned state of the facility’s information system as part of the creation of the strategic information management plan.
-This includes decisions on the application systems to be used (Sect. 3.​4), the architectural style to be used (Sect. 3.​6), the design of the IT infrastructure (Sect. 2.​11), and the basic IT principles that should be followed.
-IT principles refer, for example, to the use of certain standards (Sect. 3.​7.​2). In addition, there are the decisions on the migration path and the associated strategic project portfolio (Sect. 4.3.1.2). Of particular importance are the financial decisions about the amount of investment in the information system and the allocation of the (limited) budget among the projects in the portfolio.
+This includes decisions on the application systems to be used (Sect. 3.4), the architectural style to be used (Sect. 3.6), the design of the IT infrastructure (Sect. 2.11), and the basic IT principles that should be followed.
+IT principles refer, for example, to the use of certain standards (Sect. 3.7.2). In addition, there are the decisions on the migration path and the associated strategic project portfolio (Sect. 4.3.1.2). Of particular importance are the financial decisions about the amount of investment in the information system and the allocation of the (limited) budget among the projects in the portfolio.
 In tactical information management, decisions must be made within the projects about the project plan and repeatedly about the appropriate execution of the individual project steps.
 In operational information management, decisions must be made repeatedly, especially about the prioritization of daily tasks.
 
@@ -4052,7 +4048,7 @@ In Sect. 4.8.3, we present as an example the organizational structure of informa
 After reading the previous sections, it may seem that management of information systems must merely define strategic goals for management of information systems, aligned with the business goals of the health care facility, and work towards them.
 However, reality is not that simple.
 Management of information systems is a lot about balancing priorities between various and often conflicting goals.
-We will now discuss five aspects of this task of “balancing” priorities.
+We will now discuss five aspects of this task of "balancing" priorities.
 
 ### 4.7.1 Balance of Homogeneity and Heterogeneity
 The collection of information processing tools (both on the logical and at the physical tool layer) should be as homogeneous (i.e., comparable in appearance and usability, for example, using tools from the same vendor) as possible and as heterogeneous as necessary.
@@ -4260,7 +4256,7 @@ Which main goals for management of information systems could you define based on
 Answer:
 Goals: efficient and high-quality information logistics to support patient care.
 
-Functions: patient administration and all functions related to patient care (Sect. 3.​3.​2.​1).
+Functions: patient administration and all functions related to patient care (Sect. 3.3.2.1).
 Project portfolio and migration plan:
 - Year 1: Introduction of a patient administration system.
 - Year 2: Introduction of a CIS, an LIS and an RIS.
@@ -4323,12 +4319,12 @@ Organization of user feedback: (1) Health information system users are randomly 
 Information systems managers can be partly compared to architects.
 Read the following statement and discuss similarities and differences between information system architects and building architects [8]:
 
-“We are architects.
+"We are architects.
 […] We have designed numerous buildings, used by many people.
 […] We know what users want.
 We know their complaints: buildings that get in the way of the things they want to do.
 […] We also know the users’ joy of relaxing, working, learning, buying, manufacturing, and worshipping in buildings which were designed with love and care as well as function in mind.
-[…] We are committed to the belief that buildings can help people to do their jobs or may impede them and that good buildings bring joy as well as efficiency.”
+[…] We are committed to the belief that buildings can help people to do their jobs or may impede them and that good buildings bring joy as well as efficiency."
 
 Answer:
 Health information managers can indeed be compared with architects.
@@ -4340,18 +4336,18 @@ Health information managers understand that an information system serves the ove
 
 ## References
 1. Mathur S. Project portfolio management techniques. Paper presented at PMI® Global Congress 2006—Asia Pacific, Bangkok, Thailand. Newtown Square, PA: Project Management Institute; 2006.
-2. National Health System (NHS). Digital maturity assessment. 2017. https://​www.​england.​nhs.​uk/​digitaltechnolog​y/​connecteddigital​systems/​maturity-index. Accessed 15 Jan 2023.
+2. National Health System (NHS). Digital maturity assessment. 2017. https://www.england.nhs.uk/digitaltechnology/connecteddigitalsystems/maturity-index. Accessed 15 Jan 2023.
 3. Ammenwerth E, Rigby M. Evidence-based health informatics—promoting safety and efficiency through scientific methods and ethical policy. Amsterdam: IOS Press; 2016.
 4. Ammenwerth E, Haux R, Knaup-Gregori P, Winter A. IT-Projektmanagement im Gesundheitswesen. 2nd ed. Stuttgart: Schattauer-Verlag; 2014.
 5. Axelos. ITIL Foundation: ITIL 4th edn. TSO (The Stationery Office); 2019.
 6. Weill P, Ross JW. IT Governance—how top performers manage IT decisions right for superior results. Boston, MA: Harvard Business school press; 2004.
-7. ISACA Germany Chapter. COBIT. 2021. https://​www.​isaca.​de/​de/​veroeffentlichun​gen/​cobit. Accessed 15 Jan 2023.
+7. ISACA Germany Chapter. COBIT. 2021. https://www.isaca.de/de/veroeffentlichungen/cobit. Accessed 15 Jan 2023.
 8. Caudill WW, Pena W, Kennon P. Architecture and You. New York: Whitney Library of Design; 1978. p. 6.
 
 # 5. Quality of Health Information Systems
 ## 5.1 Introduction
-The International Organization for Standardization (ISO) defines quality in general as the ability to meet all the expectations of the purchaser of goods or services or, in other words, as the degree to which a set of inherent characteristics fulfills requirements, where “requirements” means needs or expectations.
-In Sect. 1.​3, we already discussed the requirements of various stakeholder groups and their expectations on the information system.
+The International Organization for Standardization (ISO) defines quality in general as the ability to meet all the expectations of the purchaser of goods or services or, in other words, as the degree to which a set of inherent characteristics fulfills requirements, where "requirements" means needs or expectations.
+In Sect. 1.3, we already discussed the requirements of various stakeholder groups and their expectations on the information system.
 In this chapter, we will now discuss in more detail the various aspects of the quality of a health information system.
 Assessing the quality of health information systems using quality characteristics, and maintaining this quality, is one of the tasks of managing information systems.
 
@@ -4370,8 +4366,8 @@ It aims at providing appropriate organizational structures for managing the info
 
 To assess the quality of IT governance, we can assess the following aspects:
 
-IT governance structures should be established that enable the management of information systems to create value for stakeholders and minimize risks related to the information systems (Sect. 4.​6.​1).
-For example, responsibilities for strategic, tactical, and operational management need to be clearly assigned to organizational units (such as the Information Management Department, Sect. 4.​6.​3) or roles (such as the chief information officer (CIO), Sect. 4.​6.​2).
+IT governance structures should be established that enable the management of information systems to create value for stakeholders and minimize risks related to the information systems (Sect. 4.6.1).
+For example, responsibilities for strategic, tactical, and operational management need to be clearly assigned to organizational units (such as the Information Management Department, Sect. 4.6.3) or roles (such as the chief information officer (CIO), Sect. 4.6.2).
 IT governance should be based on established best practice frameworks and standards, such as COBIT (Control Objectives for Information and Related Technology).
 COBIT is an international framework for IT governance that defines a set of generic processes for the management of IT in an organization for each of these processes.
 COBIT defines objectives, key activities, inputs and outputs, and performance measures.
@@ -4396,12 +4392,12 @@ This means that the outcome of managing information systems, i.e., the informati
 For example, the resulting health information system should support business goals such as high-quality care of chronically ill patients, participation in cross-institutional clinical research, or attracting patients from neighboring regions.
 
 In other words, information logistics should be possible in a way that it supports all intended business processes and functions and fulfills the need of the various stakeholder groups (physicians, nurses, management, patients and their relatives, researchers, etc.).
-We already discussed the requirements of the various stakeholders in Sect. 1.​3.
+We already discussed the requirements of the various stakeholders in Sect. 1.3.
 If management of information systems is to be considered successful, then the information system should fulfill the requirements of these stakeholder groups.
 The strategic information management plan should thus be developed with input from major stakeholder groups within the health care facility.
-Details on how to develop a strategic information management plan were explained in Sect. 4.​3.​1.​2.
+Details on how to develop a strategic information management plan were explained in Sect. 4.3.1.2.
 
-This also means the IT project portfolio (Sect. 4.​3.​1) should be effectively managed in a way that maximizes the intended value to the health care facility and to the stakeholders.
+This also means the IT project portfolio (Sect. 4.3.1) should be effectively managed in a way that maximizes the intended value to the health care facility and to the stakeholders.
 For example, projects that deliver the most business value (e.g., the introduction of a picture archiving and communication system (PACS) to support faster and better diagnosis and treatment) may be prioritized among other projects (e.g., a website for clinical staff informing on most recent business news) depending on the business goals.
 
 Strategic monitoring should be done based on clearly defined key performance indicators (KPIs) and use data from several sources (e.g., user surveys, analysis of hotline calls).
@@ -4416,7 +4412,7 @@ For example, an IT risk analysis may show that the whole hospital operation depe
 Finally, the architecture of the information system should be documented in an up-to-date way.
 It is surprising how many health care facilities do not have a consistent and clear description of their application components, the functions they support, and the interfaces between them.
 Establishing and using such an architectural description is an important activity within strategic information management planning.
-Using the three-layer graph-based metamodel (3LGM^2) been described in Sect. 2.​14 is helpful.
+Using the three-layer graph-based metamodel (3LGM^2) been described in Sect. 2.14 is helpful.
 
 ### 5.2.3 Quality of Tactical Management of Information Systems
 Tactical management of information systems deals with particular functions, application components, or physical data processing systems.
@@ -4425,7 +4421,7 @@ It aims to introduce, remove, change, or maintain components of the information 
 There are some ways to assess the quality of tactical management of information systems:
 
 Projects of tactical management of information systems should be derived from the annual project portfolio.
-They should be conducted using best practices and state-of-the-art methods in project management in all project phases: project initiation, project planning, project execution, and project completion (Sect. 4.​4).
+They should be conducted using best practices and state-of-the-art methods in project management in all project phases: project initiation, project planning, project execution, and project completion (Sect. 4.4).
 
 All projects should be finalized within the planned time frame and within the planned budget.
 Changes in time frame and budget must be justified and approved by strategic management of information systems.
@@ -4452,11 +4448,11 @@ To minimize risks, a business continuity plan should be available that describes
 
 As part of IT governance, there should be a clear responsibility with documented tasks and processes for operating the physical data processing systems and the application systems in a health care facility.
 
-Operational management of information systems should be based on established best practice frameworks and standards such as COBIT [1] as a framework for IT governance (Sect. 5.2.1) or Information Technology Infrastructure Library (ITIL) [2] for ITSM (Sect. 4.​5).
+Operational management of information systems should be based on established best practice frameworks and standards such as COBIT [1] as a framework for IT governance (Sect. 5.2.1) or Information Technology Infrastructure Library (ITIL) [2] for ITSM (Sect. 4.5).
 
 ITSM provides a perspective on management of information systems that focuses on how IT is provided to serve the needs of customers.
 We can consider the management of IT services as that part of operational management of information systems focusing on responding to the customer’s needs.
-The term “IT service” in a health facility comprises the application systems (e.g., LIS or PACS) and the physical data processing tools (e.g., ward computers, mobile computers) discussed in Sects. 3.​4 and 3.​10.
+The term "IT service" in a health facility comprises the application systems (e.g., LIS or PACS) and the physical data processing tools (e.g., ward computers, mobile computers) discussed in Sects. 3.4 and 3.10.
 However, it also comprises more specific IT services such as remote VPN (virtual private network) access to the network of the health care facility, specific application interfaces, antivirus shielding, or videoconferencing facilities.
 All these are IT services that are needed by customers (e.g., by the clinical departments or the administration of a health care facility).
 
@@ -4476,8 +4472,8 @@ We will now discuss how we can assess the quality of the information system.
 
 ### 5.3.1 Quality at the Domain Layer
 The overarching objective of a health information system is to support the functions of a health care facility.
-In Sect. 3.​3, we presented these functions in more detail, such as patient identification, decision-making and patient information, execution of diagnostic, therapeutic, and nursing procedures, or billing.
-Health information systems should sufficiently support information and knowledge logistics (Sect. 2.​7) within patient care, administration, and management.
+In Sect. 3.3, we presented these functions in more detail, such as patient identification, decision-making and patient information, execution of diagnostic, therapeutic, and nursing procedures, or billing.
+Health information systems should sufficiently support information and knowledge logistics (Sect. 2.7) within patient care, administration, and management.
 To achieve a high quality of the information and knowledge logistics at the domain layer, information logistics should be as good as possible given the resources used.
 Good information and knowledge logistics comprises the following aspects:
 - The right information: Is the information that the users need available? For example, can the physician access the lab results of a patient?
@@ -4488,9 +4484,9 @@ Good information and knowledge logistics comprises the following aspects:
 - In order to make the right decisions: Information should be used to inform decisions. For example, a graphical presentation of the lab results may show an increase in a lab value, which may in turn motivate the physician to change the administrated drug.
 
 In addition, the domain layer describes the data to be processed and provided. To assess the quality of the data at the domain layer, we can assess the following data quality aspects:
-- Data integrity should be maintained. Data integrity means that data are consistent, that object identity is maintained, and that relationships between entities are correct (referential integrity) (Sect. 3.​5). For example, every patient and every patient case should have a unique PIN that is used in all application components.
+- Data integrity should be maintained. Data integrity means that data are consistent, that object identity is maintained, and that relationships between entities are correct (referential integrity) (Sect. 3.5). For example, every patient and every patient case should have a unique PIN that is used in all application components.
 - Data in general should also be correct and have an indisputable authorship. For example, the author of every patient report should be clear and verifiable. Clinical data should also be kept confidential. For example, the diagnoses of a patient should only be accessible to the treating health care professionals.
-- Finally, data should be uniformly recorded. There should be clear rules on which data and how the data are recorded and stored. Standardized data can be better processed automatically, while non-standardized data can provide more specific information to a human reader (Sect. 3.​2.​2).
+- Finally, data should be uniformly recorded. There should be clear rules on which data and how the data are recorded and stored. Standardized data can be better processed automatically, while non-standardized data can provide more specific information to a human reader (Sect. 3.2.2).
 
 ### 5.3.2 Quality at the Logical Tool Layer
 The information system quality at the logical tool layer comprises the quality of application components and the quality of their integration.
@@ -4500,31 +4496,31 @@ The following criteria help to assess the quality of an application component:
 - An application system should be reliable and provide defined services for a defined time under the given conditions. For example, an RIS should have little or no downtimes. An application system should also be easy to maintain. For example, an upgrade of the RIS software must be done quickly and without endangering the overall application component’s stability.
 - An application system should be user-friendly. Good usability is very important for software used within health care facilities. Health care professionals spend only a small amount of their working time with computer-based tools, and they often have to use various application components for their work. In addition, staff turnover is very high. Therefore, application software products should be easy to learn and intuitive to use. This is addressed by ISO 9241-171, which defines specific quality characteristics for software ergonomics, such as self-descriptiveness or tolerance with regard to user errors.
 - An application system may need to be certified depending on the legal regulations. For example, the PACS software is certified according to the national law for medical devices.
-- Finally, an application system should offer standardized interoperability interfaces to facilitate integration with other application components (Sect. 3.​7.​2). For example, an RIS may offer a Health Level 7-based (HL7-based) interface for data exchange with the patient administration system or with other clinical systems. Otherwise, integration in AC^n architectures is hardly reachable in an economically reasonable way, as proprietary interfaces between two application components are expensive to develop and to maintain.
+- Finally, an application system should offer standardized interoperability interfaces to facilitate integration with other application components (Sect. 3.7.2). For example, an RIS may offer a Health Level 7-based (HL7-based) interface for data exchange with the patient administration system or with other clinical systems. Otherwise, integration in AC^n architectures is hardly reachable in an economically reasonable way, as proprietary interfaces between two application components are expensive to develop and to maintain.
 
 The general architecture of the health information system should be sufficiently flexible to adapt to the changing needs of the hospital.
 For example, it should be easy to add new application systems to the information system, and application components should be easily replaceable by other (more advanced) application components.
-A star-based architecture (CP1 architecture) with a communication server (Sect. 3.​9.​2) and application components offering standardized interfaces support the exchange or addition of application systems.
+A star-based architecture (CP1 architecture) with a communication server (Sect. 3.9.2) and application components offering standardized interfaces support the exchange or addition of application systems.
 
-An architecture can be called “saturated” if as many functions as possible are supported by computer-based tools and if there are no or only a small number of non-computer-based tools still in use.
+An architecture can be called "saturated" if as many functions as possible are supported by computer-based tools and if there are no or only a small number of non-computer-based tools still in use.
 Please note that computer-support is not a goal in itself.
 However, a mix of paper-based and computer-based tools within a function often leads to deficiencies in information logistics such as transcriptions.
 Transcription means the manual transfer of data from one application component to another, for example, manually entering patient diagnoses from the patient administration system in the CPOE system or scanning a discharge letter to add it to the electronic patient record (EPR).
 Transcriptions are time-consuming and may lead to data errors.
 Therefore, transcriptions have to be avoided by using standardized interfaces between application components.
 
-To achieve integration in “best-of-breed” architectures (AC^n, Vn), application components need to share and store the same data.
+To achieve integration in "best-of-breed" architectures (AC^n, Vn), application components need to share and store the same data.
 Data redundancy is thus unavoidable.
 For example, patient administrative data are stored in the patient administration system, the RIS, and the LIS.
 This data redundancy needs to be closely managed to provide consistent data.
-Approaches for handling data redundancy through integration technologies were presented in Sect. 3.​9.
+Approaches for handling data redundancy through integration technologies were presented in Sect. 3.9.
 
 ### 5.3.3 Quality at the Physical Tool Layer
 The information system quality at the physical tool layer comprises the quality of physical data processing systems and their integration.
 The quality of physical data processing systems can be described by several characteristics:
 - Physical data processing systems should be available where needed (e.g., at the patient bedside). They should be stable and reliable, i.e., without unexpected downtimes. They should be performant to allow fast processing and the ability to present large amount of data (including images).
 - Physical data processing systems should be secure, for example, following rules for data safety, data security, and electrical safety. They should be user-friendly (e.g., allowing data entry via touchscreen, mouse, and keyboard). In certain areas, they need be certified. For example, the tools used in the intensive care unit (ICU) need to be certified according to the national law for medical devices.
-- Physical data processing systems should be usable for several tasks. For example, a mobile tool (such as a notebook) on a ward should allow access to the nursing documentation system, the CPOE system, and the patient chart. This limits the risk that users have to handle multiple physical tools at the same time and thus supports the “leanness” of information-processing tools.
+- Physical data processing systems should be usable for several tasks. For example, a mobile tool (such as a notebook) on a ward should allow access to the nursing documentation system, the CPOE system, and the patient chart. This limits the risk that users have to handle multiple physical tools at the same time and thus supports the "leanness" of information-processing tools.
 
 At the physical tool layer, redundancy is often valuable to reduce risks of system failure.
 For example, data may be stored redundantly in different areas in order to avoid data loss in case of fire.
@@ -4533,34 +4529,34 @@ Thus, technical redundancy is also an important quality criterion for the physic
 
 ### 5.3.4 Quality of Integration
 In Chap. 2, we learned that health information systems are constructs built from a variety of components.
-In Sect. 3.​7, we discussed that these components, especially application systems, need to be interoperable so they can be integrated to best support functions and business processes.
-Integrating application systems, as we saw in Sect. 3.​8, can be done in a number of ways, each achieving specific qualities of the information system.
+In Sect. 3.7, we discussed that these components, especially application systems, need to be interoperable so they can be integrated to best support functions and business processes.
+Integrating application systems, as we saw in Sect. 3.8, can be done in a number of ways, each achieving specific qualities of the information system.
 We will therefore summarize these types of integration here again as quality criteria for health information systems.
 
-Data integration is achieved in a health information system when data that have been recorded in different application components once are available wherever they are needed without having to be reentered (Sect. 3.​8.​1).
+Data integration is achieved in a health information system when data that have been recorded in different application components once are available wherever they are needed without having to be reentered (Sect. 3.8.1).
 Consequently, in a health information system where data integration is given, data can be brought together for analysis wherever it is needed.
 Moreover, if the data needs to be updated, this only has to be done in one place, even if the data are redundantly stored in several application systems.
 Overall, data integration is the first and quite basic quality characteristic within heterogeneous health information systems, as it allows application systems to exchange and reuse data while preserving data integrity.
 
-Semantic integration (Sect. 3.​8.​2) is guaranteed if different application systems use the same system of concepts, i.e., they interpret data the same way.
+Semantic integration (Sect. 3.8.2) is guaranteed if different application systems use the same system of concepts, i.e., they interpret data the same way.
 Semantic integration is an important quality characteristic within heterogeneous health information systems, as it supports the exchange of meaningful information between application systems.
 
-User interface integration (Sect. 3.​8.​2) is guaranteed when different application components represent data and organize their user interfaces in a unified way.
+User interface integration (Sect. 3.8.2) is guaranteed when different application components represent data and organize their user interfaces in a unified way.
 User interface integration supports the usability of application systems and reduces errors when searching for or entering data.
 It thus also contributes to data quality and patient safety, making it an important quality characteristic within heterogeneous health information systems, as it supports ease-of-use and reduces usage errors of graphical user interfaces.
 
-Context integration (Sect. 3.​8.​4) is an important quality characteristic within heterogeneous health information systems, as it allows synchronizing and coordinating context among application systems.
+Context integration (Sect. 3.8.4) is an important quality characteristic within heterogeneous health information systems, as it allows synchronizing and coordinating context among application systems.
 It thus allows application systems to automatically follow patient, user, and other contexts and thus supports the user when working with several application systems.
 Note that context integration stands on its own.
 It neither contributes to data, to semantic, or to user interface integration.
 Vice versa, these types of integration will not support achieving context integration.
 
-Feature integration (Sect. 3.​8.​5) means that features are not implemented redundantly in multiple application systems.
+Feature integration (Sect. 3.8.5) means that features are not implemented redundantly in multiple application systems.
 Feature integration thus reduces costs for both implementation and maintenance of application systems.
 Overall, feature integration is an important quality characteristic within heterogeneous health information systems, as it allows sharing of functions among application systems.
 
 An integrated health information system should support the business processes effectively.
-From this perspective, process integration (Sect. 3.​8.​6) is indeed the overall vision of integration within heterogeneous information systems.
+From this perspective, process integration (Sect. 3.8.6) is indeed the overall vision of integration within heterogeneous information systems.
 Process integration is guaranteed when business processes are effectively supported by a set of interacting application systems.
 Systematic adoption of Integrating the Health care Enterprise (IHE) profiles is an indicator for structural quality on which smooth process integration can be achieved.
 Process integration is an important quality characteristic within heterogeneous health information systems, as it describes a situation where different application systems interoperate in an optimal way so that business processes are best supported.
@@ -4569,7 +4565,7 @@ Process integration is an important quality characteristic within heterogeneous 
 Evaluation can be defined as the act of measuring or exploring components of a health information system.
 The result of an evaluation should provide information to support decisions concerning the health information systems, such as decisions regarding optimizing, replacing, or further deploying a component.
 
-This definition of evaluation highlights the fact that evaluation can comprise both quantitative (“measuring”) as well as qualitative (“exploring”) aspects and that evaluation should answer a clear question and thus support management decisions of strategic or tactical management of information systems.
+This definition of evaluation highlights the fact that evaluation can comprise both quantitative ("measuring") as well as qualitative ("exploring") aspects and that evaluation should answer a clear question and thus support management decisions of strategic or tactical management of information systems.
 Evaluation studies can, for example, help to justify IT investments, to verify that the information system is effective and safe, or to understand problems and to improve the information system.
 
 We will now discuss the basic phases of an evaluation study.
@@ -4586,18 +4582,18 @@ Which evaluation question is useful depends on the context and especially on the
 Adoption can be described as the successful integration of an innovation in a health care facility.
 Adoption is a time-dependent process.
 
-The Clinical Adoption Metamodel [4] describes four dimensions of adoption of application systems that depend on each other: The first dimension of adoption is “availability,” which comprises the ability of users to access the system, the availability of the system, and the availability of content and features of the system.
-The second dimension of adoption is “system use,” comprising the actual use of the system and the subjective user experience with the system.
-The third dimension of adoption focuses on “clinical behaviors” and comprises the meaningful adaptation of clinical processes to the system.
-The fourth dimension of adoption is reached when the new system has an impact on “clinical outcome” at the patient level, the provider level, or the population level.
+The Clinical Adoption Metamodel [4] describes four dimensions of adoption of application systems that depend on each other: The first dimension of adoption is "availability," which comprises the ability of users to access the system, the availability of the system, and the availability of content and features of the system.
+The second dimension of adoption is "system use," comprising the actual use of the system and the subjective user experience with the system.
+The third dimension of adoption focuses on "clinical behaviors" and comprises the meaningful adaptation of clinical processes to the system.
+The fourth dimension of adoption is reached when the new system has an impact on "clinical outcome" at the patient level, the provider level, or the population level.
 Combined, these four dimensions describe an adoption trajectory from first implementation of a new application system (or a specific feature of it) to changes in outcomes.
 This adoption model is helpful to identify the evaluation questions that are most relevant for given situation.
 In other words: Depending on the state of adoption of an application system, only specific evaluation questions are of relevance and make sense.
 For example, imagine that a health care facility has introduced a CPOE system for medication ordering with the aim to increase efficiency and quality of prescriptions.
-- In the adoption phase of “availability,” evaluation may focus on the following question: Is the CPOE system sufficiently made available to the intended user groups, for example, do all relevant users have a user account and are sufficient mobile tools for prescriptions available on all wards? Is the system available as planned, for example, are there no unplanned downtimes and is performance and stability as planned? Is all needed information available within the CPOE system, including patient administration data, prescription information, drug information databases, and interaction checks? Are all interfaces working as planned? Are the users sufficiently trained on the CPOE system, for example, have all physicians and nurses received sufficient training and support?
-- In the adoption phase of “system use,” evaluation may cover the following questions: Is the CPOE system being used as intended by the various user groups, for example, are all prescriptions entered directly by the physicians into the CPOE system during ward rounds? Are all main features of the CPOE system being used as intended, for example, are interaction checks used at all? Do the users consider the system to be user-friendly?
-- In the adoption phase of “clinical behavior,” evaluation will focus on the processes: Are the prescription processes efficiently supported by the system? How many automatic alerts of interaction checks occur, and are they considered and reacted upon by the clinical users? Did the overall number of prescriptions change after introduction of the CPOE system?
-- In the adoption phase of “clinical outcome,” evaluation will assess improvement in patient outcomes (e.g., reduction of medication errors, increase in patient safety) or costs (e.g., reduction of medication costs).
+- In the adoption phase of "availability," evaluation may focus on the following question: Is the CPOE system sufficiently made available to the intended user groups, for example, do all relevant users have a user account and are sufficient mobile tools for prescriptions available on all wards? Is the system available as planned, for example, are there no unplanned downtimes and is performance and stability as planned? Is all needed information available within the CPOE system, including patient administration data, prescription information, drug information databases, and interaction checks? Are all interfaces working as planned? Are the users sufficiently trained on the CPOE system, for example, have all physicians and nurses received sufficient training and support?
+- In the adoption phase of "system use," evaluation may cover the following questions: Is the CPOE system being used as intended by the various user groups, for example, are all prescriptions entered directly by the physicians into the CPOE system during ward rounds? Are all main features of the CPOE system being used as intended, for example, are interaction checks used at all? Do the users consider the system to be user-friendly?
+- In the adoption phase of "clinical behavior," evaluation will focus on the processes: Are the prescription processes efficiently supported by the system? How many automatic alerts of interaction checks occur, and are they considered and reacted upon by the clinical users? Did the overall number of prescriptions change after introduction of the CPOE system?
+- In the adoption phase of "clinical outcome," evaluation will assess improvement in patient outcomes (e.g., reduction of medication errors, increase in patient safety) or costs (e.g., reduction of medication costs).
 
 Evaluation questions thus have to be properly chosen depending on the adoption phase of an application component and depending on the decision that is to be supported by the evaluation, such as decision on further rollout, on further upgrades or other technical improvements before rollout, or on cancellation of a pilot project.
 
@@ -4611,7 +4607,7 @@ Identification of the most relevant evaluation questions can be done, for exampl
 
 Such a workshop between the CIO, the medical director, and the evaluator, for example, could show that the CPOE system is already well adopted in one pilot department.
 It is now important to better understand the effect of the CPOE system on medication errors and patient outcome to be able to decide on further rollout.
-The major evaluation question will therefore be: “Does the CPOE system improve medication safety?”
+The major evaluation question will therefore be: "Does the CPOE system improve medication safety?"
 
 After defining the evaluation questions, clear indicators need to be defined.
 For example, medication safety may be measured by counting prescription errors or adverse drug events or by looking at length of stay or mortality.
@@ -4669,7 +4665,7 @@ This can, for example, involve counting medication errors (based on an analysis 
 As for any measurement, special attention should be given to training the observers and to using standardized observation protocols to achieve inter-observer reliability.
 
 Quantitative surveys use standardized, closed questions that lead to quantitative results.
-For questionnaires addressing subjective opinions and feelings, the 5-point Likert scale is often used (“strongly agree”—“agree”—“neither agree nor disagree”—“disagree”—“strongly disagree”). The quality of data achieved by questionnaires depends on a thorough formulation of questions and predefined answer categories.
+For questionnaires addressing subjective opinions and feelings, the 5-point Likert scale is often used ("strongly agree"—"agree"—"neither agree nor disagree"—"disagree"—"strongly disagree"). The quality of data achieved by questionnaires depends on a thorough formulation of questions and predefined answer categories.
 Each questionnaire should be pretested.
 The available literature should thus be consulted before planning a questionnaire in order to ensure objectivity, reliability, and validity of results.
 If possible, available and validated questionnaires should be reused.
@@ -4723,11 +4719,11 @@ The careful evaluation of impact and unintended effects of application systems i
 We will now have a look at an example of an evaluation study that showed some unintended effects of CPOE systems.
 Table 5.1 presents the abstract of an RCT on automatic alerts in a CPOE system.
 The authors analyzed whether the so-called hard-stop alert can reduce unwanted drug–drug interactions.
-Such a “hard-stop alerts” appears on the screen to alert the physician about potential problems associated with a particular prescription and blocks the clinician’s order from further execution to avert potentially serious reactions.
+Such a "hard-stop alerts" appears on the screen to alert the physician about potential problems associated with a particular prescription and blocks the clinician’s order from further execution to avert potentially serious reactions.
 
-Table 5.1: Abstract from “Unintended Effects of a Computerized Physician Order Entry Nearly Hard-Stop Alert” [5]
+Table 5.1: Abstract from "Unintended Effects of a Computerized Physician Order Entry Nearly Hard-Stop Alert" [5]
 - Background: The effectiveness of CPOE systems has been modest, largely because clinicians frequently override electronic alerts
-- Methods: To evaluate the effectiveness of a nearly “hard-stop” CPOE system prescribing alert intended to reduce concomitant orders for warfarin and trimethoprim-sulfamethoxazole, a randomized clinical trial was conducted at two academic medical centers in Philadelphia, Pennsylvania. A total of 1981 clinicians were assigned to either an intervention group receiving a nearly hard-stop alert or a control group receiving the standard practice. The study duration was August 9, 2006, through February 13, 2007
+- Methods: To evaluate the effectiveness of a nearly "hard-stop" CPOE system prescribing alert intended to reduce concomitant orders for warfarin and trimethoprim-sulfamethoxazole, a randomized clinical trial was conducted at two academic medical centers in Philadelphia, Pennsylvania. A total of 1981 clinicians were assigned to either an intervention group receiving a nearly hard-stop alert or a control group receiving the standard practice. The study duration was August 9, 2006, through February 13, 2007
 - Results: The proportion of desired responses (i.e., not reordering the alert-triggering drug within 10 min of firing) was 57.2% (111 of 194 hard-stop alerts) in the intervention group and 13.5% (20 of 148) in the control group (adjusted odds ratio, 0.12; 95% confidence interval, 0.045–0.33). However, the study was terminated early because of four unintended consequences identified among patients in the intervention group: a delay of treatment with trimethoprim-sulfamethoxazole in two patients and a delay of treatment with warfarin in another two patients
 - Conclusions: An electronic hard-stop alert as part of an inpatient CPOE system seemed to be extremely effective in changing prescribing habits. However, this intervention precipitated clinically important treatment delays in four patients who needed immediate drug therapy. These results illustrate the importance of formal evaluation and monitoring for unintended consequences of programmatic interventions intended to improve prescribing habits
 
@@ -4742,7 +4738,7 @@ Table 5.2 presents the abstract of such a qualitative study.
 The authors analyzed need, barriers, and facilitators for clinical decision support (CDS) in primary care.
 The study was performed as a qualitative, exploratory field study.
 
-Table 5.2: Abstract from “Clinical Decision Support for Worker Health: A Five-Site Qualitative Needs Assessment in Primary Care Settings.” [6]
+Table 5.2: Abstract from "Clinical Decision Support for Worker Health: A Five-Site Qualitative Needs Assessment in Primary Care Settings." [6]
 
 - Background: Although patients who work and have related health issues are usually first seen in primary care, providers in these settings do not routinely ask questions about work. Guidelines to help manage such patients are rarely used in primary care. Electronic health record systems (EHRS) with worker health CDS tools have potential for assisting these practices
 - Objective: This study aimed to identify the need for and barriers and facilitators related to implementation of CDS tools for the clinical management of working patients in a variety of primary care settings
@@ -4762,7 +4758,7 @@ CE certification assures that the software complies with all European legal requ
 Depending on the risk class that the application software product belongs to, certification can be done by the manufacturer of the software or it must be done through external auditing.
 Details on CE certification are available in the EU’s Medical Device Regulation 2017/745 [7].
 
-The German DiGA repository for “health applications” [8] is maintained by the Federal Institute for Drugs and Medical Devices and lists health apps that fulfill a set of quality requirements.
+The German DiGA repository for "health applications" [8] is maintained by the Federal Institute for Drugs and Medical Devices and lists health apps that fulfill a set of quality requirements.
 Besides being CE-certified as a medical device of a low-risk class, the application must be actively used both by the patient and by a health care provider and must fulfill certain data protection and information safety requirements.
 In addition, the vendor must provide supporting evidence (e.g., from evaluation studies) about the positive effect of the health application on the quality of patient care.
 When listed in the DiGa repository, health applications can be prescribed by a physician and are reimbursed by the patient’s health insurance company.
@@ -4770,7 +4766,7 @@ When listed in the DiGa repository, health applications can be prescribed by a p
 In the United States, the Health IT Certification Program is operated by the Office of the National Coordinator for Health Information Technology (ONC) [9]. To be certified, a vendor of a component must fulfill a number of requirements that assess whether an application software product supports clinical processes, care coordination, privacy and security, patient engagement, and exchange and interoperability of patient data.
 Part of certification is the annual testing of the component in real-world settings.
 
-The IHE initiative [10] (Sects. 3.​7.​2.​5 and 3.​7.​2.​6) strives to increase interoperability between components based on existing standards such as HL7 and DICOM (Digital Imaging and Communications in Medicine). IHE offers testing for the standards-based interoperability between components in the so-called Connectathons.
+The IHE initiative [10] (Sects. 3.7.2.5 and 3.7.2.6) strives to increase interoperability between components based on existing standards such as HL7 and DICOM (Digital Imaging and Communications in Medicine). IHE offers testing for the standards-based interoperability between components in the so-called Connectathons.
 During a Connectathon, components of different vendors exchange information with other components in a supervised environment.
 The Connectathon provides detailed validation of the components’ interoperability and compliance with IHE profiles.
 The results of testing are published by IHE.
@@ -4794,29 +4790,29 @@ Read the following case descriptions and discuss the integration problems using 
 4. The CPOE system and the RIS use slightly different catalogs of available radiology examinations.
 5. When physicians write the discharge letter for a patient in the MDMS, they also have to code the discharge diagnosis of a patient. For this coding, they have to use a feature that is only available in the patient administration system, so they have to shift to this application system.
 6. While at the patient’s bedside during their ward rounds, physicians have to use several application components at the same time, such as MDMS for retrieving recent findings, the CPOE system for ordering, and the PACS for retrieving images.
-     
+
 Answer:
 1. A physician enters a medical diagnosis for a patient first in the MDMS and later, when ordering an X-ray, again in the CPOE system. → No data integration, resulting in reentering of data, which is time-consuming and may lead to errors and inconsistencies in the data, which has the potential for patient harm.
- 
+
 2. The position of the patient’s name and the formatting of the patient’s birthdate vary between the MDMS and the CPOE system. → No user interface integration, resulting in increased time effort when using various application components, increased time needed for user training, and increased risk in overlooking or misinterpreting important patient information, which has the potential for patient harm.
- 
+
 3. When physicians shift from the MDMS to the CPOE system, they have to log in again and again search for the correct patient. → No context integration, leading to an increase in time needed to shift between application systems and an increased risk for selecting the wrong patient in the second application systems, which has the potential for patient harm.
- 
+
 4. The CPOE system and the RIS use slightly different catalogs of available radiology examinations. → No semantic integration, making the exchange and reuse of patient information in both application systems challenging.
- 
+
 5. When physicians write the discharge letter for a patient in the MDMS, they also have to code the discharge diagnosis of a patient. For this coding, they have to use a feature that is only available in the patient administration system, so they have to shift to this application system. → No feature integration, leading to increased time needed to shift to the patient administration system.
- 
+
 6. While being at the patient’s bedside during their ward rounds, physicians have to use several application components at the same time, such as MDMS for retrieving recent findings, the CPOE system for ordering, and the PACS for retrieving images. → No process integration; a process should be organized in a way that frequent change of application systems is avoided if possible.
 
 ### 5.6.2 Data Collection in Evaluation Studies
 Read Examples 5.5.1 and 5.5.2 and determine which methods for collecting data (as described in Sects. 5.4.3 and 5.4.4) have been used.
 
 Answer:
-Study “Unintended Effects of a Computerized Physician Order Entry Nearly Hard-stop Alert”: The effectiveness of a nearly “hard-stop” alert was evaluated in a field study.
+Study "Unintended Effects of a Computerized Physician Order Entry Nearly Hard-stop Alert": The effectiveness of a nearly "hard-stop" alert was evaluated in a field study.
 The data was collected via analysis of the prescriptions in the CPOE systems.
 The overall data collection method is thus a quantitative observation of available data.
 
-Study “Clinical Decision Support for Worker Health: A Five-Site Qualitative Needs Assessment in Primary Care Setting”: data were collected via interviews and qualitative observations.
+Study "Clinical Decision Support for Worker Health: A Five-Site Qualitative Needs Assessment in Primary Care Setting": data were collected via interviews and qualitative observations.
 
 ### 5.6.3 Study Design in Evaluation Studies
 Read Examples 5.5.1 and 5.5.2 and describe the chosen study design in more detail, using the description presented in Sect. 5.4.2.
@@ -4824,25 +4820,25 @@ Read Examples 5.5.1 and 5.5.2 and describe the chosen study design in more detai
 Try to explain for which types of study questions the RCT is the best study design.
 
 Answer:
-Study “Unintended Effects of a Computerized Physician Order Entry Nearly Hard-Stop Alert”: This quantitative and explanatory field study was organized as an RCT: 1981 clinicians were randomly assigned to either the intervention group or the control group.
+Study "Unintended Effects of a Computerized Physician Order Entry Nearly Hard-Stop Alert": This quantitative and explanatory field study was organized as an RCT: 1981 clinicians were randomly assigned to either the intervention group or the control group.
 RCTs are considered the gold standard, as they provide a rigorous tool to assess cause–effect relationships between intervention and outcome.
 
-Study “Clinical Decision Support for Worker Health: A Five-Site Qualitative Needs Assessment in Primary Care Setting”: This is a qualitative, explorative field study.
+Study "Clinical Decision Support for Worker Health: A Five-Site Qualitative Needs Assessment in Primary Care Setting": This is a qualitative, explorative field study.
 
 ## References
-1. ISACA. COBIT—Effective IT Governance at Your Fingertips. 2021. https://​www.​isaca.​org/​resources/​cobit. Accessed 15 Jan 2023.
+1. ISACA. COBIT—Effective IT Governance at Your Fingertips. 2021. https://www.isaca.org/resources/cobit. Accessed 15 Jan 2023.
 2. Axelos. ITIL Foundation: ITIL. 4th edn. TSO (The Stationery Office); 2019.
 3. Ammenwerth E, Rigby M. Evidence-based health informatics—promoting safety and efficiency through scientific methods and ethical policy. Amsterdam: IOS Press; 2016.
 4. Price M, Lau F. The clinical adoption meta-model: a temporal meta-model describing the clinical adoption of health information systems. BMC Med Inform Decis Mak. 2014;14:43.CrossrefPubMedPubMedCentral
 5. Strom BL, Schinnar R, Aberra F, Bilker W, Hennessy S, Leonard CE, Pifer E. Unintended effects of a computerized physician order entry nearly hard-stop alert to prevent a drug interaction: a randomized controlled trial. Arch Intern Med. 2010;170(17):1578–83.CrossrefPubMed
 6. Ash JS, Chase D, Baron S, Filios MS, Shiffman RN, Marovich S, Wiesen J, Luensman GB. Clinical decision support for worker health: a five-site qualitative needs assessment in primary care settings. Appl Clin Inform. 2020;11(4):635–43.CrossrefPubMedPubMedCentral
-7. European Commission. Regulation 2017/745 on Medical Devices of 5 April 2017. 2017. http://​eur-lex.​europa.​eu/​legal-content/​EN/​TXT/​PDF/​?​uri=​CELEX:​32017R0745&​from=​DE. Accessed 15 Jan 2023.
-8. Federal Institute for Drugs and Medical Devices. DiGA—Digital Health Applications. 2021. https://​www.​bfarm.​de/​EN/​MedicalDevices/​DiGA/​_​node.​html. Accessed 15 Jan 2023.
-9. The Office of the National Coordinator for Health Information Technology (ONC). About the ONC Health IT Certification Program. 2021. https://​www.​healthit.​gov/​topic/​certification-ehrs/​about-onc-health-it-certification-program. Accessed 15 Jan 2023.
-10. IHE International. Integrating the Healthcare Enterprise (IHE). 2021. https://​www.​ihe.​net. Accessed 15 Jan 2023.
-11. International Organization for Standardization. ISO 9000 Family on Quality Management. https://​www.​iso.​org/​iso-9001-quality-management.​html. Accessed 15 Jan 2023.
-12. International Organization for Standardization. ISO/IEC 27001 Information Security Management. 2021. https://​www.​iso.​org/​isoiec-27001-information-security.​html. Accessed 15 Jan 2023.
-13. Joint Commission. https://​www.​jointcommissioni​nternational.​org. Accessed 15 Jan 2023.
+7. European Commission. Regulation 2017/745 on Medical Devices of 5 April 2017. 2017. http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0745&from=DE. Accessed 15 Jan 2023.
+8. Federal Institute for Drugs and Medical Devices. DiGA—Digital Health Applications. 2021. https://www.bfarm.de/EN/MedicalDevices/DiGA/_node.html. Accessed 15 Jan 2023.
+9. The Office of the National Coordinator for Health Information Technology (ONC). About the ONC Health IT Certification Program. 2021. https://www.healthit.gov/topic/certification-ehrs/about-onc-health-it-certification-program. Accessed 15 Jan 2023.
+10. IHE International. Integrating the Healthcare Enterprise (IHE). 2021. https://www.ihe.net. Accessed 15 Jan 2023.
+11. International Organization for Standardization. ISO 9000 Family on Quality Management. https://www.iso.org/iso-9001-quality-management.html. Accessed 15 Jan 2023.
+12. International Organization for Standardization. ISO/IEC 27001 Information Security Management. 2021. https://www.iso.org/isoiec-27001-information-security.html. Accessed 15 Jan 2023.
+13. Joint Commission. https://www.jointcommissioninternational.org. Accessed 15 Jan 2023.
 
 # 6. Information Systems for Specific Health Care and Research Settings
 ## 6.1 Introduction
@@ -4870,7 +4866,7 @@ As mentioned in Chap.
 1, health care organizations can vary from country to country.
 Therefore, the characteristics described here, as well as their technological and management perspectives, may also differ to some extent from country to country.
 
-Please also recall the definitions of “information system” and “health information system” in Chap. 2 with respect to specific health care settings.
+Please also recall the definitions of "information system" and "health information system" in Chap. 2 with respect to specific health care settings.
 Let us take hospitals as an example of such health care settings: Hospital information systems are the socio-technical subsystem of hospitals, which comprise all data, information, and knowledge processing as well as the associated human or technical actors in their respective data, information, and knowledge processing roles.
 The same holds accordingly for other health care settings mentioned in this chapter.
 After reading this chapter, you should be able to
@@ -4927,7 +4923,7 @@ In nursing homes, the functions to be performed are mainly those of nurses and a
 The typical application component is the nursing management and documentation system (NMDS) that supports major functions such as patient administration, decision-making, planning, organization of patient treatment, and coding.
 In the event that external physicians or other specialists are involved in patient care, they may also document their findings in the NMDS.
 Otherwise, they may use their own application system for documentation (such as the application system of the general practitioner (GP)). In the latter case in particular, but also in order to be able to receive prescriptions and findings from specialists and laboratories, for example, communication links from the NMDS to application systems outside the nursing home are required.
-The interoperability standards and integration technologies from Chap. 3 can be used for this purpose. A prerequisite, however, is the physical integration discussed in Sect. 3.​10.​2 based on a secure data transmission connection at the physical tool layer.
+The interoperability standards and integration technologies from Chap. 3 can be used for this purpose. A prerequisite, however, is the physical integration discussed in Sect. 3.10.2 based on a secure data transmission connection at the physical tool layer.
 
 ### 6.3.3 Management Perspective
 Management of information systems in nursing homes is typically reduced.
@@ -4959,7 +4955,7 @@ Obviously, the complexity of information systems of medical offices is less than
 In medical offices, the functions to be performed are mainly those of health care professionals and of administrative staff with regard to patient care and administration.
 As in other settings, application systems are needed which support functions such as patient administration, decision-making, planning, organization of patient treatment, and coding.
 Typically, a patient administration system and a medical documentation and management systems (MDMS), both based on software from a single vendor, are combined into a single application system.
-The result is similar to the clinical information system (CIS) and electronic health record system (EHRS) discussed in Sect. 3.​4.​15.
+The result is similar to the clinical information system (CIS) and electronic health record system (EHRS) discussed in Sect. 3.4.15.
 In the case of specialist medical offices with additional areas for diagnostic or therapeutic services, additional application systems for these functions can be found, for example, a radiology information system (RIS) together with a picture archiving and communication system (PACS) or laboratory information system (LIS).
 If so, integration of these application systems in the office is needed as discussed in Chap. 3.
 
@@ -4968,7 +4964,7 @@ Therefore, secure interfaces for external communication must also be provided fo
 3).
 
 ### 6.4.3 Management Perspective
-Medical offices are sometimes independent “small enterprises”. Other times, they are part of a larger health care facility.
+Medical offices are sometimes independent "small enterprises". Other times, they are part of a larger health care facility.
 Medical offices are even smaller than nursing homes and can hardly have their own information management staff.
 If the medical offices are independent enterprises, however, they still need to take responsibility for the information management.
 Ensuring data security in particular must not be neglected under any circumstances.
@@ -4986,7 +4982,7 @@ Ambulatory nursing organizations can be of very different size, from a few to hu
 
 ### 6.5.2 Technological Perspective
 Ambulatory nursing organizations need support for the overall coordination and organization of the visits at the patients’ homes as well as for nursing management and documentation, done mostly at the patients’ bedside, and for administration and billing.
-The respective functions are compiled in Table 3.​3.
+The respective functions are compiled in Table 3.3.
 
 Ambulatory nursing organization may use an NMDS that also offers special features for organization and coordination of visits at patients’ home.
 At the physical tool layer, mobile tools are often used to facilitate information processing at the patients’ homes when using the NMDS.
@@ -5001,7 +4997,7 @@ Sometimes, they may be supported by the vendor of the NMDS which delivers and ma
 ### 6.6.1 Characteristics of Medical Research Facilities
 Medical research facilities exist in a variety of shapes and with different characteristics.
 Medical research is conducted at university medical centers, for example, in specialized working groups, institutes, or sub-units, but may also be conducted in universities, associated institutes, or industrial facilities, for example, in the pharmaceutical industry.
-Medical research usually is interdisciplinary and involves heterogeneous data on various entity types, for example, “clinical trial,” “finding,” or “classified diagnoses” (Sect. 3.​2.​3.​4).
+Medical research usually is interdisciplinary and involves heterogeneous data on various entity types, for example, "clinical trial," "finding," or "classified diagnoses" (Sect. 3.2.3.4).
 Especially in academic centers, efficient research and education must be supported.
 The objective of clinical research is the generalization of findings and experiences to gain new knowledge.
 Data documented during the patient treatment process may be reused for retrospective analysis to find evidence for generalization and to generate hypotheses for new studies.
@@ -5033,11 +5029,11 @@ This includes the documentation of research activities as well as the management
 
 To implement the above-mentioned functions, numerous different application components usually exist.
 Frequently, medical research facilities run multiple decentralized database systems or repositories for specific research purposes, projects, or trials.
-Clinician scientists often call these “cohort” databases, reflecting the longitudinal or cross-sectional nature of data capture.
+Clinician scientists often call these "cohort" databases, reflecting the longitudinal or cross-sectional nature of data capture.
 Dedicated research data management offices support researchers in creating such data repositories or registries in accordance with FAIR criteria by consulting them in terms of how to plan, conduct, and document research projects and by supporting them in selecting standards for structuring, representing, and saving their data along with appropriate metadata, thus aiming for a certain degree of interoperability and reusability.
 
 For clinical trials which have to fulfill very high standards with regard to data quality, data monitoring, versioning, etc., dedicated electronic data capture (EDC) systems are used.
-These offer customizable data entry forms and various export formats, most notably using CDISC standards (Sect. 3.​7.​2.​11).
+These offer customizable data entry forms and various export formats, most notably using CDISC standards (Sect. 3.7.2.11).
 Data from clinical application systems which are provisioned for reuse in research are frequently stored in data warehouse systems (DWS), data lakes (repositories for raw, often unstructured data), or open platforms. If the facility does not run an open platform, all of the above require some sort of export (e.g., as Health Level 7 (HL7) messages, HL7 FHIR) or extraction process from clinical application systems.
 While data lakes incorporate raw data such as files, blobs, or genomic sequences, DWS, as invariant systems for research, require an extract, transform, load (ETL) process, during which quality checks, and mapping to terminologies may be performed.
 Open platforms, in contrast, provide care-level, longitudinal patient-related data of the highest quality and semantic definition, so that clinical or research applications as well as registries can be built upon them.
@@ -5072,7 +5068,7 @@ As a result, the application systems required for this purpose can also be predi
 It is therefore necessary to plan primarily for generic tools and also software development groups in order to be able to adapt quickly to new research questions.
 Secondly, research is often funded on a project basis.
 Thus, it is often only known at fairly short notice what funding is available for the procurement of software and hardware; for the long-term maintenance and servicing of components, the necessary funds can often only be made available on an ad hoc basis.
-Consequently, a strategic information management plan will tend to provide a broad framework for the development of the research institution’s information system and focus on infrastructure (Sect. 2.​11).
+Consequently, a strategic information management plan will tend to provide a broad framework for the development of the research institution’s information system and focus on infrastructure (Sect. 2.11).
 
 ## 6.7 Information Systems in Other Health care Settings
 In addition to the institutional health care settings already mentioned, there are a number of other institutions involved in health care services for people. These include:
@@ -5121,7 +5117,7 @@ They take on administrative and supporting activities.
 
 #### 6.7.1.3 Inpatient and Outpatient Rehabilitation Facilities
 There are both outpatient and inpatient rehabilitation facilities of all sizes.
-Rehabilitation facilities are settings in which patients with a health condition are enabled “to remain in or return to their home or community, live independently, and participate in education, the labor market and civic life” [1]. For this purpose, rehabilitation facilities often focus on a specific discipline.
+Rehabilitation facilities are settings in which patients with a health condition are enabled "to remain in or return to their home or community, live independently, and participate in education, the labor market and civic life" [1]. For this purpose, rehabilitation facilities often focus on a specific discipline.
 For example, there are rehabilitation centers specialized in cardiological, neurological, or orthopedic rehabilitation.
 
 Inpatient rehabilitation facilities, also called rehabilitation centers, are comparable to hospitals.
@@ -5200,7 +5196,7 @@ As personal environments, we may also regard workplaces and transport vehicles s
 As mentioned in Chap. 1, we primarily associate personal environments with our regular daily lives.
 Personal environments, however, may also be related to health care.
 Thus, besides supporting primary prevention and wellness for healthy people, personal environments may also support diagnostic and therapeutic activities, rehabilitation, or secondary and tertiary prevention (i.e., to reduce or soften the impact of a disease that has already occurred).
-Health care activities in our personal environments are often denoted with terms starting with “tele” or “home,” for example, telecare, telemedicine, telerehabilitation, or home care.
+Health care activities in our personal environments are often denoted with terms starting with "tele" or "home," for example, telecare, telemedicine, telerehabilitation, or home care.
 
 ### 6.8.2 Technological Perspective
 In the case of tele-activities supporting diagnostics or rehabilitation, these activities are often assigned to health care facilities such as hospitals, medical offices, or ambulatory nursing organizations.
@@ -5231,27 +5227,27 @@ The financing of the health care systems also differs.
 There are state-financed health care systems, systems of almost nationwide compulsory insurance for all citizens that bear the costs of care, or systems where citizens must bear the costs themselves.
 However, the differences can be quite fluid.
 
-The network of health care in a state or region consists, as already mentioned in Sect. 2.​6, not only of hospitals and medical offices but also of responsible government agencies and insurance companies, among other things.
+The network of health care in a state or region consists, as already mentioned in Sect. 2.6, not only of hospitals and medical offices but also of responsible government agencies and insurance companies, among other things.
 The global pandemic that broke out at the end of 2019 in particular highlights the importance of municipal health departments, national disease control authorities (e.g., the Robert Koch Institute in Germany), and international institutions (e.g., the European Centre for Disease Prevention and Control (ECDS) and the World Health Organization (WHO)). However, it also highlights the importance of networking among these agencies.
 
 ### 6.9.2 Technological Perspective
-We already know from Sect. 2.​6 that every state and region in which there is a network of health care facilities already has, by definition, a transinstitutional health information system (tHIS).
+We already know from Sect. 2.6 that every state and region in which there is a network of health care facilities already has, by definition, a transinstitutional health information system (tHIS).
 However, such tHIS are supported by computers to quite different degrees depending on the country.
 Networking between actors requires communication and interoperability of the systems involved, just as it does within institutions.
 Very often—even in rich industrialized countries—this communication takes place by telephone or postal communication or even by fax.
 
 The tHIS of states or regions are composed of the institutional information systems of the institutions participating in the network.
-These information systems thus incorporate the entire range of application systems described in Sect. 3.​4 into the tHIS.
+These information systems thus incorporate the entire range of application systems described in Sect. 3.4 into the tHIS.
 In order for the institutional information systems to be interoperable with each other, they must each have interoperable application systems through which they can communicate with the other institutional information systems and thus work together.
-All aspects of interoperability and integration discussed in Sects. 3.​7 through 3.​10 play a role in this process, and use of the interoperability standards discussed in Sect. 3.​7.​2 is essential.
-For example, in Austria, and increasingly in Germany, Integrating the Health care Enterprise (IHE) profiles and especially XDS are used for this purpose (Sects. 3.​7.​2.​5 and 3.​7.​2.​6). However, FHIR is becoming increasingly important.
+All aspects of interoperability and integration discussed in Sects. 3.7 through 3.10 play a role in this process, and use of the interoperability standards discussed in Sect. 3.7.2 is essential.
+For example, in Austria, and increasingly in Germany, Integrating the Health care Enterprise (IHE) profiles and especially XDS are used for this purpose (Sects. 3.7.2.5 and 3.7.2.6). However, FHIR is becoming increasingly important.
 
-Especially for government agencies and ministries of health, other application systems are required in addition to those explained in Sect. 3.​4.
+Especially for government agencies and ministries of health, other application systems are required in addition to those explained in Sect. 3.4.
 The WHO describes 25 types of such application systems in its WHO Classification of Digital Health Interventions [2].
 However, at this point, the WHO’s terminology does not match the terminology in our textbook, so the application systems at WHO are usually referred to as information systems.
-Examples of such types of application systems are “community-based information systems” (WHO category F) and “public health and disease surveillance system” (WHO category V). The “district health information systems” frequently mentioned in the literature must also be understood as application systems that must work together with the other application systems of the tHIS via interfaces.
+Examples of such types of application systems are "community-based information systems" (WHO category F) and "public health and disease surveillance system" (WHO category V). The "district health information systems" frequently mentioned in the literature must also be understood as application systems that must work together with the other application systems of the tHIS via interfaces.
 
-It makes sense if, in a national health care system and also at the international level such as the European Union, a computer-supported infrastructure is available at the physical (Sect. 3.​10.​2) and logical level of the tHIS through which the institutional information systems can communicate with each other in a standardized manner.
+It makes sense if, in a national health care system and also at the international level such as the European Union, a computer-supported infrastructure is available at the physical (Sect. 3.10.2) and logical level of the tHIS through which the institutional information systems can communicate with each other in a standardized manner.
 In Germany, for example, this infrastructure is known as the telematics infrastructure.
 
 Worldwide, tHIS are developed very differently at the country level.
@@ -5271,22 +5267,22 @@ In other countries, like Finland, for example, responsibility for the national t
 In Germany, there is a company controlled by the Federal Ministry of Health, GEMATIK, which is responsible for setting up and operating the telematics infrastructure in the country.
 
 ## 6.10 Life Situations and Their Consequences for Orchestrating Services in Transinstitutional Health Information Systems
-In Sect. 1.​2, we already saw that people in different life situations are concerned about and have to deal with their health.
-These life situations are closely linked to the settings we discussed in the previous sections of Chap. 6. 
+In Sect. 1.2, we already saw that people in different life situations are concerned about and have to deal with their health.
+These life situations are closely linked to the settings we discussed in the previous sections of Chap. 6.
 For example, prevention and wellness are closely linked to the different settings we discussed in Sect. 6.7 but also to personal environments (Sect. 6.8).
 Medical emergencies and acute illness are taken care of by both hospitals (Sect. 6.2) and medical offices in ambulatory care settings (Sect. 6.4).
-These settings are also there for the treatment of chronic illnesses, but it is precisely in this life situation that the personal environment and one’s own home also become therapeutic spaces where, for example, the attending physician comes for a home visit and patients acquire knowledge about their illness, seek advice via the internet, or plan necessary visits to the doctor and specialists (Sect. 3.​3.​1).
+These settings are also there for the treatment of chronic illnesses, but it is precisely in this life situation that the personal environment and one’s own home also become therapeutic spaces where, for example, the attending physician comes for a home visit and patients acquire knowledge about their illness, seek advice via the internet, or plan necessary visits to the doctor and specialists (Sect. 3.3.1).
 Care of the elderly or people with chronic diseases takes place both in the nursing home (Sect. 6.3) and in the personal environment, if necessary with the support of an ambulatory nursing organization (Sect. 6.5).
-Rehabilitation facilities prepare patients for a more “normal” life after emergencies and acute illnesses but also when chronic illnesses improve.
+Rehabilitation facilities prepare patients for a more "normal" life after emergencies and acute illnesses but also when chronic illnesses improve.
 
 This summary shows us clearly that people need very different health care services from different health care settings in different places during their lives.
-We introduced the notion of tHIS in Sect. 2.​6, which summarizes the information processing in and between all these health care settings.
+We introduced the notion of tHIS in Sect. 2.6, which summarizes the information processing in and between all these health care settings.
 
 Ultimately, the challenge remains for each person to arrange for themselves to find the services they need in the tHIS and to ensure that the services fit together and are appropriate for treating their condition.
 Many are grateful when relatives and friends help with the search.
 GPs can also help to a limited extent.
 
-In the context of service-oriented architectures (SOAs, Sect. 3.​9.​4), we are familiar with the need to compile required services when taking a technical view of health information systems.
+In the context of service-oriented architectures (SOAs, Sect. 3.9.4), we are familiar with the need to compile required services when taking a technical view of health information systems.
 We refer to this as the orchestration of services.
 We can also apply this term to the challenge of citizens to find suitable medical services and combine them appropriately.
 
@@ -5310,9 +5306,9 @@ Note that in each hospital, the data from the electronic patient records is scat
 The consortium SMITH (Smart Medical Information Technology for Health care) decided to apply IHE to share data between the hospitals and the DICs as well as between the DICs of the different hospitals.
 For details, see [4].
 The dotted lines indicate that there are still refinements to the corresponding tasks and entity types.
-Patient data (“EMR Data in UH Sources”) is taken from the electronic patient records of hospitals (“University Hospital (UH)”) and inserted into a separate storage area.
-There, the data are prepared and, in particular, semantically “nourished,” i.e., enriched.
-Also, certain rules and methods for processing the data are managed in this “Health Data Storage.” When the patients to whom these data belong have given their consent, the data are pseudonymized by a trustee unit and made available to research projects by the “Transfer Management.”
+Patient data ("EMR Data in UH Sources") is taken from the electronic patient records of hospitals ("University Hospital (UH)") and inserted into a separate storage area.
+There, the data are prepared and, in particular, semantically "nourished," i.e., enriched.
+Also, certain rules and methods for processing the data are managed in this "Health Data Storage." When the patients to whom these data belong have given their consent, the data are pseudonymized by a trustee unit and made available to research projects by the "Transfer Management."
 
 At each DIC’s site, application systems are needed to support the local DIC, i.e., supporting the execution of functions as well as storing and communicating the entity types.
 Data and knowledge sharing between sites and between patient care and research projects (Research & Development Factory) have to be enabled.
@@ -5321,12 +5317,12 @@ The architecture of the local information system and their communication links a
 While applying the DIC reference architecture locally, the reference architecture allows for local peculiarities.
 
 As mentioned before, the DICs have to ingest data from various data sources, i.e., different application systems of the local hospital information systems.
-Communication between application systems is classified into three categories, A, B, and C, according to their interface type (“if-type”). Sources of Type A are designed using IHE profiles.
+Communication between application systems is classified into three categories, A, B, and C, according to their interface type ("if-type"). Sources of Type A are designed using IHE profiles.
 There are application systems that can serve HL7 and DICOM standards but do not fully implement IHE profile.
 They are referred to here as Type B sources.
 Type C sources are proprietary, such as data provided by comma-separated value (CSV) files.
 
-The “Data Integration Engine” executes data transformation and load processes from sources into the health data storage (HDS). The HDS contains both a component for storing HL7 FHIR resources (Health Data Repository) and an IHE XDS document repository comprising clinical data in HL7 CDA documents.
+The "Data Integration Engine" executes data transformation and load processes from sources into the health data storage (HDS). The HDS contains both a component for storing HL7 FHIR resources (Health Data Repository) and an IHE XDS document repository comprising clinical data in HL7 CDA documents.
 Using the interface-type scheme (A, B, and C), data are shared beyond department borders.
 Precise explanations of other details can be found in [4].
 
@@ -5350,7 +5346,7 @@ Finally, an open platform architecture would enable reuse of patient data in var
 In which of the health care settings above will the function medical admission need to be supported?
 
 Answer:
-The function “medical admission” is relevant in several health care and research settings.
+The function "medical admission" is relevant in several health care and research settings.
 It comprises the provision of forms for documenting medical history, documenting diagnoses, and scanning documents from referring physician and other sources of information about the medical history.
 It is obvious that this function needs to be supported in hospitals, nursing homes, ambulatory nursing organizations, and medical offices.
 Yet it is often also necessary in research settings, for example, when a person is recruited for a clinical trial and their data are entered into an EDC system.
@@ -5359,166 +5355,166 @@ For personal environments, medical admission also plays a role, especially in te
 
 ## References
 1. Grabovac I, Dorner TE. Work ability management in rehabilitation and return to work: a perspective from austria. In: Johansen T, Dittrisch WH, editors. Occupational health and rehabilitation: new approaches for maintaining work ability in the workplace. Wiesbaden: Springer Gabler; 2021. p. 25–34.
-2. World Health Organization. Classification of digital health interventions v1.0: A shared language to describe the uses of digital technology for health. World Health Organization (WHO); 2018. https://​www.​who.​int/​publications/​i/​item/​WHO-RHR-18.​06. Accessed 15 Jan 2023.
+2. World Health Organization. Classification of digital health interventions v1.0: A shared language to describe the uses of digital technology for health. World Health Organization (WHO); 2018. https://www.who.int/publications/i/item/WHO-RHR-18.06. Accessed 15 Jan 2023.
 3. Ammenwerth E, Duftschmid G, Al-Hamdan Z, Bawadi H, Cheung NT, Cho K-H, et al. International comparison of six basic eHealth indicators across 14 countries: an eHealth Benchmarking study. Methods Inf Med. 2020;59(S 02):e46–63.CrossrefPubMedPubMedCentral
 4. Winter A, Stäubert S, Ammon D, Aiche S, Beyan O, Bischoff V, et al. Smart Medical Information Technology for Healthcare (SMITH): data integration based on interoperability standards. Methods Inf Med. 2018;57(Open 1):e92–e105.PubMedPubMedCentral
 
 # Glossary
-- 3LGM^2: Metamodel for modeling --> information systems on three layers: --> domain layer, --> logical tool layer, and --> physical tool layer (Sect. 2.​14).
-- AC^1 architecture: See --> monolithic architecture (Sect. 3.​6.​2).
-- AC^n architecture: See --> modular architecture (Sect. 3.​6.​2).
-- Activity: Instantiation of a --> function. In contrast to functions, activities have a definite beginning and end (Sect. 2.​8).
-- ADT: HL7 message type for --> messages related to admission, discharge, and transfer of a patient (Sect. 3.​7.​2.​1).
-- All-in-one architecture: A --> monolithic (AC1, V1) architecture or an (AC^n, V1) architecture in which the --> health care facility selected only --> application software products from exactly one vendor to support as many --> information processing functions as necessary (Sect. 3.​6.​3).
-- Annual project portfolio: Describes the --> projects to be initiated in the next year. It is derived from the --> strategic project portfolio (Sect. 4.​3.​1.​3).
-- Application component: Set of implemented rules which control data processing of certain --> physical data processing systems. An application component supports certain --> information processing functions of a --> health care setting or communication between application components. Application components can either be computer-based application components (--> application system) or --> non-computer-based application components (paper-based application component) (Sect. 2.​9).
-- Application software product: Acquired or self-developed piece of software that can be installed on a --> computer system (Sect. 2.​9).
-- Application system: Installation of a certain --> application software product on a certain computer system; specialization of --> application component (Sect. 2.​9).
-- Archetype: Basic building blocks representing clinical concepts. Can be reused as semantic building blocks for the standardized representation of clinical --> information in --> electronic health records (Sect. 3.​7.​2.​8).
-- Architectural style: Characterizes the --> architecture of the computer-based part of --> health information systems. On the --> logical tool layer, we can describe architectural styles by the number of databases (--> DB^1, --> DB^n), number of --> application systems (--> AC1, --> AC^n), number of --> application software products and vendors (--> V1, --> Vn), and the patterns of --> communication links (--> CP1, --> CPn) between the application systems (Sect. 3.​6).
-- Architecture of an information system: Fundamental organization of the --> information system, represented by its --> components, their relationships to each other and to the environment, and by the principles guiding its design and evolution. Architectures can be summarized into --> architectural styles (Sect. 2.​11).
-- Asynchronous communication: Communication between --> application systems that is not simultaneous. Thus, the --> application system sending a --> message will continue its tasks without interruption even when awaiting a response --> message from the communication partner (Sect. 3.​9.​2).
-- Benchmarking: Method of strategic --> monitoring of --> information systems in which organizations evaluate various aspects of their performance and compare it to a given standard or to the best organizations (“best practice”). Typically, benchmarking uses quantitative criteria (--> key performance indicators) for comparing situations (Sect. 4.​3.​2.​2).
-- Best-of-breed architecture: An (AC^n, Vn) architecture where the different --> application systems are based on --> software from different vendors, pointing to the fact that the --> health care facility combines the “best” application software products from different vendors (Sect. 3.​6.​3).
-- Business goals: The strategic, long-term goals of a --> health care facility (Sect. 4.​3.​1.​1).
-- Business process: Sequence of --> activities together with the conditions under which they are performed (Sect. 2.​8).
-- Case identification number (CIN): Unique identification of a patient case (Sect. 3.​3.​2.​1.1.2).
-- Central architecture: --> Architecture of an information system where all --> application systems store their patient-related --> data in only one database system. Synonym: DB^1 architecture (Sect. 3.​6.​1.​1).
-- Certification: Confirming that an object or organization has certain characteristics. Certification of --> health information systems in general describes a process where an accredited body confirms that the information system of a --> health care facility fulfills certain --> quality characteristics that have been predefined by an external organization (Sects. 5.​2.​3 and 5.​5.​3).
-- Chief information officer (CIO): Role that is responsible for the --> strategic, --> tactical, and --> operational management and the related budget of the --> information system. The CIO usually has authority over all employees concerned with --> management of the information system (Sect. 4.​6.​2).
-- Clinical information system (CIS): --> Application system that integrates a --> medical documentation and management system, a --> nursing management and documentation system or a --> CPOE system as modules. A CIS is also often called --> electronic health record system (EHRS) (Sect. 3.​4.​15).
-- Communication interface: Used by --> application systems for sending or receiving --> messages over --> communication links (Sect. 2.​14.​2.​2).
-- Communication link: Communicates --> messages. Connects a --> communication interface of one --> application system with a --> communication interface of another --> application system (Sect. 2.​14.​2.​2).
-- Communication server: --> Application system used for the asynchronous receiving, buffering, transforming, and sending of --> messages (Sect. 3.​9.​2).
+- 3LGM^2: Metamodel for modeling --> information systems on three layers: --> domain layer, --> logical tool layer, and --> physical tool layer (Sect. 2.14).
+- AC^1 architecture: See --> monolithic architecture (Sect. 3.6.2).
+- AC^n architecture: See --> modular architecture (Sect. 3.6.2).
+- Activity: Instantiation of a --> function. In contrast to functions, activities have a definite beginning and end (Sect. 2.8).
+- ADT: HL7 message type for --> messages related to admission, discharge, and transfer of a patient (Sect. 3.7.2.1).
+- All-in-one architecture: A --> monolithic (AC1, V1) architecture or an (AC^n, V1) architecture in which the --> health care facility selected only --> application software products from exactly one vendor to support as many --> information processing functions as necessary (Sect. 3.6.3).
+- Annual project portfolio: Describes the --> projects to be initiated in the next year. It is derived from the --> strategic project portfolio (Sect. 4.3.1.3).
+- Application component: Set of implemented rules which control data processing of certain --> physical data processing systems. An application component supports certain --> information processing functions of a --> health care setting or communication between application components. Application components can either be computer-based application components (--> application system) or --> non-computer-based application components (paper-based application component) (Sect. 2.9).
+- Application software product: Acquired or self-developed piece of software that can be installed on a --> computer system (Sect. 2.9).
+- Application system: Installation of a certain --> application software product on a certain computer system; specialization of --> application component (Sect. 2.9).
+- Archetype: Basic building blocks representing clinical concepts. Can be reused as semantic building blocks for the standardized representation of clinical --> information in --> electronic health records (Sect. 3.7.2.8).
+- Architectural style: Characterizes the --> architecture of the computer-based part of --> health information systems. On the --> logical tool layer, we can describe architectural styles by the number of databases (--> DB^1, --> DB^n), number of --> application systems (--> AC1, --> AC^n), number of --> application software products and vendors (--> V1, --> Vn), and the patterns of --> communication links (--> CP1, --> CPn) between the application systems (Sect. 3.6).
+- Architecture of an information system: Fundamental organization of the --> information system, represented by its --> components, their relationships to each other and to the environment, and by the principles guiding its design and evolution. Architectures can be summarized into --> architectural styles (Sect. 2.11).
+- Asynchronous communication: Communication between --> application systems that is not simultaneous. Thus, the --> application system sending a --> message will continue its tasks without interruption even when awaiting a response --> message from the communication partner (Sect. 3.9.2).
+- Benchmarking: Method of strategic --> monitoring of --> information systems in which organizations evaluate various aspects of their performance and compare it to a given standard or to the best organizations ("best practice"). Typically, benchmarking uses quantitative criteria (--> key performance indicators) for comparing situations (Sect. 4.3.2.2).
+- Best-of-breed architecture: An (AC^n, Vn) architecture where the different --> application systems are based on --> software from different vendors, pointing to the fact that the --> health care facility combines the "best" application software products from different vendors (Sect. 3.6.3).
+- Business goals: The strategic, long-term goals of a --> health care facility (Sect. 4.3.1.1).
+- Business process: Sequence of --> activities together with the conditions under which they are performed (Sect. 2.8).
+- Case identification number (CIN): Unique identification of a patient case (Sect. 3.3.2.1.1.2).
+- Central architecture: --> Architecture of an information system where all --> application systems store their patient-related --> data in only one database system. Synonym: DB^1 architecture (Sect. 3.6.1.1).
+- Certification: Confirming that an object or organization has certain characteristics. Certification of --> health information systems in general describes a process where an accredited body confirms that the information system of a --> health care facility fulfills certain --> quality characteristics that have been predefined by an external organization (Sects. 5.2.3 and 5.5.3).
+- Chief information officer (CIO): Role that is responsible for the --> strategic, --> tactical, and --> operational management and the related budget of the --> information system. The CIO usually has authority over all employees concerned with --> management of the information system (Sect. 4.6.2).
+- Clinical information system (CIS): --> Application system that integrates a --> medical documentation and management system, a --> nursing management and documentation system or a --> CPOE system as modules. A CIS is also often called --> electronic health record system (EHRS) (Sect. 3.4.15).
+- Communication interface: Used by --> application systems for sending or receiving --> messages over --> communication links (Sect. 2.14.2.2).
+- Communication link: Communicates --> messages. Connects a --> communication interface of one --> application system with a --> communication interface of another --> application system (Sect. 2.14.2.2).
+- Communication server: --> Application system used for the asynchronous receiving, buffering, transforming, and sending of --> messages (Sect. 3.9.2).
 - Components of an information system: --> Enterprise functions, --> business processes, --> application components, and --> physical data processing systems. If a system consists of both human and technical components, it can be called a --> socio-technical system (Chap. 2).
-- Computer-based application component: See --> application system (Sect. 2.​9).
-- Computer-based sub-information system: --> Sub-information system that uses computer-based data processing and communication tools (Sect. 2.​5).
-- Computer-based health information system: --> Health information system that uses computer-based data processing and communication tools (Sect. 2.​6).
-- Computer system: A computer-based --> physical data processing tool, for example, a terminal, server, or personal computer (PC). Computer systems can be physically connected, leading to physical networks (Sect. 2.​9).
-- Computerized provider order entry system (CPOE):--> Application system supporting the --> functions related to order entry, such as formulation of an order, appointment scheduling, printing of labels, and the communication of the order to the service unit (Sect. 3.​4.​4).
-- Context integration: Condition of an --> information system in which the context (e.g., user identification and patient selection) is preserved when the user changes the --> application system (Sect. 3.​8.​4).
-- CP^1 architecture: See --> star architecture (Sect. 3.​6.​4).
-- CP^n architecture: See --> spaghetti architecture (Sect. 3.​6.​4).
-- Data: Characters, discrete numbers, or continuous signals to be processed in --> information systems (Sect. 2.​2).
-- Data consistency: Situation where copies of --> data representing the same --> entity are identical. Consistency of data is one element of --> data integrity within --> health information systems (Sect. 3.​5).
-- Data integration: Condition of an --> information system where --> data that have been recorded and stored once in one --> application component is made available in a coherent and uniform way wherever they are needed, i.e., in other application components, without having to be reentered. Data integration helps to increase --> data consistency (Sect. 3.​8.​1).
-- Data integrity: Situation where --> data in --> information systems are correct. Comprises --> object identity, --> referential integrity, and --> data consistency (Sect. 3.​5).
-- Data warehouse system (DWS): --> Application system supporting --> functions related to the collection, analysis, and presentation of up-to-date --> information extracted from other --> application systems to support hospital management or clinical research (Sect. 3.​4.​11).
-- DB^1 architecture: See --> central architecture (Sect. 3.​6.​1.​1).
-- DB^n architecture: See --> distributed architecture (Sect. 3.​6.​1.​2).
-- Directing: Task of --> strategic management of information system that comprises the transformation of a --> strategic information management plan into action, typically by initiation of --> projects (Sect. 4.​3.​3).
-- Distributed architecture: --> Architecture of an information system where the --> information system comprises several --> application components that each store --> data on certain --> entity types persistently in their own database. Synonym: DB^n style (Sect. 3.​6.​1.​2).
-- Document archiving system (DAS): --> Application system supporting long-term archiving of paper-based and digital documents. Can be realized by --> vendor-neutral archives (VNAs) (Sect. 3.​4.​12).
-- Domain layer: Part of a --> 3LGM² model. Describes what kinds of activities in a health care setting are enabled by its --> information system and what kind of --> data are stored and processed. Consequently, the domain layer describes --> information processing functions and --> entity types (Sect. 2.​14.​1).
-- Electronic health record (EHR): Collection of a person’s health --> data from different --> health care settings. The EHR is stored by one or more --> application systems in a --> transinstitutional health information system (Sect. 2.​10).
-- Electronic patient record (EPR): Collection of a person’s health --> data from one certain --> health care facility where the person is or has been a patient. The EPR is stored by --> application systems designated for this purpose by the facility (Sect. 2.​10).
-- Enterprise function: In business informatics, enterprise functions mainly emphasize the contribution of --> activities to --> business goals. In contrast, the term --> information processing function emphasizes the --> information processing aspects of activities (Sect. 2.​8).
-- Enterprise resource planning system (ERPS): --> Application system supporting --> functions related to the management of financial, human, and material resources of a --> health care facility (Sect. 3.​4.​10).
-- Entity: Excerpt of the real or conceivable world (Sect. 2.​8).
-- Entity type: Set of virtual or physical --> entities that have certain properties in common (e.g., “discharge letter” or “patient”) (Sect. 2.​8).
-- Evaluation: Act of measuring or exploring --> components of a --> health information system. The result of an evaluation should provide information to support decisions concerning the health information system, such as decisions regarding optimizing, replacing, or further deploying an --> application component (Sect. 5.​4).
-- Feature: Functionality offered by the --> application software product of an --> application system which directly contributes to the fulfillment of one or more --> functions (Sect. 2.​9).
-- Feature integration: Condition of an --> information system in which --> features needed in more than one --> application systems are implemented only once, for example, as --> services, and can be invoked by other application systems (Sect. 3.​8.​5).
-- Function: Short for --> information processing function (Sect. 2.​8).
-- Functional leanness: Situation where one --> function is supported by one and only one --> application component (Sect. 4.​7.​4).
-- Health care facility: Health care institutions such as hospitals, nursing homes, or general practitioners (GP); type of --> health care setting (Sect. 2.​3).
-- Health care network: --> Health care setting consisting of different actors enabling a patient-oriented process, encompassing prevention, diagnosis, and therapy spreading over --> health care facilities’ boundaries and integrating the citizens’ home environment (Sect. 2.​6). The --> information system of a health care network is called a --> transinstitutional health information system.
-- Health care professional: A person working in --> health care settings, such as a physician, nurse, midwife, pharmacist, or physiotherapist (Sect. 1.​3.​2).
-- Health care setting: Places, social contexts, or facilities related to health care where people actively use and shape the environment and thus create or solve problems, such as cities, villages, private homes, medical offices, hospitals, health care regions, --> health care facilities, and --> health care networks (Sect. 2.​3).
-- Health information system: --> Information system of a --> health-related setting. Socio-technical subsystem of a --> health-related setting which comprises all --> data, --> information, and --> knowledge processing as well as the associated human or technical actors in their respective data, information, and knowledge processing roles (Sect. 2.​6).
-- Heterogeneous architecture: --> Architecture of an information system where --> application software products come from several vendors. Synonym: Vn architecture (Sect. 3.​6.​3).
-- Homogeneous architecture: --> Architecture of an information system where --> application software products come from only one vendor. Synonym: V1 architecture (Sect. 3.​6.​3).
-- Hospital information system: --> Information system of a hospital (Sect. 2.​6).
-- Information: Context-specific fact about --> entities such as events, things, persons, processes, ideas, or concepts. Information is represented by --> data (Sect. 2.​2).
-- Information and knowledge logistics: Making the right --> information and --> knowledge available at the right time, at the right place, to the right people, and in the right form, so that these people can make the right decisions. --> Information systems support information and knowledge logistics (Sect. 2.​7).
-- Information management: Short for --> management of information systems (Sect. 2.​12).
-- Information management board: Board to make strategic decisions on the --> information system. Members of this board are typically representatives from the top management and from the main departments of a --> health care facility. Synonym: IT steering committee (Sect. 4.​6.​3).
+- Computer-based application component: See --> application system (Sect. 2.9).
+- Computer-based sub-information system: --> Sub-information system that uses computer-based data processing and communication tools (Sect. 2.5).
+- Computer-based health information system: --> Health information system that uses computer-based data processing and communication tools (Sect. 2.6).
+- Computer system: A computer-based --> physical data processing tool, for example, a terminal, server, or personal computer (PC). Computer systems can be physically connected, leading to physical networks (Sect. 2.9).
+- Computerized provider order entry system (CPOE):--> Application system supporting the --> functions related to order entry, such as formulation of an order, appointment scheduling, printing of labels, and the communication of the order to the service unit (Sect. 3.4.4).
+- Context integration: Condition of an --> information system in which the context (e.g., user identification and patient selection) is preserved when the user changes the --> application system (Sect. 3.8.4).
+- CP^1 architecture: See --> star architecture (Sect. 3.6.4).
+- CP^n architecture: See --> spaghetti architecture (Sect. 3.6.4).
+- Data: Characters, discrete numbers, or continuous signals to be processed in --> information systems (Sect. 2.2).
+- Data consistency: Situation where copies of --> data representing the same --> entity are identical. Consistency of data is one element of --> data integrity within --> health information systems (Sect. 3.5).
+- Data integration: Condition of an --> information system where --> data that have been recorded and stored once in one --> application component is made available in a coherent and uniform way wherever they are needed, i.e., in other application components, without having to be reentered. Data integration helps to increase --> data consistency (Sect. 3.8.1).
+- Data integrity: Situation where --> data in --> information systems are correct. Comprises --> object identity, --> referential integrity, and --> data consistency (Sect. 3.5).
+- Data warehouse system (DWS): --> Application system supporting --> functions related to the collection, analysis, and presentation of up-to-date --> information extracted from other --> application systems to support hospital management or clinical research (Sect. 3.4.11).
+- DB^1 architecture: See --> central architecture (Sect. 3.6.1.1).
+- DB^n architecture: See --> distributed architecture (Sect. 3.6.1.2).
+- Directing: Task of --> strategic management of information system that comprises the transformation of a --> strategic information management plan into action, typically by initiation of --> projects (Sect. 4.3.3).
+- Distributed architecture: --> Architecture of an information system where the --> information system comprises several --> application components that each store --> data on certain --> entity types persistently in their own database. Synonym: DB^n style (Sect. 3.6.1.2).
+- Document archiving system (DAS): --> Application system supporting long-term archiving of paper-based and digital documents. Can be realized by --> vendor-neutral archives (VNAs) (Sect. 3.4.12).
+- Domain layer: Part of a --> 3LGM² model. Describes what kinds of activities in a health care setting are enabled by its --> information system and what kind of --> data are stored and processed. Consequently, the domain layer describes --> information processing functions and --> entity types (Sect. 2.14.1).
+- Electronic health record (EHR): Collection of a person’s health --> data from different --> health care settings. The EHR is stored by one or more --> application systems in a --> transinstitutional health information system (Sect. 2.10).
+- Electronic patient record (EPR): Collection of a person’s health --> data from one certain --> health care facility where the person is or has been a patient. The EPR is stored by --> application systems designated for this purpose by the facility (Sect. 2.10).
+- Enterprise function: In business informatics, enterprise functions mainly emphasize the contribution of --> activities to --> business goals. In contrast, the term --> information processing function emphasizes the --> information processing aspects of activities (Sect. 2.8).
+- Enterprise resource planning system (ERPS): --> Application system supporting --> functions related to the management of financial, human, and material resources of a --> health care facility (Sect. 3.4.10).
+- Entity: Excerpt of the real or conceivable world (Sect. 2.8).
+- Entity type: Set of virtual or physical --> entities that have certain properties in common (e.g., "discharge letter" or "patient") (Sect. 2.8).
+- Evaluation: Act of measuring or exploring --> components of a --> health information system. The result of an evaluation should provide information to support decisions concerning the health information system, such as decisions regarding optimizing, replacing, or further deploying an --> application component (Sect. 5.4).
+- Feature: Functionality offered by the --> application software product of an --> application system which directly contributes to the fulfillment of one or more --> functions (Sect. 2.9).
+- Feature integration: Condition of an --> information system in which --> features needed in more than one --> application systems are implemented only once, for example, as --> services, and can be invoked by other application systems (Sect. 3.8.5).
+- Function: Short for --> information processing function (Sect. 2.8).
+- Functional leanness: Situation where one --> function is supported by one and only one --> application component (Sect. 4.7.4).
+- Health care facility: Health care institutions such as hospitals, nursing homes, or general practitioners (GP); type of --> health care setting (Sect. 2.3).
+- Health care network: --> Health care setting consisting of different actors enabling a patient-oriented process, encompassing prevention, diagnosis, and therapy spreading over --> health care facilities’ boundaries and integrating the citizens’ home environment (Sect. 2.6). The --> information system of a health care network is called a --> transinstitutional health information system.
+- Health care professional: A person working in --> health care settings, such as a physician, nurse, midwife, pharmacist, or physiotherapist (Sect. 1.3.2).
+- Health care setting: Places, social contexts, or facilities related to health care where people actively use and shape the environment and thus create or solve problems, such as cities, villages, private homes, medical offices, hospitals, health care regions, --> health care facilities, and --> health care networks (Sect. 2.3).
+- Health information system: --> Information system of a --> health-related setting. Socio-technical subsystem of a --> health-related setting which comprises all --> data, --> information, and --> knowledge processing as well as the associated human or technical actors in their respective data, information, and knowledge processing roles (Sect. 2.6).
+- Heterogeneous architecture: --> Architecture of an information system where --> application software products come from several vendors. Synonym: Vn architecture (Sect. 3.6.3).
+- Homogeneous architecture: --> Architecture of an information system where --> application software products come from only one vendor. Synonym: V1 architecture (Sect. 3.6.3).
+- Hospital information system: --> Information system of a hospital (Sect. 2.6).
+- Information: Context-specific fact about --> entities such as events, things, persons, processes, ideas, or concepts. Information is represented by --> data (Sect. 2.2).
+- Information and knowledge logistics: Making the right --> information and --> knowledge available at the right time, at the right place, to the right people, and in the right form, so that these people can make the right decisions. --> Information systems support information and knowledge logistics (Sect. 2.7).
+- Information management: Short for --> management of information systems (Sect. 2.12).
+- Information management board: Board to make strategic decisions on the --> information system. Members of this board are typically representatives from the top management and from the main departments of a --> health care facility. Synonym: IT steering committee (Sect. 4.6.3).
 - Information model: Description of entity types and their relationships at a conceptual level, independent of any specific implementation or --> protocols. In contrast, a data model is defined at a lower level of abstraction and is intended for implementers of databases (see Sect. 3.7.1.3).
-- Information processing function (short: function): Directive in a --> health care setting on how to use --> data on --> entity types and how to update data on entity types. An information processing function has no definitive beginning or end (Sect. 2.​8).
-- Information system: --> Socio-technical subsystem of a setting which comprises all --> data, --> information, and --> knowledge processing as well as the associated human or technical actors in their respective data, information, and knowledge processing roles. Information systems support --> information and knowledge logistics (Sect. 2.​5).
-- Infrastructure of an information system: Set of --> components of the --> information system and services which are centrally coordinated and provided for use throughout the --> health care setting, such as --> physical data processing systems and --> application systems (Sect. 2.​11).
-- Integration: Union of parts making a whole, which—as opposed to its parts—displays a new quality. Different types of integration on the --> logical tool layer are --> data integration, --> semantic integration, --> user interface integration, --> context integration, --> feature integration, and --> process integration. On the --> physical tool layer, --> physical integration is important (Sect. 3.​8).
-- Integrity: See --> data integrity (Sect. 3.​5).
-- Inter-layer relationship: Dependencies among --> components of different layers in the --> 3LGM^2. Relationships exist between concepts at the --> domain layer and the --> logical tool layer and between concepts at the logical tool layer and the --> physical tool layer (Sect. 2.​14.​4).
-- Interoperability: Ability of two --> application systems to exchange --> information with each other and to use the information that has been exchanged. Aspects of interoperability comprise --> technical interoperability, --> syntactic interoperability, --> semantic interoperability, and --> process interoperability (Sect. 3.​7).
-- Interoperability standard: Comprises standards for --> technical interoperability (also called --> protocols), --> syntactic interoperability (also called communication standard or message standards), --> semantic interoperability (common information models, --> terminology standards), and --> process interoperability (Sect. 3.​7.​2).
-- IT governance: Part of the overall management of a --> health care facility. It deals with defining the organizational structures for decision-making for --> information management in such a way that the management of information systems is well integrated with the health care facility’s management and is aligned to its strategic goals (--> strategic alignment) (Sect. 4.​6.​1).
-- IT risk management: Continuously assesses risks and liabilities of the --> management of information systems (Sect. 5.​2.​2).
-- IT service: Services provided by --> operational information management that are designed to help users use --> application systems and --> physical data processing tools in a way that is helpful for their professional work (Sect. 4.​5).
-- IT service management (ITSM): Activities of --> information management that serve to provide high-quality --> IT services (Sect. 4.​5).
-- IT strategy: See --> strategic information management plan (Sect. 4.​3.​1.​2).
-- Key performance indicators (KPI): Set of quantitative and well-defined performance measurements that demonstrate how effectively an organization is achieving key objectives. Can be used for --> benchmarking of --> health information systems (Sect. 4.​3.​2.​1).
-- Knowledge: General --> information about concepts in a certain (scientific or professional) domain (e.g., knowledge about diseases or therapeutic methods) at a certain time (Sect. 2.​2).
-- Laboratory information system (LIS): --> Application system supporting --> functions related to the --> information processing of a laboratory unit of a --> health care facility (Sect. 3.​4.​7).
-- Life situation: Situation in life where --> health information systems may play an important role. Life situations comprise normal living, emergencies, acute diseases, chronic diseases, care, and rehabilitation (Sect. 1.​2).
-- Logical tool: See --> application component (Sect. 2.​14.​2).
-- Logical tool layer: Part of a --> 3LGM². Describes --> application systems or, in a broader sense, --> application components that support information processing functions and their --> communication links among each other (Sect. 2.​14.​2).
-- Management of information systems (short: information management): Planning the --> information system and its --> architecture, --> directing its construction and the further development of its architecture and its operation on the basis of these plans, and monitoring compliance of its development and operation with the plan specifications. Comprises --> strategic, --> tactical, and --> operational information management (Sect. 2.​12).
-- Primary application system: --> Application system that contains the original --> data about a given --> entity type. These data can only be inserted, deleted, or changed in this primary application system (Sect. 3.​9.​1).
-- Master patient index (MPI): --> Application component providing a correct --> patient identification number (PIN) in an institutional --> health information system and even in --> transinstitutional information systems with several --> patient administration systems (Sect. 3.​4.​1).
-- Medical documentation and management system (MDMS): --> Application system supporting --> functions related to organizing and documenting patients’ diagnostics and treatment from a medical point of view (Sect. 3.​4.​2).
-- Message: Set of data on --> entity types (e.g., administrative data of a given patient) that are arranged as a unit in order to be communicated between --> application systems (Sect. 2.​14.​2.​2).
-- Metadata: Data about --> data. Metadata provides information about one or more aspects of data such as purpose of the data, author and time of creation, used standards, or file size (Sect. 2.​2).
-- Metamodel: Modeling framework consisting of syntax, semantics, representations of context, and modeling rules. For example: --> 3LGM^2 (Sect. 2.​13).
-- Model: Description of what the modeler believes to be relevant about a --> system. Models may be developed based on --> metamodels (Sect. 2.​13).
-- Modular architecture: --> Architecture of an information system where the --> information system consists of more than one --> application component. Synonym: AC^n architecture (Sect. 3.​6.​2).
-- Monitoring: Task of --> strategic management of information systems that continuously audits quality and cost of the information system and assesses whether the strategic information management plan is implemented as intended (Sect. 4.​3.​2).
-- Monolithic architecture: --> Architecture of an information system where the --> information system consists of only one --> application component which supports most of the --> functions. Synonym: AC1 architecture (Sect. 3.​6.​2).
-- Non-computer-based application component: Sets of organizational rules for data processing which are implemented by non-computer-based --> physical tools. Specialization of --> application component. Synonym: Paper-based application component (Sect. 2.​9).
-- Nursing management and documentation system (NMDS): --> Application system supporting --> functions related to organizing and documenting patients’ diagnostics and treatment from a nursing point of view (Sect. 3.​4.​2).
-- Object identity: Situation where all objects (--> entities) can be uniquely and correctly identified. In --> health information systems, this is especially important for --> entity types such as patient (--> Patient Identification Number) and case (Case Identification Number) (Sect. 3.​5).
-- Open platform: --> Application system that stores patient --> data based on open specifications and open --> information models and provides open Application Programming Interfaces (API) for storing and querying this data (Sect. 3.​9.​3)
-- Operation management system (OMS): Application system supporting --> functions related to --> information processing of an operating room unit of a --> health care facility (Sect. 3.​4.​8).
-- Operational management of information systems: Responsible for smooth operation of the --> components of the --> information system in accordance with the --> strategic information management plan. Additionally, it plans, directs, and monitors permanent --> IT services for the users of the information system (Sect. 4.​5).
-- Organizational unit: Part of a --> health care facility which can be defined by responsibilities (Sect. 2.​14.​1).
-- Paper-based application component: See --> non-computer-based application component (Sect. 2.​9).
-- Patient administration system (PAS): --> Application system supporting --> functions related to patient administration in --> health care facilities. Synonym: Patient management system (Sect. 3.​4.​1).
-- Patient data management system (PDMS): --> Application system supporting --> functions related to --> information processing in intensive care units of a --> health care facility (Sect. 3.​4.​9).
-- Patient identification number (PIN): Unique identification of a patient. Should be used for patient identification in all parts of a --> health information system. One precondition for --> object identify (Sect. 3.​2.​3.​1).
-- Patient portal: --> Application system offered by --> health care facilities that supports patients of this facility to obtain an overview of their health data, organize documents, and actively manage these themselves (Sect. 3.​4.​13.​1).
-- Physical data processing system: Physical entity that is able to receive, store, forward, or purposefully manipulate --> data (Sect. 2.​9).
-- Physical integration: Condition of an --> information system in which the necessary physical communication between a set of --> physical data processing systems for each required data exchange is possible (Sect. 3.​10.​2).
-- Physical interoperability: Ability of --> physical data processing systems to exchange --> data via hardware interfaces. Prerequisite for --> technical interoperability of --> application systems (Sect. 3.​10.​2).
-- Physical tool: See --> physical data processing system (Sect. 2.​9).
-- Physical tool layer: Part of a --> 3LGM² model. Describes --> physical data processing systems and their data transmission links among each other (Sect. 2.​14.​3).
-- Picture archiving and communication system (PACS): --> Application system supporting the --> functions related to storage, retrieval, management, manipulation, presentation, and communication of large amounts of digital images (Sect. 3.​4.​6).
-- Planning: Task of --> strategic information management that comprises --> strategic alignment of business goals and strategic information management goals, and the development of both a long-term --> strategic project portfolio and --> annual project portfolios (Sect. 4.​3.​1).
-- Process integration: Condition of an --> information system in which business processes are effectively supported by a set of interoperating --> application systems (Sect. 3.​8.​6).
-- Process interoperability: Ability of --> application systems to interoperate in certain organizational contexts, especially in certain processes (Sect. 3.​7.​1.​4).
-- Project: Unique undertaking that is characterized by objectives, by restrictions with regard to available time and resources, and by a specific project organization (Sect. 4.​4).
-- Protocol: Standard for --> technical interoperability at the --> physical tool layer for supporting communication between --> computer systems (Sect. 3.​7.​1.​1).
-- Quality: Degree to which a set of inherent characteristics fulfills certain requirements, where “requirements” means needs or expectations (Sect. 5.​1).
-- Radiology information system (RIS): --> Application system supporting --> functions related to --> information processing at the radiological unit of a --> health care facility (Sect. 3.​4.​5).
-- Reference model: A model is called a reference model for a certain class of systems and a certain class of questions or tasks dealing with these systems if it provides model patterns supporting the derivation of more specific models through modifications, limitations, or completions (generic reference models) or direct comparison of different models with the reference model concerning certain quality aspects of the modeled systems (e.g., completeness, styles of system’s architecture) (non-generic reference models) (Sect. 2.​13).
-- Referential integrity: Situation where relationships between --> entities are correctly represented. A precondition for referential integrity is --> object identity (Sect. 3.​5).
-- Role: Sum of expectations addressed to persons or groups of persons (Sect. 2.​8).
-- Semantic integration: Condition of an --> information system in which --> application systems actually use the same system of concepts, for example, based on a common --> terminology, i.e., they interpret --> data the same way (Sect. 3.​8.​2).
-- Semantic interoperability: Ability of --> application systems to exchange --> information (in the form of --> messages) that can be meaningfully interpreted by both and processed further (Sect. 3.​7.​1.​3).
-- Service: Encapsulated --> feature provided by --> application systems in order to be invoked by other application systems (Sect. 2.​9).
-- Service-level agreements (SLA): Contract regarding the provision of an --> IT service, for example, between a department and the IT department (Sect. 5.​2.​4).
-- Service-oriented architectures (SOA): --> Architectural style of --> health information systems where --> application systems are able to provide or to invoke --> services from other --> application systems (Sect. 3.​9.​4).
-- Socio-technical system: A (human-made) --> system consisting of both human and technical components (Sect. 2.​5).
-- Spaghetti architecture: --> Architecture of an information system where the --> application systems are connected via bidirectional --> communication links. Synonym: CPn architecture (Sect. 3.​6.​4).
-- Stakeholder: Anyone who has an influence on or specific requirement regarding a --> component of an --> information system, for example, by formulating requirements (Sect. 1.​3).
-- Standardized documentation: Documentation where the --> entity types for which --> data are to be recorded, the properties (attributes) of the --> objects of these --> entity types that are to be documented, and the exact value set of these attributes are defined (Sect. 3.​2.​2).
-- Star architecture: --> Architecture of an information system where the --> application systems communicate via a central application system (e.g., a --> communication server). Synonym: CP1 architecture (Sect. 3.​6.​4).
-- Strategic alignment: The process that balances and harmonizes the --> business goals and the --> information management strategies to obtain the best result for the --> health care facility. Important task of --> strategic information management (Sect. 4.​3.​1.​1).
-- Strategic information management plan: Long-term planning of the --> information system of a --> health care facility. This plan describes the --> business goals, the --> information management goals, the current state of the information system, the future state of the information system, and the steps to transform the current into the planned information system (Sect. 4.​3.​1.​2).
-- Strategic management of information systems: Deals with the --> information processing as a whole and establishes strategies and principles for the evolution of the --> information system. It depends on and must be aligned to the vision, mission, and strategic --> business goals of the --> health care facility (--> strategic alignment). An important result of strategic management activities is a --> strategic information management plan (Sect. 4.​3).
-- Strategic project portfolio: Describes --> projects or groups of projects and their priority, and a rough timeline for their initiation for the coming years. It is typically described in a --> strategic information management plan. Is the basis for the --> annual project portfolio (Sect. 4.​3.​1.​2).
-- Sub-information system: --> Subsystem of an --> information system (Sect. 2.​5).
-- Subsystem: Part of a --> system that comprises a subset of --> components and the relationships between them (Sect. 2.​4).
-- Synchronous communication: Form of communication in which the sending --> application system will pause from the time that it sends a --> message to the time that it receives the respective answer (Sect. 3.​9.​2).
-- Syntactic interoperability: Ability of --> application systems to use a predefined structure for the exchanged --> messages (Sect. 3.​7.​1.​2).
-- System: Set of persons, things, events, and their relationships forming an integrated whole. We distinguish between natural systems and artificial (human-made) --> socio-technical systems. A system can be divided into --> subsystems (Sect. 2.​4).
-- Tactical management of information systems: Deals with specific --> functions, --> application components, or --> physical data processing systems that are introduced, removed, changed, or maintained. Usually, these activities are done in the form of --> projects (Sect. 4.​4).
-- Technical interoperability: Ability of an --> application system to send or receive “bits and bytes” in a reliable and standardized way via respective interfaces and --> protocols (Sect. 3.​7.​1.​1).
-- Terminology: A system of concepts and related terms (Sect. 2.​1).
-- Three-layer graph-based metamodel (3LGM^2): --> Metamodel for modeling (health) --> information systems (Sect. 2.​14).
-- Telemonitoring system: --> Application system supporting --> functions related to the remote monitoring of the patients’ state of health (Sect. 3.​4.​13.​2).
-- Transaction management: Ensures that every update of correct --> data in one or more databases will lead to another state in which the data in these database(s) are still correct (Sect. 3.​9.​1).
-- Transinstitutional health information system (tHIS): --> Information system of a --> health care network (Sect. 2.​6).
-- User interface integration: Condition of an --> information system in which different --> application systems represent --> data and organize their user interfaces in a unified way (Sect. 3.​8.​3).
-- V^1 architecture: See --> homogeneous architecture (Sect. 3.​6.​3).
-- V^n architecture: See --> heterogeneous architecture (Sect. 3.​6.​3).
-- Vendor-neutral archive (VNA): Open platforms supporting storing of image data and other patient-related documents (Sect. 3.​9.​3).
+- Information processing function (short: function): Directive in a --> health care setting on how to use --> data on --> entity types and how to update data on entity types. An information processing function has no definitive beginning or end (Sect. 2.8).
+- Information system: --> Socio-technical subsystem of a setting which comprises all --> data, --> information, and --> knowledge processing as well as the associated human or technical actors in their respective data, information, and knowledge processing roles. Information systems support --> information and knowledge logistics (Sect. 2.5).
+- Infrastructure of an information system: Set of --> components of the --> information system and services which are centrally coordinated and provided for use throughout the --> health care setting, such as --> physical data processing systems and --> application systems (Sect. 2.11).
+- Integration: Union of parts making a whole, which—as opposed to its parts—displays a new quality. Different types of integration on the --> logical tool layer are --> data integration, --> semantic integration, --> user interface integration, --> context integration, --> feature integration, and --> process integration. On the --> physical tool layer, --> physical integration is important (Sect. 3.8).
+- Integrity: See --> data integrity (Sect. 3.5).
+- Inter-layer relationship: Dependencies among --> components of different layers in the --> 3LGM^2. Relationships exist between concepts at the --> domain layer and the --> logical tool layer and between concepts at the logical tool layer and the --> physical tool layer (Sect. 2.14.4).
+- Interoperability: Ability of two --> application systems to exchange --> information with each other and to use the information that has been exchanged. Aspects of interoperability comprise --> technical interoperability, --> syntactic interoperability, --> semantic interoperability, and --> process interoperability (Sect. 3.7).
+- Interoperability standard: Comprises standards for --> technical interoperability (also called --> protocols), --> syntactic interoperability (also called communication standard or message standards), --> semantic interoperability (common information models, --> terminology standards), and --> process interoperability (Sect. 3.7.2).
+- IT governance: Part of the overall management of a --> health care facility. It deals with defining the organizational structures for decision-making for --> information management in such a way that the management of information systems is well integrated with the health care facility’s management and is aligned to its strategic goals (--> strategic alignment) (Sect. 4.6.1).
+- IT risk management: Continuously assesses risks and liabilities of the --> management of information systems (Sect. 5.2.2).
+- IT service: Services provided by --> operational information management that are designed to help users use --> application systems and --> physical data processing tools in a way that is helpful for their professional work (Sect. 4.5).
+- IT service management (ITSM): Activities of --> information management that serve to provide high-quality --> IT services (Sect. 4.5).
+- IT strategy: See --> strategic information management plan (Sect. 4.3.1.2).
+- Key performance indicators (KPI): Set of quantitative and well-defined performance measurements that demonstrate how effectively an organization is achieving key objectives. Can be used for --> benchmarking of --> health information systems (Sect. 4.3.2.1).
+- Knowledge: General --> information about concepts in a certain (scientific or professional) domain (e.g., knowledge about diseases or therapeutic methods) at a certain time (Sect. 2.2).
+- Laboratory information system (LIS): --> Application system supporting --> functions related to the --> information processing of a laboratory unit of a --> health care facility (Sect. 3.4.7).
+- Life situation: Situation in life where --> health information systems may play an important role. Life situations comprise normal living, emergencies, acute diseases, chronic diseases, care, and rehabilitation (Sect. 1.2).
+- Logical tool: See --> application component (Sect. 2.14.2).
+- Logical tool layer: Part of a --> 3LGM². Describes --> application systems or, in a broader sense, --> application components that support information processing functions and their --> communication links among each other (Sect. 2.14.2).
+- Management of information systems (short: information management): Planning the --> information system and its --> architecture, --> directing its construction and the further development of its architecture and its operation on the basis of these plans, and monitoring compliance of its development and operation with the plan specifications. Comprises --> strategic, --> tactical, and --> operational information management (Sect. 2.12).
+- Primary application system: --> Application system that contains the original --> data about a given --> entity type. These data can only be inserted, deleted, or changed in this primary application system (Sect. 3.9.1).
+- Master patient index (MPI): --> Application component providing a correct --> patient identification number (PIN) in an institutional --> health information system and even in --> transinstitutional information systems with several --> patient administration systems (Sect. 3.4.1).
+- Medical documentation and management system (MDMS): --> Application system supporting --> functions related to organizing and documenting patients’ diagnostics and treatment from a medical point of view (Sect. 3.4.2).
+- Message: Set of data on --> entity types (e.g., administrative data of a given patient) that are arranged as a unit in order to be communicated between --> application systems (Sect. 2.14.2.2).
+- Metadata: Data about --> data. Metadata provides information about one or more aspects of data such as purpose of the data, author and time of creation, used standards, or file size (Sect. 2.2).
+- Metamodel: Modeling framework consisting of syntax, semantics, representations of context, and modeling rules. For example: --> 3LGM^2 (Sect. 2.13).
+- Model: Description of what the modeler believes to be relevant about a --> system. Models may be developed based on --> metamodels (Sect. 2.13).
+- Modular architecture: --> Architecture of an information system where the --> information system consists of more than one --> application component. Synonym: AC^n architecture (Sect. 3.6.2).
+- Monitoring: Task of --> strategic management of information systems that continuously audits quality and cost of the information system and assesses whether the strategic information management plan is implemented as intended (Sect. 4.3.2).
+- Monolithic architecture: --> Architecture of an information system where the --> information system consists of only one --> application component which supports most of the --> functions. Synonym: AC1 architecture (Sect. 3.6.2).
+- Non-computer-based application component: Sets of organizational rules for data processing which are implemented by non-computer-based --> physical tools. Specialization of --> application component. Synonym: Paper-based application component (Sect. 2.9).
+- Nursing management and documentation system (NMDS): --> Application system supporting --> functions related to organizing and documenting patients’ diagnostics and treatment from a nursing point of view (Sect. 3.4.2).
+- Object identity: Situation where all objects (--> entities) can be uniquely and correctly identified. In --> health information systems, this is especially important for --> entity types such as patient (--> Patient Identification Number) and case (Case Identification Number) (Sect. 3.5).
+- Open platform: --> Application system that stores patient --> data based on open specifications and open --> information models and provides open Application Programming Interfaces (API) for storing and querying this data (Sect. 3.9.3)
+- Operation management system (OMS): Application system supporting --> functions related to --> information processing of an operating room unit of a --> health care facility (Sect. 3.4.8).
+- Operational management of information systems: Responsible for smooth operation of the --> components of the --> information system in accordance with the --> strategic information management plan. Additionally, it plans, directs, and monitors permanent --> IT services for the users of the information system (Sect. 4.5).
+- Organizational unit: Part of a --> health care facility which can be defined by responsibilities (Sect. 2.14.1).
+- Paper-based application component: See --> non-computer-based application component (Sect. 2.9).
+- Patient administration system (PAS): --> Application system supporting --> functions related to patient administration in --> health care facilities. Synonym: Patient management system (Sect. 3.4.1).
+- Patient data management system (PDMS): --> Application system supporting --> functions related to --> information processing in intensive care units of a --> health care facility (Sect. 3.4.9).
+- Patient identification number (PIN): Unique identification of a patient. Should be used for patient identification in all parts of a --> health information system. One precondition for --> object identify (Sect. 3.2.3.1).
+- Patient portal: --> Application system offered by --> health care facilities that supports patients of this facility to obtain an overview of their health data, organize documents, and actively manage these themselves (Sect. 3.4.13.1).
+- Physical data processing system: Physical entity that is able to receive, store, forward, or purposefully manipulate --> data (Sect. 2.9).
+- Physical integration: Condition of an --> information system in which the necessary physical communication between a set of --> physical data processing systems for each required data exchange is possible (Sect. 3.10.2).
+- Physical interoperability: Ability of --> physical data processing systems to exchange --> data via hardware interfaces. Prerequisite for --> technical interoperability of --> application systems (Sect. 3.10.2).
+- Physical tool: See --> physical data processing system (Sect. 2.9).
+- Physical tool layer: Part of a --> 3LGM² model. Describes --> physical data processing systems and their data transmission links among each other (Sect. 2.14.3).
+- Picture archiving and communication system (PACS): --> Application system supporting the --> functions related to storage, retrieval, management, manipulation, presentation, and communication of large amounts of digital images (Sect. 3.4.6).
+- Planning: Task of --> strategic information management that comprises --> strategic alignment of business goals and strategic information management goals, and the development of both a long-term --> strategic project portfolio and --> annual project portfolios (Sect. 4.3.1).
+- Process integration: Condition of an --> information system in which business processes are effectively supported by a set of interoperating --> application systems (Sect. 3.8.6).
+- Process interoperability: Ability of --> application systems to interoperate in certain organizational contexts, especially in certain processes (Sect. 3.7.1.4).
+- Project: Unique undertaking that is characterized by objectives, by restrictions with regard to available time and resources, and by a specific project organization (Sect. 4.4).
+- Protocol: Standard for --> technical interoperability at the --> physical tool layer for supporting communication between --> computer systems (Sect. 3.7.1.1).
+- Quality: Degree to which a set of inherent characteristics fulfills certain requirements, where "requirements" means needs or expectations (Sect. 5.1).
+- Radiology information system (RIS): --> Application system supporting --> functions related to --> information processing at the radiological unit of a --> health care facility (Sect. 3.4.5).
+- Reference model: A model is called a reference model for a certain class of systems and a certain class of questions or tasks dealing with these systems if it provides model patterns supporting the derivation of more specific models through modifications, limitations, or completions (generic reference models) or direct comparison of different models with the reference model concerning certain quality aspects of the modeled systems (e.g., completeness, styles of system’s architecture) (non-generic reference models) (Sect. 2.13).
+- Referential integrity: Situation where relationships between --> entities are correctly represented. A precondition for referential integrity is --> object identity (Sect. 3.5).
+- Role: Sum of expectations addressed to persons or groups of persons (Sect. 2.8).
+- Semantic integration: Condition of an --> information system in which --> application systems actually use the same system of concepts, for example, based on a common --> terminology, i.e., they interpret --> data the same way (Sect. 3.8.2).
+- Semantic interoperability: Ability of --> application systems to exchange --> information (in the form of --> messages) that can be meaningfully interpreted by both and processed further (Sect. 3.7.1.3).
+- Service: Encapsulated --> feature provided by --> application systems in order to be invoked by other application systems (Sect. 2.9).
+- Service-level agreements (SLA): Contract regarding the provision of an --> IT service, for example, between a department and the IT department (Sect. 5.2.4).
+- Service-oriented architectures (SOA): --> Architectural style of --> health information systems where --> application systems are able to provide or to invoke --> services from other --> application systems (Sect. 3.9.4).
+- Socio-technical system: A (human-made) --> system consisting of both human and technical components (Sect. 2.5).
+- Spaghetti architecture: --> Architecture of an information system where the --> application systems are connected via bidirectional --> communication links. Synonym: CPn architecture (Sect. 3.6.4).
+- Stakeholder: Anyone who has an influence on or specific requirement regarding a --> component of an --> information system, for example, by formulating requirements (Sect. 1.3).
+- Standardized documentation: Documentation where the --> entity types for which --> data are to be recorded, the properties (attributes) of the --> objects of these --> entity types that are to be documented, and the exact value set of these attributes are defined (Sect. 3.2.2).
+- Star architecture: --> Architecture of an information system where the --> application systems communicate via a central application system (e.g., a --> communication server). Synonym: CP1 architecture (Sect. 3.6.4).
+- Strategic alignment: The process that balances and harmonizes the --> business goals and the --> information management strategies to obtain the best result for the --> health care facility. Important task of --> strategic information management (Sect. 4.3.1.1).
+- Strategic information management plan: Long-term planning of the --> information system of a --> health care facility. This plan describes the --> business goals, the --> information management goals, the current state of the information system, the future state of the information system, and the steps to transform the current into the planned information system (Sect. 4.3.1.2).
+- Strategic management of information systems: Deals with the --> information processing as a whole and establishes strategies and principles for the evolution of the --> information system. It depends on and must be aligned to the vision, mission, and strategic --> business goals of the --> health care facility (--> strategic alignment). An important result of strategic management activities is a --> strategic information management plan (Sect. 4.3).
+- Strategic project portfolio: Describes --> projects or groups of projects and their priority, and a rough timeline for their initiation for the coming years. It is typically described in a --> strategic information management plan. Is the basis for the --> annual project portfolio (Sect. 4.3.1.2).
+- Sub-information system: --> Subsystem of an --> information system (Sect. 2.5).
+- Subsystem: Part of a --> system that comprises a subset of --> components and the relationships between them (Sect. 2.4).
+- Synchronous communication: Form of communication in which the sending --> application system will pause from the time that it sends a --> message to the time that it receives the respective answer (Sect. 3.9.2).
+- Syntactic interoperability: Ability of --> application systems to use a predefined structure for the exchanged --> messages (Sect. 3.7.1.2).
+- System: Set of persons, things, events, and their relationships forming an integrated whole. We distinguish between natural systems and artificial (human-made) --> socio-technical systems. A system can be divided into --> subsystems (Sect. 2.4).
+- Tactical management of information systems: Deals with specific --> functions, --> application components, or --> physical data processing systems that are introduced, removed, changed, or maintained. Usually, these activities are done in the form of --> projects (Sect. 4.4).
+- Technical interoperability: Ability of an --> application system to send or receive "bits and bytes" in a reliable and standardized way via respective interfaces and --> protocols (Sect. 3.7.1.1).
+- Terminology: A system of concepts and related terms (Sect. 2.1).
+- Three-layer graph-based metamodel (3LGM^2): --> Metamodel for modeling (health) --> information systems (Sect. 2.14).
+- Telemonitoring system: --> Application system supporting --> functions related to the remote monitoring of the patients’ state of health (Sect. 3.4.13.2).
+- Transaction management: Ensures that every update of correct --> data in one or more databases will lead to another state in which the data in these database(s) are still correct (Sect. 3.9.1).
+- Transinstitutional health information system (tHIS): --> Information system of a --> health care network (Sect. 2.6).
+- User interface integration: Condition of an --> information system in which different --> application systems represent --> data and organize their user interfaces in a unified way (Sect. 3.8.3).
+- V^1 architecture: See --> homogeneous architecture (Sect. 3.6.3).
+- V^n architecture: See --> heterogeneous architecture (Sect. 3.6.3).
+- Vendor-neutral archive (VNA): Open platforms supporting storing of image data and other patient-related documents (Sect. 3.9.3).
