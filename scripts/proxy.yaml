@@ -1,0 +1,53 @@
+apiVersion: ai.sap.com/v1alpha1
+kind: ServingTemplate
+metadata:
+  name: localgpt-1107 # executable ID, must be unique across your SAP AI Core instance, for example use `server-pipeline-yourname-1234`
+  annotations:  
+    scenarios.ai.sap.com/description: "localgpt"
+    scenarios.ai.sap.com/name: "localgpt" # Scenario name should be the use case
+    executables.ai.sap.com/description: "localgpt"
+    executables.ai.sap.com/name: "localgpt" # Executable name should describe the workflow in the use case
+  labels:
+    scenarios.ai.sap.com/id: "localgpt-1107"
+    ai.sap.com/version: "1.0"
+    ext.ai.sap.com/islm_released_version: "true"
+    ext.ai.sap.com/islm_executable_type: "inference"
+    ext.ai.sap.com/islm_inference_type: "online"
+spec:
+  imagePullSecrets:
+  - name: docker-credentials
+  inputs:
+    parameters:
+      - name: OPENAI_API_BASE
+        type: string
+      - name: OPENAI_API_KEY
+        type: string
+      - name: DOCKER_NAMESPACE
+        type: string
+  template:
+    apiVersion: "serving.kserve.io/v1beta1"
+    metadata:
+      annotations: |
+        autoscaling.knative.dev/metric: concurrency   # condition when to scale
+        autoscaling.knative.dev/target: 1
+        autoscaling.knative.dev/targetBurstCapacity: 0
+      labels: |
+        ai.sap.com/resourcePlan: infer.s # computing power
+    spec: |
+      predictor:
+        minReplicas: 1
+        maxReplicas: 1    # how much to scale
+        containers:
+        - name: localgpt
+          image: "https://common.repositories.cloud.sap/ui/native/privategpt/localgpt:latest"
+          ports:
+            - containerPort: 5110    # customizable port
+              protocol: TCP
+          volumeMounts:
+          - name: cache-volume
+            mountPath: /root/.cache
+          volumes:
+          - name: cache-volume
+            hostPath:
+              path: /root/.cache
+              type: Directory
