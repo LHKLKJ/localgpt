@@ -32,7 +32,7 @@ spec:
         autoscaling.knative.dev/target: 1
         autoscaling.knative.dev/targetBurstCapacity: 0
       labels: |
-        ai.sap.com/resourcePlan: infer.s # computing power
+        ai.sap.com/resourcePlan: infer.l # computing power
     spec: |
       predictor:
         minReplicas: 1
