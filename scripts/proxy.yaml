@@ -38,7 +38,7 @@ spec:
         minReplicas: 1
         maxReplicas: 1    # how much to scale
         containers:
-        - name: localgpt
+        - name: kserve-container
           image: "https://common.repositories.cloud.sap/ui/native/privategpt/localgpt:latest"
           ports:
             - containerPort: 5110    # customizable port
