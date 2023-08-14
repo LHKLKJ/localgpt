@@ -39,7 +39,7 @@ spec:
         maxReplicas: 1    # how much to scale
         containers:
         - name: kserve-container
-          image: "https://common.repositories.cloud.sap/ui/native/privategpt/localgpt:latest"
+          image: "docker.io/lhklkj/innochallangeprivategpt:latest"
           ports:
             - containerPort: 5110    # customizable port
               protocol: TCP
